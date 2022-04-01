@@ -1,0 +1,381 @@
+Date,Home,home_goal_count,Away,away_goal_count,Referee,Result
+5/23/2021,Arsenal,2,Brighton,0,J Moss, H 
+5/23/2021,Aston Villa,2,Chelsea,1,S Attwell, H 
+5/23/2021,Fulham,0,Newcastle,2,C Kavanagh, A 
+5/23/2021,Leeds,3,West Brom,1,D Coote, H 
+5/23/2021,Leicester,2,Tottenham,4,A Taylor, A 
+5/23/2021,Liverpool,2,Crystal Palace,0,C Pawson, H 
+5/23/2021,Man City,5,Everton,0,M Oliver, H 
+5/23/2021,Sheffield United,1,Burnley,0,K Friend, H 
+5/23/2021,West Ham,3,Southampton,0,M Atkinson, H 
+5/23/2021,Wolves,1,Man United,2,M Dean, A 
+5/19/2021,Everton,1,Wolves,0,A Madley, H 
+5/19/2021,Newcastle,1,Sheffield United,0,R Jones, H 
+5/19/2021,Tottenham,1,Aston Villa,2,C Pawson, A 
+5/19/2021,Crystal Palace,1,Arsenal,3,A Taylor, A 
+5/19/2021,Burnley,0,Liverpool,3,C Kavanagh, A 
+5/19/2021,West Brom,1,West Ham,3,M Oliver, A 
+5/18/2021,Man United,1,Fulham,1,L Mason, D 
+5/18/2021,Southampton,0,Leeds,2,P Bankes, A 
+5/18/2021,Brighton,3,Man City,2,S Attwell, H 
+5/18/2021,Chelsea,2,Leicester,1,M Dean, H 
+5/16/2021,Crystal Palace,3,Aston Villa,2,D Coote, H 
+5/16/2021,Tottenham,2,Wolves,0,M Atkinson, H 
+5/16/2021,West Brom,1,Liverpool,2,M Dean, A 
+5/16/2021,Everton,0,Sheffield United,1,A Moss, A 
+5/15/2021,Burnley,0,Leeds,4,G Scott, A 
+5/15/2021,Southampton,3,Fulham,1,C Pawson, H 
+5/15/2021,Brighton,1,West Ham,1,A Marriner, D 
+5/14/2021,Newcastle,3,Man City,4,K Friend, A 
+5/13/2021,Aston Villa,0,Everton,0,M Atkinson, D 
+5/13/2021,Man United,2,Liverpool,4,A Taylor, A 
+5/12/2021,Chelsea,0,Arsenal,1,A Marriner, A 
+5/11/2021,Man United,1,Leicester,2,C Pawson, A 
+5/11/2021,Southampton,3,Crystal Palace,1,A Madley, H 
+5/10/2021,Fulham,0,Burnley,2,D Coote, A 
+5/9/2021,Wolves,2,Brighton,1,J Moss, H 
+5/9/2021,Aston Villa,1,Man United,3,C Kavanagh, A 
+5/9/2021,West Ham,0,Everton,1,S Attwell, A 
+5/9/2021,Arsenal,3,West Brom,1,P Bankes, H 
+5/8/2021,Leeds,3,Tottenham,1,M Oliver, H 
+5/8/2021,Sheffield United,0,Crystal Palace,2,S Hooper, A 
+5/8/2021,Man City,1,Chelsea,2,A Taylor, A 
+5/8/2021,Liverpool,2,Southampton,0,K Friend, H 
+5/7/2021,Leicester,2,Newcastle,4,D England, A 
+5/3/2021,West Brom,1,Wolves,1,P Tierney, D 
+5/3/2021,Burnley,1,West Ham,2,A Taylor, A 
+5/2/2021,Newcastle,0,Arsenal,2,M Dean, A 
+5/2/2021,Tottenham,4,Sheffield United,0,A Marriner, H 
+5/1/2021,Crystal Palace,0,Man City,2,D Coote, A 
+5/1/2021,Brighton,2,Leeds,0,C Kavanagh, H 
+5/1/2021,Chelsea,2,Fulham,0,K Friend, H 
+5/1/2021,Everton,1,Aston Villa,2,S Hooper, A 
+4/30/2021,Southampton,1,Leicester,1,R Jones, D 
+4/26/2021,Leicester,2,Crystal Palace,1,G Scott, H 
+4/25/2021,Wolves,0,Burnley,4,D England, A 
+4/25/2021,Leeds,0,Man United,0,C Pawson, D 
+4/25/2021,Aston Villa,2,West Brom,2,S Attwell, D 
+4/24/2021,Liverpool,1,Newcastle,1,A Marriner, D 
+4/24/2021,West Ham,0,Chelsea,1,C Kavanagh, A 
+4/24/2021,Sheffield United,1,Brighton,0,K Friend, H 
+4/23/2021,Arsenal,0,Everton,1,J Moss, A 
+4/22/2021,Leicester,3,West Brom,0,A Madley, H 
+4/21/2021,Tottenham,2,Southampton,1,D Coote, H 
+4/21/2021,Aston Villa,1,Man City,2,P Bankes, A 
+4/20/2021,Chelsea,0,Brighton,0,S Attwell, D 
+4/19/2021,Leeds,1,Liverpool,1,A Taylor, D 
+4/18/2021,Arsenal,1,Fulham,1,C Pawson, D 
+4/18/2021,Man United,3,Burnley,1,J Moss, H 
+4/17/2021,Newcastle,3,West Ham,2,K Friend, H 
+4/17/2021,Wolves,1,Sheffield United,0,R Jones, H 
+4/16/2021,Everton,2,Tottenham,2,M Oliver, D 
+4/12/2021,West Brom,3,Southampton,0,S Hooper, H 
+4/12/2021,Brighton,0,Everton,0,D England, D 
+4/11/2021,Burnley,1,Newcastle,2,A Taylor, A 
+4/11/2021,West Ham,3,Leicester,2,M Dean, H 
+4/11/2021,Tottenham,1,Man United,3,C Kavanagh, A 
+4/11/2021,Sheffield United,0,Arsenal,3,P Bankes, A 
+4/10/2021,Man City,1,Leeds,2,A Marriner, A 
+4/10/2021,Liverpool,2,Aston Villa,1,P Tierney, H 
+4/10/2021,Crystal Palace,1,Chelsea,4,M Oliver, A 
+4/9/2021,Fulham,0,Wolves,1,J Moss, A 
+4/5/2021,Everton,1,Crystal Palace,1,K Friend, D 
+4/5/2021,Wolves,2,West Ham,3,M Oliver, A 
+4/4/2021,Southampton,3,Burnley,2,A Marriner, H 
+4/4/2021,Newcastle,2,Tottenham,2,C Pawson, D 
+4/4/2021,Aston Villa,3,Fulham,1,A Madley, H 
+4/4/2021,Man United,2,Brighton,1,M Dean, H 
+4/3/2021,Chelsea,2,West Brom,5,D Coote, A 
+4/3/2021,Leeds,2,Sheffield United,1,G Scott, H 
+4/3/2021,Leicester,0,Man City,2,A Taylor, A 
+4/3/2021,Arsenal,0,Liverpool,3,S Attwell, A 
+3/21/2021,West Ham,3,Arsenal,3,J Moss, D 
+3/21/2021,Aston Villa,0,Tottenham,2,M Dean, A 
+3/20/2021,Brighton,3,Newcastle,0,A Taylor, H 
+3/19/2021,Fulham,1,Leeds,2,D Coote, A 
+3/15/2021,Wolves,0,Liverpool,1,C Pawson, A 
+3/14/2021,Southampton,1,Brighton,2,S Attwell, A 
+3/14/2021,Leicester,5,Sheffield United,0,P Bankes, H 
+3/14/2021,Arsenal,2,Tottenham,1,M Oliver, H 
+3/14/2021,Man United,1,West Ham,0,M Atkinson, H 
+3/13/2021,Leeds,0,Chelsea,0,K Friend, D 
+3/13/2021,Crystal Palace,1,West Brom,0,S Hooper, H 
+3/13/2021,Everton,1,Burnley,2,J Moss, A 
+3/13/2021,Fulham,0,Man City,3,A Marriner, A 
+3/12/2021,Newcastle,1,Aston Villa,1,P Tierney, D 
+3/10/2021,Man City,5,Southampton,2,J Moss, H 
+3/8/2021,Chelsea,2,Everton,0,D Coote, H 
+3/8/2021,West Ham,2,Leeds,0,M Dean, H 
+3/7/2021,West Brom,0,Newcastle,0,M Atkinson, D 
+3/7/2021,Liverpool,0,Fulham,1,K Friend, A 
+3/7/2021,Man City,0,Man United,2,A Taylor, A 
+3/7/2021,Tottenham,4,Crystal Palace,1,S Attwell, H 
+3/6/2021,Burnley,1,Arsenal,1,A Marriner, D 
+3/6/2021,Sheffield United,0,Southampton,2,P Tierney, A 
+3/6/2021,Aston Villa,0,Wolves,0,A Madley, D 
+3/6/2021,Brighton,1,Leicester,2,M Oliver, A 
+3/4/2021,Fulham,0,Tottenham,1,D Coote, A 
+3/4/2021,West Brom,0,Everton,1,D England, A 
+3/4/2021,Liverpool,0,Chelsea,1,M Atkinson, A 
+3/3/2021,Burnley,1,Leicester,1,A Madley, D 
+3/3/2021,Sheffield United,1,Aston Villa,0,R Jones, H 
+3/3/2021,Crystal Palace,0,Man United,0,A Marriner, D 
+3/2/2021,Man City,4,Wolves,1,C Kavanagh, H 
+3/1/2021,Everton,1,Southampton,0,M Atkinson, H 
+2/28/2021,Crystal Palace,0,Fulham,0,A Taylor, D 
+2/28/2021,Leicester,1,Arsenal,3,P Tierney, A 
+2/28/2021,Tottenham,4,Burnley,0,K Friend, H 
+2/28/2021,Chelsea,0,Man United,0,S Attwell, D 
+2/28/2021,Sheffield United,0,Liverpool,2,J Moss, A 
+2/27/2021,Man City,2,West Ham,1,M Oliver, H 
+2/27/2021,West Brom,1,Brighton,0,L Mason, H 
+2/27/2021,Leeds,0,Aston Villa,1,P Bankes, A 
+2/27/2021,Newcastle,1,Wolves,1,M Dean, D 
+2/23/2021,Leeds,3,Southampton,0,A Marriner, H 
+2/22/2021,Brighton,1,Crystal Palace,2,K Friend, A 
+2/21/2021,West Ham,2,Tottenham,1,C Pawson, H 
+2/21/2021,Aston Villa,1,Leicester,2,M Oliver, A 
+2/21/2021,Arsenal,0,Man City,1,J Moss, A 
+2/21/2021,Man United,3,Newcastle,1,P Tierney, H 
+2/20/2021,Southampton,1,Chelsea,1,A Taylor, D 
+2/20/2021,Burnley,0,West Brom,0,M Dean, D 
+2/20/2021,Liverpool,0,Everton,2,C Kavanagh, A 
+2/20/2021,Fulham,1,Sheffield United,0,M Atkinson, H 
+2/19/2021,Wolves,1,Leeds,0,D Coote, H 
+2/17/2021,Burnley,1,Fulham,1,J Moss, D 
+2/17/2021,Everton,1,Man City,3,A Marriner, A 
+2/15/2021,West Ham,3,Sheffield United,0,S Hooper, H 
+2/15/2021,Chelsea,2,Newcastle,0,P Bankes, H 
+2/14/2021,Southampton,1,Wolves,2,G Scott, A 
+2/14/2021,West Brom,1,Man United,1,C Pawson, D 
+2/14/2021,Arsenal,4,Leeds,2,S Attwell, H 
+2/14/2021,Everton,0,Fulham,2,A Madley, A 
+2/13/2021,Leicester,3,Liverpool,1,A Taylor, H 
+2/13/2021,Crystal Palace,0,Burnley,3,M Oliver, A 
+2/13/2021,Man City,3,Tottenham,0,P Tierney, H 
+2/13/2021,Brighton,0,Aston Villa,0,D England, D 
+2/8/2021,Leeds,2,Crystal Palace,0,A Marriner, H 
+2/7/2021,Tottenham,2,West Brom,0,S Attwell, H 
+2/7/2021,Wolves,0,Leicester,0,M Atkinson, D 
+2/7/2021,Liverpool,1,Man City,4,M Oliver, A 
+2/7/2021,Sheffield United,1,Chelsea,2,K Friend, A 
+2/6/2021,Aston Villa,1,Arsenal,0,C Kavanagh, H 
+2/6/2021,Burnley,1,Brighton,1,A Taylor, D 
+2/6/2021,Newcastle,3,Southampton,2,C Pawson, H 
+2/6/2021,Fulham,0,West Ham,0,M Dean, D 
+2/6/2021,Man United,3,Everton,3,J Moss, D 
+2/4/2021,Tottenham,0,Chelsea,1,A Marriner, A 
+2/3/2021,Burnley,0,Man City,2,M Atkinson, A 
+2/3/2021,Fulham,0,Leicester,2,R Jones, A 
+2/3/2021,Leeds,1,Everton,2,M Oliver, A 
+2/3/2021,Aston Villa,1,West Ham,3,A Madley, A 
+2/3/2021,Liverpool,0,Brighton,1,K Friend, A 
+2/2/2021,Sheffield United,2,West Brom,1,P Tierney, H 
+2/2/2021,Wolves,2,Arsenal,1,C Pawson, H 
+2/2/2021,Man United,9,Southampton,0,M Dean, H 
+2/2/2021,Newcastle,1,Crystal Palace,2,D England, A 
+1/31/2021,Chelsea,2,Burnley,0,G Scott, H 
+1/31/2021,Leicester,1,Leeds,3,C Kavanagh, A 
+1/31/2021,West Ham,1,Liverpool,3,J Moss, A 
+1/31/2021,Brighton,1,Tottenham,0,P Bankes, H 
+1/30/2021,Everton,0,Newcastle,2,S Attwell, A 
+1/30/2021,Crystal Palace,1,Wolves,0,S Hooper, H 
+1/30/2021,Man City,1,Sheffield United,0,D Coote, H 
+1/30/2021,West Brom,2,Fulham,2,A Taylor, D 
+1/30/2021,Arsenal,0,Man United,0,M Oliver, D 
+1/30/2021,Southampton,0,Aston Villa,1,L Mason, A 
+1/28/2021,Tottenham,1,Liverpool,3,M Atkinson, A 
+1/27/2021,Burnley,3,Aston Villa,2,P Tierney, H 
+1/27/2021,Chelsea,0,Wolves,0,A Madley, D 
+1/27/2021,Brighton,0,Fulham,0,C Pawson, D 
+1/27/2021,Everton,1,Leicester,1,M Dean, D 
+1/27/2021,Man United,1,Sheffield United,2,P Bankes, A 
+1/26/2021,Crystal Palace,2,West Ham,3,S Attwell, A 
+1/26/2021,Newcastle,1,Leeds,2,A Taylor, A 
+1/26/2021,Southampton,1,Arsenal,3,K Friend, A 
+1/26/2021,West Brom,0,Man City,5,C Kavanagh, A 
+1/23/2021,Aston Villa,2,Newcastle,0,S Hooper, H 
+1/21/2021,Liverpool,0,Burnley,1,M Dean, A 
+1/20/2021,Man City,2,Aston Villa,0,J Moss, H 
+1/20/2021,Fulham,1,Man United,2,M Atkinson, A 
+1/19/2021,West Ham,2,West Brom,1,G Scott, H 
+1/19/2021,Leicester,2,Chelsea,0,C Pawson, H 
+1/18/2021,Arsenal,3,Newcastle,0,D Coote, H 
+1/17/2021,Sheffield United,1,Tottenham,3,A Marriner, A 
+1/17/2021,Liverpool,0,Man United,0,P Tierney, D 
+1/17/2021,Man City,4,Crystal Palace,0,L Mason, H 
+1/16/2021,Wolves,2,West Brom,3,M Oliver, A 
+1/16/2021,Leeds,0,Brighton,1,K Friend, A 
+1/16/2021,West Ham,1,Burnley,0,C Kavanagh, H 
+1/16/2021,Fulham,0,Chelsea,1,P Bankes, A 
+1/16/2021,Leicester,2,Southampton,0,S Attwell, H 
+1/14/2021,Arsenal,0,Crystal Palace,0,A Marriner, D 
+1/13/2021,Man City,1,Brighton,0,D England, H 
+1/13/2021,Tottenham,1,Fulham,1,P Tierney, D 
+1/12/2021,Sheffield United,1,Newcastle,0,A Madley, H 
+1/12/2021,Burnley,0,Man United,1,K Friend, A 
+1/12/2021,Wolves,1,Everton,2,M Atkinson, A 
+1/4/2021,Southampton,1,Liverpool,0,A Marriner, H 
+1/3/2021,Newcastle,1,Leicester,2,R Jones, A 
+1/3/2021,Chelsea,1,Man City,3,A Taylor, A 
+1/2/2021,Tottenham,3,Leeds,0,D Coote, H 
+1/2/2021,Crystal Palace,2,Sheffield United,0,S Attwell, H 
+1/2/2021,Brighton,3,Wolves,3,A Madley, D 
+1/2/2021,West Brom,0,Arsenal,4,M Atkinson, A 
+1/1/2021,Everton,0,West Ham,1,K Friend, A 
+1/1/2021,Man United,2,Aston Villa,1,M Oliver, H 
+12/30/2020,Newcastle,0,Liverpool,0,P Tierney, D 
+12/29/2020,Brighton,0,Arsenal,1,M Atkinson, A 
+12/29/2020,Burnley,1,Sheffield United,0,C Kavanagh, H 
+12/29/2020,Southampton,0,West Ham,0,A Madley, D 
+12/29/2020,West Brom,0,Leeds,5,L Mason, A 
+12/29/2020,Man United,1,Wolves,0,J Moss, H 
+12/28/2020,Crystal Palace,1,Leicester,1,G Scott, D 
+12/28/2020,Chelsea,1,Aston Villa,1,S Attwell, D 
+12/27/2020,Leeds,1,Burnley,0,R Jones, H 
+12/27/2020,West Ham,2,Brighton,2,S Hooper, D 
+12/27/2020,Liverpool,1,West Brom,1,K Friend, D 
+12/27/2020,Wolves,1,Tottenham,1,P Tierney, D 
+12/26/2020,Leicester,2,Man United,2,M Dean, D 
+12/26/2020,Aston Villa,3,Crystal Palace,0,A Taylor, H 
+12/26/2020,Fulham,0,Southampton,0,D England, D 
+12/26/2020,Arsenal,3,Chelsea,1,M Oliver, H 
+12/26/2020,Man City,2,Newcastle,0,A Marriner, H 
+12/26/2020,Sheffield United,0,Everton,1,D Coote, A 
+12/21/2020,Burnley,2,Wolves,1,L Mason, H 
+12/21/2020,Chelsea,3,West Ham,0,C Kavanagh, H 
+12/20/2020,Brighton,1,Sheffield United,1,P Bankes, D 
+12/20/2020,Tottenham,0,Leicester,2,C Pawson, A 
+12/20/2020,Man United,6,Leeds,2,A Taylor, H 
+12/20/2020,West Brom,0,Aston Villa,3,M Atkinson, A 
+12/19/2020,Crystal Palace,0,Liverpool,7,J Moss, A 
+12/19/2020,Southampton,0,Man City,1,M Dean, A 
+12/19/2020,Everton,2,Arsenal,1,A Marriner, H 
+12/19/2020,Newcastle,1,Fulham,1,G Scott, D 
+12/17/2020,Aston Villa,0,Burnley,0,C Pawson, D 
+12/17/2020,Sheffield United,2,Man United,3,M Oliver, A 
+12/16/2020,Arsenal,1,Southampton,1,P Tierney, D 
+12/16/2020,Leeds,5,Newcastle,2,S Hooper, H 
+12/16/2020,Leicester,0,Everton,2,L Mason, A 
+12/16/2020,Fulham,0,Brighton,0,R Jones, D 
+12/16/2020,Liverpool,2,Tottenham,1,A Taylor, H 
+12/16/2020,West Ham,1,Crystal Palace,1,D Coote, D 
+12/15/2020,Wolves,2,Chelsea,1,S Attwell, H 
+12/15/2020,Man City,1,West Brom,1,P Bankes, D 
+12/13/2020,Southampton,3,Sheffield United,0,A Madley, H 
+12/13/2020,Crystal Palace,1,Tottenham,1,K Friend, D 
+12/13/2020,Fulham,1,Liverpool,1,A Marriner, D 
+12/13/2020,Arsenal,0,Burnley,1,G Scott, A 
+12/13/2020,Leicester,3,Brighton,0,M Atkinson, H 
+12/12/2020,Wolves,0,Aston Villa,1,M Dean, A 
+12/12/2020,Newcastle,2,West Brom,1,D England, H 
+12/12/2020,Man United,0,Man City,0,C Kavanagh, D 
+12/12/2020,Everton,1,Chelsea,0,J Moss, H 
+12/11/2020,Leeds,1,West Ham,2,M Oliver, A 
+12/7/2020,Brighton,1,Southampton,2,D Coote, A 
+12/6/2020,West Brom,1,Crystal Palace,5,P Tierney, A 
+12/6/2020,Sheffield United,1,Leicester,2,S Attwell, A 
+12/6/2020,Tottenham,2,Arsenal,0,M Atkinson, H 
+12/6/2020,Liverpool,4,Wolves,0,C Pawson, H 
+12/5/2020,Burnley,1,Everton,1,A Taylor, D 
+12/5/2020,Man City,2,Fulham,0,J Moss, H 
+12/5/2020,West Ham,1,Man United,3,A Marriner, A 
+12/5/2020,Chelsea,3,Leeds,1,K Friend, H 
+11/30/2020,Leicester,1,Fulham,2,S Hooper, A 
+11/30/2020,West Ham,2,Aston Villa,1,P Bankes, H 
+11/29/2020,Southampton,2,Man United,3,J Moss, A 
+11/29/2020,Chelsea,0,Tottenham,0,P Tierney, D 
+11/29/2020,Arsenal,1,Wolves,2,M Oliver, A 
+11/28/2020,Brighton,1,Liverpool,1,S Attwell, D 
+11/28/2020,Man City,5,Burnley,0,L Mason, H 
+11/28/2020,Everton,0,Leeds,1,C Kavanagh, A 
+11/28/2020,West Brom,1,Sheffield United,0,M Dean, H 
+11/27/2020,Crystal Palace,0,Newcastle,2,G Scott, A 
+11/23/2020,Burnley,1,Crystal Palace,0,K Friend, H 
+11/23/2020,Wolves,1,Southampton,1,A Marriner, D 
+11/22/2020,Fulham,2,Everton,3,A Madley, A 
+11/22/2020,Sheffield United,0,West Ham,1,M Atkinson, A 
+11/22/2020,Leeds,0,Arsenal,0,A Taylor, D 
+11/22/2020,Liverpool,3,Leicester,0,C Kavanagh, H 
+11/21/2020,Newcastle,0,Chelsea,2,C Pawson, A 
+11/21/2020,Aston Villa,1,Brighton,2,M Oliver, A 
+11/21/2020,Tottenham,2,Man City,0,M Dean, H 
+11/21/2020,Man United,1,West Brom,0,D Coote, H 
+11/8/2020,West Brom,0,Tottenham,1,A Madley, A 
+11/8/2020,Leicester,1,Wolves,0,A Taylor, H 
+11/8/2020,Man City,1,Liverpool,1,C Pawson, D 
+11/8/2020,Arsenal,0,Aston Villa,3,M Atkinson, A 
+11/7/2020,Everton,1,Man United,3,P Tierney, A 
+11/7/2020,Crystal Palace,4,Leeds,1,C Kavanagh, H 
+11/7/2020,Chelsea,4,Sheffield United,1,J Moss, H 
+11/7/2020,West Ham,1,Fulham,0,R Jones, H 
+11/6/2020,Brighton,0,Burnley,0,M Dean, D 
+11/6/2020,Southampton,2,Newcastle,0,P Bankes, H 
+11/2/2020,Fulham,2,West Brom,0,S Hooper, H 
+11/2/2020,Leeds,1,Leicester,4,A Marriner, A 
+11/1/2020,Aston Villa,3,Southampton,4,D England, A 
+11/1/2020,Newcastle,2,Everton,1,S Attwell, H 
+11/1/2020,Man United,0,Arsenal,1,M Dean, A 
+11/1/2020,Tottenham,2,Brighton,1,G Scott, H 
+10/31/2020,Sheffield United,0,Man City,1,M Oliver, A 
+10/31/2020,Burnley,0,Chelsea,3,D Coote, A 
+10/31/2020,Liverpool,2,West Ham,1,K Friend, H 
+10/30/2020,Wolves,2,Crystal Palace,0,M Atkinson, H 
+10/26/2020,Brighton,1,West Brom,1,J Moss, D 
+10/26/2020,Burnley,0,Tottenham,1,M Oliver, A 
+10/25/2020,Southampton,2,Everton,0,K Friend, H 
+10/25/2020,Wolves,1,Newcastle,1,L Mason, D 
+10/25/2020,Arsenal,0,Leicester,1,C Pawson, A 
+10/24/2020,West Ham,1,Man City,1,A Taylor, D 
+10/24/2020,Fulham,1,Crystal Palace,2,G Scott, A 
+10/24/2020,Man United,0,Chelsea,0,M Atkinson, D 
+10/24/2020,Liverpool,2,Sheffield United,1,M Dean, H 
+10/23/2020,Aston Villa,0,Leeds,3,P Tierney, A 
+10/19/2020,West Brom,0,Burnley,0,A Taylor, D 
+10/19/2020,Leeds,0,Wolves,1,D Coote, A 
+10/18/2020,Sheffield United,1,Fulham,1,A Marriner, D 
+10/18/2020,Crystal Palace,1,Brighton,1,S Attwell, D 
+10/18/2020,Tottenham,3,West Ham,3,P Tierney, D 
+10/18/2020,Leicester,0,Aston Villa,1,J Moss, A 
+10/17/2020,Everton,2,Liverpool,2,M Oliver, D 
+10/17/2020,Chelsea,3,Southampton,3,P Bankes, D 
+10/17/2020,Man City,1,Arsenal,0,C Kavanagh, H 
+10/17/2020,Newcastle,1,Man United,4,C Pawson, A 
+10/4/2020,Leicester,0,West Ham,3,A Madley, A 
+10/4/2020,Southampton,2,West Brom,0,C Kavanagh, H 
+10/4/2020,Arsenal,2,Sheffield United,1,L Mason, H 
+10/4/2020,Wolves,1,Fulham,0,D England, H 
+10/4/2020,Man United,1,Tottenham,6,A Taylor, A 
+10/4/2020,Aston Villa,7,Liverpool,2,M Atkinson, H 
+10/3/2020,Chelsea,4,Crystal Palace,0,M Oliver, H 
+10/3/2020,Everton,4,Brighton,2,S Hooper, H 
+10/3/2020,Leeds,1,Man City,1,M Dean, D 
+10/3/2020,Newcastle,3,Burnley,1,D Coote, H 
+9/28/2020,Fulham,0,Aston Villa,3,S Attwell, A 
+9/28/2020,Liverpool,3,Arsenal,1,C Pawson, H 
+9/27/2020,Sheffield United,0,Leeds,1,P Tierney, A 
+9/27/2020,Tottenham,1,Newcastle,1,P Bankes, D 
+9/27/2020,Man City,2,Leicester,5,M Oliver, A 
+9/27/2020,West Ham,4,Wolves,0,M Atkinson, H 
+9/26/2020,Brighton,2,Man United,3,C Kavanagh, A 
+9/26/2020,Crystal Palace,1,Everton,2,K Friend, A 
+9/26/2020,West Brom,3,Chelsea,3,J Moss, D 
+9/26/2020,Burnley,0,Southampton,1,A Marriner, A 
+9/21/2020,Aston Villa,1,Sheffield United,0,G Scott, H 
+9/21/2020,Wolves,1,Man City,3,A Marriner, A 
+9/20/2020,Southampton,2,Tottenham,5,D Coote, A 
+9/20/2020,Newcastle,0,Brighton,3,K Friend, A 
+9/20/2020,Chelsea,0,Liverpool,2,P Tierney, A 
+9/20/2020,Leicester,4,Burnley,2,L Mason, H 
+9/19/2020,Everton,5,West Brom,2,M Dean, H 
+9/19/2020,Leeds,4,Fulham,3,A Taylor, H 
+9/19/2020,Man United,1,Crystal Palace,3,M Atkinson, A 
+9/19/2020,Arsenal,2,West Ham,1,M Oliver, H 
+9/14/2020,Brighton,1,Chelsea,3,C Pawson, A 
+9/14/2020,Sheffield United,0,Wolves,2,M Dean, A 
+9/13/2020,West Brom,0,Leicester,3,A Taylor, A 
+9/13/2020,Tottenham,0,Everton,1,M Atkinson, A 
+9/12/2020,Fulham,0,Arsenal,3,C Kavanagh, A 
+9/12/2020,Crystal Palace,1,Southampton,0,J Moss, H 
+9/12/2020,Liverpool,4,Leeds,3,M Oliver, H 
+9/12/2020,West Ham,0,Newcastle,2,S Attwell, A 

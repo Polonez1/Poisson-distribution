@@ -1,0 +1,2302 @@
+League,home_team,home_elo,home_goal,away_goal,home_win,draw,away_win,away_team,away_elo,elo_diff
+Premier League ,Tottenham Hotspur,2059,3,1,44,28,27,West Ham United,2076,-17
+Premier League ,Leicester City,2028,2,1,62,22,16,Brentford FC,1890,138
+Championship ,Queens Park Rangers,1713,1,3,67,20,13,Peterborough United,1534,179
+FA Cup ,Southampton FC,1976,1,4,15,21,64,Manchester City,2327,-351
+FA Cup ,Nottingham Forest,1818,0,1,7,14,80,Liverpool FC,2344,-526
+FA Cup ,Crystal Palace,1981,4,0,53,26,21,Everton FC,1923,58
+Premier League ,Aston Villa,2006,0,1,32,29,39,Arsenal FC,2141,-135
+Championship ,Huddersfield Town,1757,0,3,41,29,30,AFC Bournemouth,1806,-49
+Championship ,Stoke City,1699,2,0,41,29,30,Millwall FC,1747,-48
+Championship ,Hull City,1665,1,3,35,29,35,Luton Town,1765,-100
+Championship ,Sheffield United,1800,2,0,66,20,14,Barnsley FC,1629,171
+Championship ,Bristol City,1592,2,2,31,29,40,West Bromwich Albion,1732,-140
+Championship ,Derby County,1635,1,1,40,29,31,Coventry City,1687,-52
+Championship ,Reading FC,1591,1,0,32,29,39,Blackburn Rovers,1727,-136
+Championship ,Swansea City,1716,0,0,60,23,17,Birmingham City,1599,117
+League One ,Rotherham United,1707,0,3,70,19,12,Shrewsbury Town,1500,207
+League One ,Oxford United,1628,1,1,52,26,22,Ipswich Town,1576,52
+League One ,Portsmouth FC,1585,0,0,45,28,27,Wycombe Wanderers,1598,-13
+League One ,Cambridge United,1481,0,1,30,29,42,Milton Keynes Dons,1640,-159
+League One ,Plymouth Argyle,1618,4,0,62,22,16,Accrington Stanley,1486,132
+League One ,Lincoln City,1483,0,0,33,29,38,Sunderland AFC,1611,-128
+League One ,Gillingham FC,1413,0,0,25,27,48,Sheffield Wednesday,1627,-214
+League One ,Wigan Athletic,1657,4,1,76,16,9,Morecambe FC,1382,275
+League One ,Charlton Athletic,1506,2,0,50,27,24,Burton Albion,1477,29
+League One ,Cheltenham Town,1495,3,1,57,24,19,AFC Wimbledon,1405,90
+League One ,Crewe Alexandra,1356,0,1,29,29,42,Bolton Wanderers,1518,-162
+League One ,Fleetwood Town,1435,0,0,53,25,21,Doncaster Rovers,1374,61
+League Two ,Northampton Town,1430,0,1,45,28,27,Bristol Rovers,1442,-12
+League Two ,Sutton United,1372,1,1,42,29,29,Tranmere Rovers,1409,-37
+League Two ,Bradford City,1317,1,2,33,29,37,Port Vale FC,1437,-120
+League Two ,Crawley Town,1315,3,1,33,29,38,Swindon Town,1438,-123
+League Two ,Oldham Athletic,1259,0,2,26,28,46,Exeter City,1460,-201
+League Two ,Leyton Orient,1304,3,1,40,29,31,Rochdale AFC,1363,-59
+League Two ,Harrogate Town,1303,1,1,45,28,27,Walsall FC,1313,-10
+League Two ,Barrow AFC,1295,1,2,46,28,26,Carlisle United,1296,-1
+League Two ,Salford City,1423,5,1,75,16,9,Scunthorpe United,1158,265
+National League ,Bromley FC,1219,0,0,38,29,33,Wrexham AFC,1294,-75
+National League ,Boreham Wood,1251,0,0,49,27,24,Grimsby Town,1224,27
+National League ,Halifax Town,1266,2,0,55,25,20,Torquay United,1191,75
+National League ,Dagenham & Redbridge,1202,1,2,41,29,30,Notts County,1244,-42
+National League ,Stockport County,1366,4,2,79,14,7,Wealdstone FC,1035,331
+National League ,Chesterfield FC,1281,1,0,71,18,11,Maidenhead United,1059,222
+National League ,Solihull Moors,1243,5,3,64,21,15,Eastleigh FC,1089,154
+National League ,Southend United,1182,2,0,58,24,18,Altrincham FC,1084,98
+National League ,Barnet FC,1057,0,2,50,27,24,Woking FC,1029,28
+National League ,Dover Athletic,904,0,2,26,28,46,Yeovil Town,1102,-198
+National League ,Aldershot Town,1043,0,3,62,22,16,Kings Lynn,911,132
+FA Cup ,Middlesbrough FC,1766,0,2,7,14,79,Chelsea FC,2280,-514
+Premier League ,Wolverhampton Wanderers,2011,2,3,59,23,18,Leeds United,1900,111
+League Two ,Newport County,1433,2,3,58,23,18,Hartlepool United,1330,103
+Premier League ,Everton FC,1915,1,0,43,29,29,Newcastle United,1946,-31
+Europa Conf. League ,Stade Rennes,1980,2,1,40,29,31,Leicester City,2037,-57
+Europa League ,West Ham United,2060,2,0,40,29,31,Sevilla FC,2112,-52
+Premier League ,Arsenal FC,2153,0,2,28,28,44,Liverpool FC,2332,-179
+Premier League ,Brighton & Hove Albion,1933,0,2,34,29,36,Tottenham Hotspur,2044,-111
+Championship ,Nottingham Forest,1810,3,1,57,24,19,Queens Park Rangers,1721,89
+Championship ,Millwall FC,1735,2,0,42,29,29,Huddersfield Town,1769,-34
+Championship ,Blackpool FC,1690,0,0,34,29,36,Sheffield United,1800,-110
+Championship ,Luton Town,1753,4,0,49,27,24,Preston North End,1732,21
+Championship ,Cardiff City,1699,2,1,45,28,27,Stoke City,1706,-7
+Championship ,Coventry City,1709,0,2,54,25,21,Hull City,1643,66
+Championship ,Peterborough United,1542,2,3,29,29,42,Swansea City,1708,-166
+Champions League ,Lille OSC,2037,1,2,23,26,50,Chelsea FC,2271,-234
+Championship ,West Bromwich Albion,1719,1,0,27,28,46,Fulham FC,1913,-194
+Championship ,AFC Bournemouth,1813,1,1,72,18,11,Reading FC,1584,229
+Championship ,Birmingham City,1612,0,2,31,29,40,Middlesbrough FC,1753,-141
+Championship ,Blackburn Rovers,1719,3,1,55,25,20,Derby County,1643,76
+Championship ,Barnsley FC,1619,2,0,48,27,25,Bristol City,1602,17
+League One ,Plymouth Argyle,1611,1,0,48,27,24,Portsmouth FC,1592,19
+League One ,Rotherham United,1704,2,1,71,18,11,Lincoln City,1486,218
+League One ,Sheffield Wednesday,1633,1,1,64,21,15,Accrington Stanley,1480,153
+League One ,Wycombe Wanderers,1594,1,0,64,21,15,Fleetwood Town,1439,155
+League One ,Crewe Alexandra,1364,0,2,19,24,56,Wigan Athletic,1649,-285
+League One ,Charlton Athletic,1501,1,0,56,24,20,Gillingham FC,1418,83
+League One ,Shrewsbury Town,1490,5,0,58,24,18,Morecambe FC,1392,98
+League Two ,Port Vale FC,1425,3,1,44,28,28,Mansfield Town,1444,-19
+League Two ,Swindon Town,1432,2,1,53,26,22,Sutton United,1378,54
+League Two ,Rochdale AFC,1364,1,1,40,29,31,Salford City,1422,-58
+League Two ,Exeter City,1456,2,1,62,22,16,Crawley Town,1319,137
+League Two ,Forest Green Rovers,1459,1,1,65,21,14,Leyton Orient,1298,161
+League Two ,Carlisle United,1305,1,2,33,29,37,Newport County,1424,-119
+League Two ,Bristol Rovers,1438,1,0,63,21,15,Colchester United,1290,148
+League Two ,Tranmere Rovers,1402,2,0,57,24,19,Harrogate Town,1310,92
+League Two ,Stevenage FC,1267,1,2,30,29,41,Northampton Town,1422,-155
+League Two ,Hartlepool United,1351,0,2,53,26,22,Bradford City,1296,55
+League Two ,Walsall FC,1307,2,1,51,26,23,Oldham Athletic,1265,42
+League Two ,Scunthorpe United,1168,0,1,34,29,37,Barrow AFC,1285,-117
+National League ,Stockport County,1358,3,0,59,23,18,Notts County,1252,106
+National League ,Halifax Town,1260,1,0,50,27,23,Bromley FC,1225,35
+National League ,Southend United,1206,0,3,50,27,24,Dagenham & Redbridge,1178,28
+National League ,Barnet FC,1044,1,0,24,27,49,Boreham Wood,1264,-220
+Champions League ,Manchester United,2147,0,1,49,27,24,Atlético Madrid,2123,24
+Premier League ,Crystal Palace,1975,0,0,15,20,65,Manchester City,2333,-358
+Premier League ,Chelsea FC,2269,1,0,79,14,7,Newcastle United,1948,321
+Premier League ,Arsenal FC,2146,2,0,58,24,18,Leicester City,2044,102
+Premier League ,West Ham United,2054,2,1,51,26,23,Aston Villa,2012,42
+Premier League ,Everton FC,1926,0,1,38,29,33,Wolverhampton Wanderers,2000,-74
+Premier League ,Southampton FC,1993,1,2,67,20,13,Watford FC,1815,178
+Premier League ,Leeds United,1894,2,1,53,25,21,Norwich City,1835,59
+Championship ,Luton Town,1767,1,2,53,25,21,Queens Park Rangers,1707,60
+Premier League ,Brighton & Hove Albion,1938,0,2,13,19,68,Liverpool FC,2327,-389
+Premier League ,Manchester United,2142,3,2,57,24,19,Tottenham Hotspur,2049,93
+Premier League ,Brentford FC,1878,2,0,43,28,28,Burnley FC,1902,-24
+Championship ,Barnsley FC,1614,1,1,18,23,59,Fulham FC,1918,-304
+Championship ,Coventry City,1690,4,1,32,29,38,Sheffield United,1819,-129
+Championship ,Millwall FC,1737,0,0,45,28,27,Middlesbrough FC,1751,-14
+Championship ,AFC Bournemouth,1807,2,0,65,21,15,Derby County,1649,158
+Championship ,Cardiff City,1701,0,0,43,29,29,Preston North End,1730,-29
+Championship ,Blackpool FC,1682,1,0,42,29,29,Swansea City,1716,-34
+Championship ,Nottingham Forest,1805,4,0,70,18,11,Reading FC,1589,216
+Championship ,Blackburn Rovers,1735,0,1,64,21,15,Bristol City,1586,149
+Championship ,Birmingham City,1614,0,0,43,29,28,Hull City,1641,-27
+Championship ,Peterborough United,1540,2,2,29,29,43,Stoke City,1708,-168
+League One ,Wycombe Wanderers,1594,0,0,34,29,36,Rotherham United,1704,-110
+League One ,Milton Keynes Dons,1643,1,1,46,28,26,Wigan Athletic,1646,-3
+League One ,Ipswich Town,1579,0,0,45,28,27,Portsmouth FC,1589,-10
+League One ,Bolton Wanderers,1529,0,1,38,29,32,Plymouth Argyle,1600,-71
+League One ,Shrewsbury Town,1499,1,2,33,29,37,Oxford United,1619,-120
+League One ,Sheffield Wednesday,1624,6,0,62,22,16,Cambridge United,1490,134
+League One ,Accrington Stanley,1472,2,1,42,29,29,Charlton Athletic,1509,-37
+League One ,Sunderland AFC,1607,2,0,73,17,10,Crewe Alexandra,1368,239
+League One ,Burton Albion,1470,3,2,49,27,24,Fleetwood Town,1446,24
+League One ,AFC Wimbledon,1422,0,2,41,29,30,Lincoln City,1469,-47
+League One ,Morecambe FC,1408,1,3,38,29,32,Cheltenham Town,1479,-71
+League One ,Doncaster Rovers,1386,0,1,44,28,28,Gillingham FC,1406,-20
+League Two ,Exeter City,1460,0,0,51,26,23,Salford City,1418,42
+League Two ,Forest Green Rovers,1485,0,2,70,18,11,Bradford City,1270,215
+League Two ,Bristol Rovers,1430,3,0,59,23,18,Harrogate Town,1318,112
+League Two ,Port Vale FC,1416,4,1,57,24,19,Crawley Town,1328,88
+League Two ,Carlisle United,1294,2,1,31,29,39,Northampton Town,1433,-139
+League Two ,Swindon Town,1428,1,0,65,21,15,Oldham Athletic,1269,159
+League Two ,Stevenage FC,1281,0,2,32,29,38,Newport County,1410,-129
+League Two ,Walsall FC,1297,1,0,36,29,34,Sutton United,1388,-91
+League Two ,Rochdale AFC,1369,0,0,57,24,19,Barrow AFC,1280,89
+League Two ,Hartlepool United,1355,0,0,53,25,21,Leyton Orient,1294,61
+League Two ,Scunthorpe United,1183,1,3,36,29,34,Colchester United,1275,-92
+National League ,Boreham Wood,1266,1,1,45,28,27,Chesterfield FC,1279,-13
+National League ,Yeovil Town,1117,0,2,36,29,34,Grimsby Town,1209,-92
+National League ,Altrincham FC,1069,4,0,42,29,29,Eastleigh FC,1104,-35
+National League ,Halifax Town,1259,2,1,81,13,6,Dover Athletic,905,354
+National League ,Kings Lynn,917,2,3,21,25,54,Torquay United,1185,-268
+National League ,Woking FC,1020,1,0,41,29,30,Maidenhead United,1068,-48
+National League ,Wealdstone FC,1030,3,2,57,24,19,Weymouth FC,939,91
+Championship ,West Bromwich Albion,1720,2,2,41,29,30,Huddersfield Town,1768,-48
+League Two ,Tranmere Rovers,1393,3,2,39,29,31,Mansfield Town,1453,-60
+Premier League ,Norwich City,1839,1,3,11,17,72,Chelsea FC,2265,-426
+Premier League ,Southampton FC,2008,1,2,55,25,20,Newcastle United,1933,75
+Premier League ,Leeds United,1913,0,3,37,29,33,Aston Villa,1993,-80
+Premier League ,Wolverhampton Wanderers,1993,4,0,66,20,14,Watford FC,1822,171
+Europa Conf. League ,Leicester City,2036,2,0,55,25,20,Stade Rennes,1966,70
+Europa League ,Sevilla FC,2108,1,0,52,26,22,West Ham United,2062,46
+Champions League ,Manchester City,2345,0,0,77,15,8,Sporting CP,2051,294
+Championship ,Swansea City,1731,1,5,28,28,43,Fulham FC,1903,-172
+Championship ,Sheffield United,1808,4,1,52,26,22,Middlesbrough FC,1762,46
+Championship ,Blackburn Rovers,1738,0,0,47,28,26,Millwall FC,1734,4
+Championship ,Coventry City,1701,0,1,40,29,31,Luton Town,1756,-55
+Championship ,AFC Bournemouth,1815,1,1,76,15,8,Peterborough United,1532,283
+Championship ,Barnsley FC,1614,1,1,36,29,35,Stoke City,1708,-94
+League One ,Milton Keynes Dons,1637,3,1,64,21,15,Cheltenham Town,1485,152
+League One ,Sunderland AFC,1601,3,1,64,21,15,Fleetwood Town,1452,149
+League One ,Ipswich Town,1572,2,0,58,24,19,Lincoln City,1476,96
+League One ,Plymouth Argyle,1595,2,0,66,20,14,AFC Wimbledon,1427,168
+League One ,Crewe Alexandra,1379,1,3,26,28,46,Portsmouth FC,1578,-199
+League One ,Bolton Wanderers,1535,1,1,62,22,16,Morecambe FC,1402,133
+League Two ,Exeter City,1450,3,1,48,27,25,Swindon Town,1438,12
+League Two ,Crawley Town,1339,1,2,37,29,33,Bristol Rovers,1419,-80
+National League ,Wrexham AFC,1284,4,2,47,28,25,Boreham Wood,1276,8
+National League ,Solihull Moors,1246,3,3,46,28,26,Notts County,1249,-3
+National League ,Southend United,1198,1,0,44,28,28,Grimsby Town,1217,-19
+National League ,Yeovil Town,1139,0,3,44,28,27,Dagenham & Redbridge,1156,-17
+National League ,Maidenhead United,1090,0,2,56,24,20,Wealdstone FC,1008,82
+National League ,Altrincham FC,1060,5,0,59,23,18,Weymouth FC,948,112
+National League ,Kings Lynn,917,0,0,35,29,36,Woking FC,1020,-103
+Champions League ,Liverpool FC,2352,0,1,66,20,14,Inter,2178,174
+Premier League ,Tottenham Hotspur,2040,5,0,59,23,18,Everton FC,1935,105
+FA Cup ,Nottingham Forest,1798,2,1,49,27,24,Huddersfield Town,1775,23
+Premier League ,Manchester City,2340,4,1,68,19,13,Manchester United,2147,193
+Premier League ,Watford FC,1827,2,3,17,23,60,Arsenal FC,2141,-314
+Premier League ,Liverpool FC,2350,1,0,76,15,8,West Ham United,2064,286
+Premier League ,Burnley FC,1909,0,4,15,21,64,Chelsea FC,2258,-349
+Premier League ,Aston Villa,1977,4,0,41,29,30,Southampton FC,2024,-47
+Premier League ,Wolverhampton Wanderers,2014,0,2,53,25,21,Crystal Palace,1954,60
+Premier League ,Leicester City,2032,1,0,60,23,17,Leeds United,1917,115
+Premier League ,Newcastle United,1925,2,1,44,28,28,Brighton & Hove Albion,1946,-21
+Premier League ,Norwich City,1858,1,3,46,28,26,Brentford FC,1859,-1
+Championship ,Fulham FC,1897,2,0,64,21,15,Blackburn Rovers,1744,153
+Championship ,Preston North End,1720,2,1,35,29,36,AFC Bournemouth,1825,-105
+Championship ,Middlesbrough FC,1755,2,1,45,28,27,Luton Town,1763,-8
+Championship ,Swansea City,1721,3,1,47,27,25,Coventry City,1711,10
+Championship ,Queens Park Rangers,1721,1,2,50,27,23,Cardiff City,1687,34
+Championship ,Stoke City,1722,0,1,53,26,22,Blackpool FC,1668,54
+Championship ,Hull City,1658,0,2,41,29,30,West Bromwich Albion,1703,-45
+Championship ,Reading FC,1598,0,1,33,29,38,Millwall FC,1725,-127
+Championship ,Derby County,1639,2,0,48,27,25,Barnsley FC,1624,15
+Championship ,Bristol City,1599,1,2,46,28,26,Birmingham City,1601,-2
+League One ,Rotherham United,1719,1,2,58,24,19,Milton Keynes Dons,1622,97
+League One ,Charlton Athletic,1509,0,0,36,29,34,Sunderland AFC,1601,-92
+League One ,Lincoln City,1457,3,1,27,28,45,Sheffield Wednesday,1643,-186
+League One ,Oxford United,1612,4,1,62,22,16,Burton Albion,1477,135
+League One ,Wigan Athletic,1643,1,0,70,18,12,AFC Wimbledon,1430,213
+League One ,Portsmouth FC,1568,4,0,56,24,19,Accrington Stanley,1482,86
+League One ,Fleetwood Town,1468,0,2,37,29,34,Ipswich Town,1556,-88
+League One ,Plymouth Argyle,1590,2,0,67,20,13,Morecambe FC,1407,183
+League One ,Cambridge United,1493,0,0,46,28,26,Shrewsbury Town,1496,-3
+League One ,Crewe Alexandra,1390,1,3,27,28,46,Wycombe Wanderers,1583,-193
+League One ,Gillingham FC,1424,0,3,36,29,35,Bolton Wanderers,1517,-93
+League One ,Cheltenham Town,1475,4,0,56,25,20,Doncaster Rovers,1396,79
+League Two ,Salford City,1419,1,1,39,29,32,Forest Green Rovers,1484,-65
+League Two ,Newport County,1402,1,0,43,28,28,Bristol Rovers,1427,-25
+League Two ,Northampton Town,1427,3,2,50,27,24,Tranmere Rovers,1399,28
+League Two ,Sutton United,1375,3,0,45,28,27,Rochdale AFC,1382,-7
+League Two ,Bradford City,1279,1,2,30,29,41,Swindon Town,1429,-150
+League Two ,Colchester United,1263,1,0,29,29,42,Port Vale FC,1428,-165
+League Two ,Harrogate Town,1330,1,2,45,28,27,Hartlepool United,1343,-13
+League Two ,Barrow AFC,1282,1,1,45,28,27,Walsall FC,1295,-13
+League Two ,Leyton Orient,1297,2,2,48,27,24,Stevenage FC,1278,19
+League Two ,Oldham Athletic,1282,1,2,46,28,26,Carlisle United,1281,1
+League Two ,Crawley Town,1346,0,0,66,20,14,Scunthorpe United,1176,170
+National League ,Chesterfield FC,1284,2,2,57,24,19,Southend United,1193,91
+National League ,Torquay United,1187,0,0,42,29,29,Bromley FC,1223,-36
+National League ,Aldershot Town,1050,0,2,18,23,58,Stockport County,1351,-301
+National League ,Notts County,1255,1,1,61,23,17,Yeovil Town,1133,122
+National League ,Grimsby Town,1214,1,0,68,19,13,Woking FC,1023,191
+National League ,Weymouth FC,955,0,2,19,23,58,Halifax Town,1252,-297
+National League ,Solihull Moors,1255,2,2,80,13,6,Kings Lynn,908,347
+National League ,Maidenhead United,1094,0,0,51,26,23,Altrincham FC,1056,38
+National League ,Eastleigh FC,1095,4,1,55,25,20,Wealdstone FC,1017,78
+National League ,Barnet FC,1035,6,0,60,23,17,Dover Athletic,914,121
+Championship ,Sheffield United,1811,1,1,48,27,25,Nottingham Forest,1795,16
+Championship ,Huddersfield Town,1771,3,0,72,17,10,Peterborough United,1536,235
+League Two ,Mansfield Town,1445,2,1,45,28,27,Exeter City,1458,-13
+FA Cup ,Everton FC,1935,2,0,90,9,1,Boreham Wood,1276,659
+FA Cup ,Liverpool FC,2349,2,1,87,10,3,Norwich City,1859,490
+FA Cup ,Southampton FC,2010,3,1,39,29,32,West Ham United,2078,-68
+FA Cup ,Luton Town,1765,2,3,8,15,77,Chelsea FC,2256,-491
+Premier League ,Burnley FC,1924,0,2,36,29,35,Leicester City,2017,-93
+Championship ,Cardiff City,1681,1,0,50,26,23,Derby County,1645,36
+League One ,Shrewsbury Town,1492,0,0,24,26,50,Rotherham United,1723,-231
+League One ,Portsmouth FC,1559,3,2,39,29,32,Oxford United,1621,-62
+League One ,Sheffield Wednesday,1636,5,2,64,21,15,Burton Albion,1484,152
+League One ,Wigan Athletic,1638,2,0,65,20,14,Fleetwood Town,1473,165
+League One ,Wycombe Wanderers,1574,3,0,55,25,20,Cambridge United,1502,72
+League Two ,Newport County,1403,1,1,37,29,33,Forest Green Rovers,1483,-80
+League Two ,Harrogate Town,1330,1,1,35,29,35,Port Vale FC,1428,-98
+League Two ,Northampton Town,1433,1,1,63,21,15,Walsall FC,1289,144
+League Two ,Bristol Rovers,1423,1,0,62,22,16,Barrow AFC,1286,137
+League Two ,Carlisle United,1264,2,0,32,29,39,Rochdale AFC,1399,-135
+League Two ,Crawley Town,1351,2,2,55,25,20,Oldham Athletic,1277,74
+League Two ,Colchester United,1265,2,2,43,29,29,Leyton Orient,1295,-30
+National League ,Chesterfield FC,1273,3,1,47,28,25,Notts County,1266,7
+National League ,Dagenham & Redbridge,1145,3,0,51,26,23,Maidenhead United,1105,40
+National League ,Wrexham AFC,1282,2,0,82,13,5,Kings Lynn,910,372
+FA Cup ,Peterborough United,1537,0,2,2,9,90,Manchester City,2339,-802
+FA Cup ,Middlesbrough FC,1739,1,0,17,23,60,Tottenham Hotspur,2056,-317
+FA Cup ,Crystal Palace,1951,2,1,71,18,11,Stoke City,1725,226
+Championship ,West Bromwich Albion,1723,0,2,49,27,24,Swansea City,1701,22
+Premier League ,West Ham United,2072,1,0,52,26,22,Wolverhampton Wanderers,2020,52
+League Cup ,Chelsea FC,2254,0,0,26,28,46,Liverpool FC,2351,-97
+Premier League ,Everton FC,1938,0,1,12,19,69,Manchester City,2336,-398
+Premier League ,Manchester United,2155,0,0,80,14,6,Watford FC,1819,336
+Premier League ,Leeds United,1936,0,4,35,29,35,Tottenham Hotspur,2037,-101
+Premier League ,Brighton & Hove Albion,1966,0,2,47,27,25,Aston Villa,1957,9
+Premier League ,Crystal Palace,1955,1,1,50,27,23,Burnley FC,1920,35
+Premier League ,Brentford FC,1877,0,2,43,29,29,Newcastle United,1907,-30
+Championship ,Cardiff City,1688,0,1,26,28,47,Fulham FC,1890,-202
+Championship ,AFC Bournemouth,1820,2,1,57,24,19,Stoke City,1730,90
+Championship ,Millwall FC,1715,1,0,35,29,36,Sheffield United,1821,-106
+Championship ,Blackburn Rovers,1737,1,0,47,27,25,Queens Park Rangers,1728,9
+Championship ,Coventry City,1714,1,1,46,28,26,Preston North End,1717,-3
+Championship ,Luton Town,1760,1,0,59,23,18,Derby County,1650,110
+Championship ,Nottingham Forest,1790,2,0,67,20,13,Bristol City,1604,186
+Championship ,Birmingham City,1614,0,2,31,29,40,Huddersfield Town,1758,-144
+Championship ,Barnsley FC,1613,3,2,32,29,39,Middlesbrough FC,1750,-137
+Championship ,Blackpool FC,1658,4,1,52,26,22,Reading FC,1608,50
+Championship ,Peterborough United,1555,0,3,37,29,34,Hull City,1640,-85
+League One ,Plymouth Argyle,1600,0,1,34,29,37,Rotherham United,1713,-113
+League One ,Wigan Athletic,1664,0,3,57,24,19,Sunderland AFC,1575,89
+League One ,Sheffield Wednesday,1629,2,0,60,23,17,Charlton Athletic,1516,113
+League One ,Milton Keynes Dons,1614,2,0,57,24,19,Bolton Wanderers,1525,89
+League One ,Oxford United,1614,4,2,59,23,18,Cambridge United,1509,105
+League One ,Accrington Stanley,1472,3,2,34,29,37,Wycombe Wanderers,1584,-112
+League One ,Portsmouth FC,1564,3,3,58,24,19,Fleetwood Town,1468,96
+League One ,Burton Albion,1504,0,2,50,27,23,Shrewsbury Town,1472,32
+League One ,Morecambe FC,1406,1,1,30,29,41,Ipswich Town,1557,-151
+League One ,Lincoln City,1479,0,2,55,25,20,Gillingham FC,1402,77
+League One ,Cheltenham Town,1491,1,2,60,23,17,Crewe Alexandra,1374,117
+League One ,AFC Wimbledon,1434,2,2,51,26,23,Doncaster Rovers,1392,42
+League Two ,Bristol Rovers,1425,1,1,43,29,29,Exeter City,1456,-31
+League Two ,Swindon Town,1443,1,2,51,26,23,Salford City,1405,38
+League Two ,Crawley Town,1339,2,1,30,29,41,Forest Green Rovers,1495,-156
+League Two ,Rochdale AFC,1390,1,0,40,29,31,Northampton Town,1442,-52
+League Two ,Newport County,1391,4,2,44,28,28,Tranmere Rovers,1411,-20
+League Two ,Bradford City,1292,0,2,31,29,40,Mansfield Town,1432,-140
+League Two ,Port Vale FC,1422,2,0,62,22,16,Stevenage FC,1284,138
+League Two ,Walsall FC,1275,3,1,37,29,33,Hartlepool United,1357,-82
+League Two ,Barrow AFC,1288,0,0,42,29,30,Harrogate Town,1328,-40
+League Two ,Leyton Orient,1309,0,1,53,25,21,Carlisle United,1250,59
+League Two ,Sutton United,1369,4,1,68,19,13,Scunthorpe United,1182,187
+League Two ,Colchester United,1268,1,1,46,28,27,Oldham Athletic,1274,-6
+National League ,Southend United,1194,1,1,39,29,31,Solihull Moors,1254,-60
+National League ,Chesterfield FC,1269,1,0,62,22,16,Yeovil Town,1137,132
+National League ,Boreham Wood,1273,1,0,66,20,14,Eastleigh FC,1098,175
+National League ,Wrexham AFC,1277,4,1,71,18,11,Aldershot Town,1055,222
+National League ,Stockport County,1350,1,0,83,12,5,Weymouth FC,956,394
+National League ,Woking FC,1033,0,2,24,27,49,Notts County,1256,-223
+National League ,Halifax Town,1249,1,0,70,18,12,Barnet FC,1038,211
+National League ,Wealdstone FC,1015,1,1,28,28,43,Torquay United,1189,-174
+National League ,Altrincham FC,1037,3,0,33,29,38,Dagenham & Redbridge,1164,-127
+National League ,Dover Athletic,922,1,3,20,24,56,Grimsby Town,1206,-284
+National League ,Kings Lynn,924,1,4,29,29,43,Maidenhead United,1091,-167
+Premier League ,Southampton FC,2004,2,0,62,22,16,Norwich City,1865,139
+Premier League ,Arsenal FC,2136,2,1,59,23,18,Wolverhampton Wanderers,2025,111
+Europa Conf. League ,Randers FC,1730,1,3,20,24,56,Leicester City,2009,-279
+Premier League ,Liverpool FC,2349,6,0,84,12,4,Leeds United,1938,411
+Premier League ,Burnley FC,1909,1,0,31,29,39,Tottenham Hotspur,2048,-139
+Premier League ,Watford FC,1836,1,4,35,29,35,Crystal Palace,1938,-102
+Championship ,Sheffield United,1816,1,0,55,25,20,Blackburn Rovers,1742,74
+Championship ,Stoke City,1743,1,2,46,28,26,Luton Town,1747,-4
+Championship ,Huddersfield Town,1752,2,1,53,26,21,Cardiff City,1694,58
+Championship ,Fulham FC,1888,2,1,79,14,7,Peterborough United,1557,331
+Championship ,Queens Park Rangers,1722,2,1,53,26,21,Blackpool FC,1664,58
+Championship ,Derby County,1662,1,2,42,29,30,Millwall FC,1703,-41
+Champions League ,Atlético Madrid,2098,1,1,40,29,31,Manchester United,2153,-55
+Championship ,Preston North End,1718,0,0,38,29,32,Nottingham Forest,1789,-71
+Championship ,Middlesbrough FC,1743,2,1,48,27,25,West Bromwich Albion,1730,13
+Championship ,Bristol City,1614,1,2,36,29,34,Coventry City,1704,-90
+Championship ,Hull City,1662,0,2,55,25,20,Barnsley FC,1591,71
+Championship ,Reading FC,1600,2,1,44,28,28,Birmingham City,1622,-22
+League One ,Wycombe Wanderers,1601,1,3,41,29,30,Wigan Athletic,1647,-46
+League One ,Charlton Athletic,1532,0,2,39,29,32,Milton Keynes Dons,1598,-66
+League One ,Rotherham United,1710,2,0,77,15,8,Morecambe FC,1409,301
+League One ,Cambridge United,1493,2,0,33,29,38,Plymouth Argyle,1616,-123
+League One ,Sunderland AFC,1580,1,1,56,25,20,Burton Albion,1499,81
+League One ,Ipswich Town,1562,0,0,55,25,20,Cheltenham Town,1486,76
+League One ,Shrewsbury Town,1483,1,2,38,29,32,Portsmouth FC,1553,-70
+League One ,Bolton Wanderers,1515,3,1,49,27,24,Lincoln City,1489,26
+League One ,Crewe Alexandra,1380,0,1,24,27,50,Oxford United,1608,-228
+League One ,Doncaster Rovers,1377,2,0,34,29,36,Accrington Stanley,1487,-110
+League One ,Gillingham FC,1404,0,0,43,29,28,AFC Wimbledon,1432,-28
+League Two ,Rochdale AFC,1392,1,1,43,29,28,Port Vale FC,1420,-28
+League Two ,Leyton Orient,1325,0,2,37,29,34,Bristol Rovers,1409,-84
+League Two ,Swindon Town,1435,5,0,64,21,15,Walsall FC,1283,152
+League Two ,Colchester United,1279,1,2,39,29,32,Hartlepool United,1346,-67
+League Two ,Scunthorpe United,1177,0,0,21,25,55,Northampton Town,1447,-270
+League Two ,Bradford City,1311,1,3,46,28,26,Harrogate Town,1309,2
+National League ,Chesterfield FC,1290,0,2,50,27,23,Wrexham AFC,1256,34
+National League ,Notts County,1259,1,1,48,27,25,Halifax Town,1246,13
+National League ,Torquay United,1189,0,0,37,29,34,Boreham Wood,1273,-84
+National League ,Eastleigh FC,1098,1,1,36,29,35,Southend United,1194,-96
+National League ,Solihull Moors,1251,2,1,72,17,11,Wealdstone FC,1018,233
+National League ,Maidenhead United,1093,1,1,41,29,30,Yeovil Town,1135,-42
+National League ,Dagenham & Redbridge,1170,1,1,63,22,16,Woking FC,1027,143
+National League ,Weymouth FC,951,2,2,20,24,56,Bromley FC,1228,-277
+National League ,Aldershot Town,1061,0,0,63,21,15,Dover Athletic,916,145
+National League ,Barnet FC,1044,0,0,61,22,17,Kings Lynn,918,126
+Champions League ,Chelsea FC,2248,2,0,70,18,12,Lille OSC,2034,214
+Premier League ,Leeds United,1949,2,4,27,28,46,Manchester United,2142,-193
+Premier League ,Wolverhampton Wanderers,2018,2,1,46,28,26,Leicester City,2016,2
+Premier League ,Manchester City,2354,2,3,79,14,7,Tottenham Hotspur,2030,324
+Premier League ,Liverpool FC,2348,3,1,86,11,3,Norwich City,1866,482
+Premier League ,Crystal Palace,1943,0,1,18,23,58,Chelsea FC,2243,-300
+Premier League ,Arsenal FC,2134,2,1,74,17,10,Brentford FC,1879,255
+Premier League ,West Ham United,2079,1,1,67,20,13,Newcastle United,1900,179
+Premier League ,Southampton FC,1995,2,0,52,26,22,Everton FC,1947,48
+Premier League ,Brighton & Hove Albion,1993,0,3,59,23,18,Burnley FC,1882,111
+Premier League ,Aston Villa,1973,0,1,64,21,15,Watford FC,1820,153
+Championship ,Fulham FC,1905,1,2,66,20,14,Huddersfield Town,1735,170
+Championship ,Sheffield United,1807,4,0,58,24,19,Swansea City,1710,97
+Championship ,Luton Town,1736,2,0,46,28,26,West Bromwich Albion,1741,-5
+Championship ,Queens Park Rangers,1726,1,1,54,25,21,Hull City,1658,68
+Championship ,Stoke City,1749,2,2,62,22,16,Birmingham City,1616,133
+Championship ,Cardiff City,1698,1,1,51,26,23,Blackpool FC,1660,38
+Championship ,Bristol City,1602,2,1,30,29,41,Middlesbrough FC,1755,-153
+Championship ,Preston North End,1734,2,3,64,21,15,Reading FC,1584,150
+Championship ,Coventry City,1699,1,0,58,23,18,Barnsley FC,1596,103
+Championship ,Derby County,1657,1,0,57,24,19,Peterborough United,1562,95
+League One ,Sunderland AFC,1593,1,2,47,28,25,Milton Keynes Dons,1585,8
+League One ,Charlton Athletic,1554,0,4,43,29,29,Oxford United,1586,-32
+League One ,Wycombe Wanderers,1607,5,5,61,22,17,Cheltenham Town,1480,127
+League One ,Ipswich Town,1551,3,0,51,26,23,Burton Albion,1510,41
+League One ,Gillingham FC,1415,0,2,27,28,45,Plymouth Argyle,1605,-190
+League One ,Doncaster Rovers,1387,1,3,23,26,50,Sheffield Wednesday,1619,-232
+League One ,Cambridge United,1482,2,0,44,28,27,Accrington Stanley,1498,-16
+League One ,Bolton Wanderers,1504,4,0,53,25,21,AFC Wimbledon,1443,61
+League Two ,Tranmere Rovers,1414,1,1,46,28,26,Port Vale FC,1417,-3
+League Two ,Newport County,1393,1,1,42,29,29,Mansfield Town,1430,-37
+League Two ,Forest Green Rovers,1513,0,1,73,17,10,Walsall FC,1265,248
+League Two ,Northampton Town,1440,3,0,64,21,15,Colchester United,1286,154
+League Two ,Hartlepool United,1348,1,1,44,28,28,Sutton United,1367,-19
+League Two ,Stevenage FC,1304,0,4,37,29,34,Bristol Rovers,1389,-85
+League Two ,Carlisle United,1265,0,3,30,29,41,Swindon Town,1420,-155
+League Two ,Oldham Athletic,1261,2,0,39,29,32,Bradford City,1324,-63
+League Two ,Scunthorpe United,1184,1,2,26,28,46,Rochdale AFC,1385,-201
+National League ,Chesterfield FC,1305,2,3,54,25,21,Solihull Moors,1236,69
+National League ,Stockport County,1348,1,0,79,14,7,Woking FC,1029,319
+National League ,Maidenhead United,1073,2,0,24,27,49,Boreham Wood,1293,-220
+National League ,Notts County,1253,2,0,64,21,15,Eastleigh FC,1104,149
+National League ,Wealdstone FC,1025,1,2,24,27,49,Wrexham AFC,1249,-224
+National League ,Torquay United,1195,2,2,64,21,15,Barnet FC,1038,157
+League One ,Rotherham United,1715,1,1,55,25,20,Wigan Athletic,1642,73
+Europa Conf. League ,Leicester City,2012,4,1,75,16,9,Randers FC,1749,263
+Championship ,Peterborough United,1564,0,0,44,28,28,Reading FC,1582,-18
+Champions League ,Inter,2233,0,2,36,29,34,Liverpool FC,2325,-92
+Premier League ,Manchester United,2136,2,0,62,22,16,Brighton & Hove Albion,1999,137
+Championship ,Sheffield United,1813,0,0,65,21,14,Hull City,1652,161
+Championship ,Millwall FC,1690,2,0,41,29,30,Queens Park Rangers,1739,-49
+Championship ,Cardiff City,1686,2,0,43,28,28,Coventry City,1711,-25
+League One ,Wigan Athletic,1639,2,0,74,16,10,Crewe Alexandra,1383,256
+League One ,Burton Albion,1498,3,1,44,28,28,Bolton Wanderers,1516,-18
+League One ,Lincoln City,1505,0,1,62,22,16,Doncaster Rovers,1371,134
+League Two ,Exeter City,1452,4,3,62,22,16,Harrogate Town,1313,139
+League Two ,Hartlepool United,1338,1,0,37,29,34,Tranmere Rovers,1424,-86
+League Two ,Bristol Rovers,1378,2,0,46,28,26,Sutton United,1378,0
+National League ,Bromley FC,1243,1,3,36,29,34,Stockport County,1333,-90
+National League ,Boreham Wood,1289,2,0,73,17,10,Altrincham FC,1041,248
+National League ,Weymouth FC,939,1,0,28,28,44,Eastleigh FC,1116,-177
+Champions League ,Sporting CP,2084,0,5,22,26,53,Manchester City,2336,-252
+Championship ,West Bromwich Albion,1744,0,0,47,28,26,Blackburn Rovers,1739,5
+Premier League ,Burnley FC,1884,0,1,10,17,73,Liverpool FC,2323,-439
+Premier League ,Leicester City,2013,2,2,39,29,32,West Ham United,2078,-65
+Premier League ,Tottenham Hotspur,2051,0,2,53,26,22,Wolverhampton Wanderers,1997,54
+Premier League ,Newcastle United,1890,1,0,36,29,35,Aston Villa,1983,-93
+Championship ,Swansea City,1703,3,1,57,24,19,Bristol City,1609,94
+League One ,Sheffield Wednesday,1636,0,2,39,29,32,Rotherham United,1698,-62
+Premier League ,Norwich City,1870,0,4,9,16,75,Manchester City,2332,-462
+Premier League ,Manchester United,2142,1,1,64,21,15,Southampton FC,1989,153
+Premier League ,Everton FC,1933,3,0,43,29,29,Leeds United,1963,-30
+Premier League ,Brentford FC,1880,0,0,39,29,32,Crystal Palace,1942,-62
+Premier League ,Watford FC,1833,0,2,30,29,41,Brighton & Hove Albion,1986,-153
+Championship ,Hull City,1658,0,1,23,26,51,Fulham FC,1899,-241
+Championship ,Huddersfield Town,1736,0,0,38,29,33,Sheffield United,1812,-76
+Championship ,Nottingham Forest,1793,2,2,52,26,22,Stoke City,1745,48
+Championship ,Blackpool FC,1669,1,2,31,29,40,AFC Bournemouth,1811,-142
+Championship ,Middlesbrough FC,1746,4,1,56,25,20,Derby County,1666,80
+Championship ,Millwall FC,1683,2,1,45,28,27,Cardiff City,1693,-10
+Championship ,Birmingham City,1596,3,0,30,29,42,Luton Town,1756,-160
+Championship ,Barnsley FC,1584,1,0,29,29,43,Queens Park Rangers,1751,-167
+Championship ,Peterborough United,1572,0,1,30,29,41,Preston North End,1726,-154
+Championship ,Reading FC,1592,2,3,34,29,36,Coventry City,1701,-109
+League One ,Wigan Athletic,1634,2,1,55,25,20,Charlton Athletic,1559,75
+League One ,Milton Keynes Dons,1589,0,0,51,26,23,Ipswich Town,1547,42
+League One ,Lincoln City,1505,1,1,35,29,35,Wycombe Wanderers,1607,-102
+League One ,Oxford United,1601,2,3,58,24,18,Bolton Wanderers,1501,100
+League One ,Plymouth Argyle,1600,1,0,59,23,18,Shrewsbury Town,1488,112
+League One ,AFC Wimbledon,1441,1,1,30,29,41,Sunderland AFC,1595,-154
+League One ,Burton Albion,1501,2,2,49,27,24,Cambridge United,1479,22
+League One ,Cheltenham Town,1469,2,0,45,28,27,Fleetwood Town,1479,-10
+League One ,Portsmouth FC,1546,4,0,66,20,14,Doncaster Rovers,1378,168
+League One ,Accrington Stanley,1489,4,1,58,24,19,Crewe Alexandra,1392,97
+League One ,Morecambe FC,1412,1,1,46,28,26,Gillingham FC,1412,0
+League Two ,Sutton United,1377,1,1,32,29,39,Forest Green Rovers,1514,-137
+League Two ,Port Vale FC,1419,0,0,44,28,28,Northampton Town,1438,-19
+League Two ,Bristol Rovers,1379,0,0,41,29,30,Mansfield Town,1429,-50
+League Two ,Bradford City,1334,0,1,34,29,36,Exeter City,1442,-108
+League Two ,Leyton Orient,1342,0,2,41,29,30,Salford City,1388,-46
+League Two ,Rochdale AFC,1390,3,3,56,24,20,Harrogate Town,1308,82
+League Two ,Walsall FC,1253,1,0,28,28,44,Tranmere Rovers,1436,-183
+League Two ,Crawley Town,1353,0,1,50,27,24,Hartlepool United,1324,29
+League Two ,Newport County,1399,3,3,63,21,15,Oldham Athletic,1255,144
+League Two ,Swindon Town,1415,3,0,71,18,11,Scunthorpe United,1189,226
+League Two ,Barrow AFC,1291,0,0,45,28,27,Stevenage FC,1301,-10
+League Two ,Colchester United,1290,2,2,50,27,24,Carlisle United,1261,29
+National League ,Grimsby Town,1200,3,1,62,22,16,Aldershot Town,1067,133
+National League ,Eastleigh FC,1118,0,0,44,28,27,Yeovil Town,1133,-15
+National League ,Weymouth FC,932,1,1,13,19,67,Chesterfield FC,1312,-380
+National League ,Woking FC,1038,2,3,31,29,40,Southend United,1185,-147
+National League ,Dover Athletic,924,1,3,21,25,54,Torquay United,1187,-263
+National League ,Barnet FC,1059,1,3,53,26,22,Wealdstone FC,1004,55
+National League ,Kings Lynn,928,0,1,35,29,36,Altrincham FC,1031,-103
+Premier League ,Liverpool FC,2320,2,0,78,15,8,Leicester City,2016,304
+Premier League ,Wolverhampton Wanderers,2006,0,1,33,29,37,Arsenal FC,2125,-119
+Premier League ,Manchester City,2331,2,0,85,11,4,Brentford FC,1881,450
+Premier League ,Tottenham Hotspur,2066,2,3,57,24,19,Southampton FC,1974,92
+Premier League ,Aston Villa,1987,3,3,50,27,24,Leeds United,1959,28
+Premier League ,Norwich City,1871,1,1,38,29,32,Crystal Palace,1941,-70
+Championship ,Sheffield United,1803,2,0,52,26,22,West Bromwich Albion,1753,50
+Championship ,Blackburn Rovers,1758,0,2,44,28,27,Nottingham Forest,1774,-16
+Championship ,Queens Park Rangers,1754,2,2,48,27,25,Middlesbrough FC,1743,11
+Championship ,Preston North End,1729,0,0,46,28,26,Huddersfield Town,1733,-4
+Championship ,AFC Bournemouth,1807,3,1,70,19,12,Birmingham City,1600,207
+Championship ,Cardiff City,1684,4,0,58,23,18,Peterborough United,1581,103
+Championship ,Bristol City,1602,2,1,47,28,26,Reading FC,1599,3
+Premier League ,Burnley FC,1880,1,1,21,25,54,Manchester United,2146,-266
+Premier League ,West Ham United,2076,1,0,73,17,10,Watford FC,1835,241
+Premier League ,Newcastle United,1876,3,1,38,29,32,Everton FC,1947,-71
+Championship ,Fulham FC,1894,3,0,69,19,12,Millwall FC,1688,206
+Championship ,Stoke City,1733,3,0,48,27,25,Swansea City,1715,18
+Championship ,Coventry City,1705,1,1,51,26,23,Blackpool FC,1665,40
+Championship ,Luton Town,1752,2,1,65,21,14,Barnsley FC,1588,164
+Championship ,Derby County,1655,3,1,45,28,27,Hull City,1669,-14
+League One ,Sheffield Wednesday,1628,1,0,45,28,27,Wigan Athletic,1642,-14
+League One ,AFC Wimbledon,1447,0,1,22,26,52,Rotherham United,1692,-245
+League One ,Wycombe Wanderers,1613,0,0,62,22,16,Shrewsbury Town,1482,131
+League One ,Accrington Stanley,1472,2,0,31,29,40,Oxford United,1618,-146
+League One ,Fleetwood Town,1479,1,1,34,29,36,Milton Keynes Dons,1589,-110
+League One ,Cheltenham Town,1458,2,1,31,29,40,Sunderland AFC,1606,-148
+League One ,Bolton Wanderers,1492,2,1,38,29,33,Charlton Athletic,1568,-76
+League One ,Portsmouth FC,1540,2,1,50,27,23,Burton Albion,1507,33
+League One ,Crewe Alexandra,1406,1,4,28,28,44,Plymouth Argyle,1586,-180
+League One ,Doncaster Rovers,1386,0,1,30,29,41,Ipswich Town,1539,-153
+League One ,Lincoln City,1500,2,1,56,24,20,Morecambe FC,1417,83
+League One ,Gillingham FC,1402,1,0,37,29,34,Cambridge United,1489,-87
+League Two ,Forest Green Rovers,1509,2,1,60,23,17,Rochdale AFC,1395,114
+League Two ,Tranmere Rovers,1423,3,0,46,28,26,Swindon Town,1428,-5
+League Two ,Northampton Town,1432,1,0,49,27,24,Newport County,1405,27
+League Two ,Exeter City,1437,1,0,57,24,19,Leyton Orient,1347,90
+League Two ,Sutton United,1380,0,0,46,28,26,Salford City,1385,-5
+League Two ,Mansfield Town,1425,2,1,62,22,16,Colchester United,1294,131
+League Two ,Carlisle United,1275,1,3,32,29,38,Port Vale FC,1405,-130
+League Two ,Harrogate Town,1327,1,3,45,28,27,Crawley Town,1334,-7
+League Two ,Stevenage FC,1314,0,1,45,28,27,Bradford City,1321,-7
+League Two ,Oldham Athletic,1244,2,1,31,29,40,Bristol Rovers,1390,-146
+League Two ,Hartlepool United,1314,3,1,48,27,25,Barrow AFC,1301,13
+League Two ,Scunthorpe United,1179,1,0,37,29,34,Walsall FC,1263,-84
+National League ,Stockport County,1337,2,2,50,27,24,Chesterfield FC,1308,29
+National League ,Southend United,1171,2,0,37,29,34,Bromley FC,1257,-86
+National League ,Notts County,1246,6,1,67,20,13,Barnet FC,1066,180
+National League ,Wealdstone FC,993,2,1,30,29,41,Yeovil Town,1144,-151
+National League ,Grimsby Town,1208,0,0,77,15,8,Kings Lynn,920,288
+FA Cup ,Liverpool FC,2320,3,1,90,9,1,Cardiff City,1684,636
+FA Cup ,Nottingham Forest,1748,4,1,19,24,58,Leicester City,2042,-294
+FA Cup ,AFC Bournemouth,1827,0,1,88,10,2,Boreham Wood,1269,558
+Premier League ,Burnley FC,1884,0,0,52,26,22,Watford FC,1831,53
+Championship ,Swansea City,1706,1,0,39,29,31,Blackburn Rovers,1767,-61
+Championship ,Hull City,1681,0,1,42,29,29,Preston North End,1717,-36
+Championship ,Blackpool FC,1656,3,1,52,26,22,Bristol City,1611,45
+League One ,Rotherham United,1689,1,0,70,18,12,Accrington Stanley,1475,214
+League One ,Oxford United,1612,3,2,54,25,21,Portsmouth FC,1546,66
+League One ,Burton Albion,1522,0,2,36,29,34,Sheffield Wednesday,1613,-91
+League One ,Milton Keynes Dons,1584,2,1,56,25,20,Lincoln City,1505,79
+League One ,Charlton Athletic,1563,3,2,59,23,18,AFC Wimbledon,1452,111
+League One ,Sunderland AFC,1624,1,2,74,16,10,Doncaster Rovers,1368,256
+League One ,Shrewsbury Town,1485,1,1,47,27,25,Fleetwood Town,1476,9
+League One ,Ipswich Town,1535,1,0,61,22,16,Gillingham FC,1406,129
+League One ,Morecambe FC,1418,1,1,38,29,33,Bolton Wanderers,1491,-73
+League Two ,Forest Green Rovers,1501,2,0,57,24,19,Newport County,1413,88
+League Two ,Swindon Town,1441,1,2,48,27,25,Exeter City,1424,17
+League Two ,Sutton United,1383,1,1,46,28,26,Bristol Rovers,1387,-4
+League Two ,Barrow AFC,1300,1,1,33,29,38,Tranmere Rovers,1424,-124
+League Two ,Walsall FC,1271,0,1,30,29,41,Northampton Town,1424,-153
+League Two ,Crawley Town,1337,2,2,49,27,24,Stevenage FC,1311,26
+League Two ,Harrogate Town,1315,2,0,44,28,28,Bradford City,1333,-18
+League Two ,Leyton Orient,1362,0,1,56,24,20,Colchester United,1279,83
+League Two ,Scunthorpe United,1191,0,1,42,29,30,Oldham Athletic,1232,-41
+National League ,Chesterfield FC,1304,2,1,61,22,16,Dagenham & Redbridge,1174,130
+National League ,Notts County,1260,1,2,54,25,21,Grimsby Town,1194,66
+National League ,Torquay United,1178,1,0,37,29,33,Wrexham AFC,1258,-80
+National League ,Yeovil Town,1144,0,0,36,29,34,Solihull Moors,1236,-92
+National League ,Stockport County,1336,1,0,84,12,4,Dover Athletic,925,411
+National League ,Maidenhead United,1075,2,2,42,29,30,Eastleigh FC,1116,-41
+National League ,Aldershot Town,1088,1,3,51,26,23,Barnet FC,1045,43
+National League ,Altrincham FC,1034,2,2,46,28,26,Woking FC,1035,-1
+National League ,Kings Lynn,905,3,0,41,29,30,Weymouth FC,947,-42
+FA Cup ,Manchester City,2329,4,1,85,11,4,Fulham FC,1896,433
+FA Cup ,Tottenham Hotspur,2058,3,1,54,25,21,Brighton & Hove Albion,1994,64
+FA Cup ,Wolverhampton Wanderers,2022,0,1,66,20,14,Norwich City,1855,167
+FA Cup ,Chelsea FC,2243,2,1,90,9,1,Plymouth Argyle,1586,657
+FA Cup ,Everton FC,1936,4,1,51,26,22,Brentford FC,1892,44
+FA Cup ,Southampton FC,1972,2,1,75,16,9,Coventry City,1707,265
+FA Cup ,Stoke City,1725,2,0,55,25,20,Wigan Athletic,1650,75
+FA Cup ,Peterborough United,1561,2,0,25,27,48,Queens Park Rangers,1774,-213
+FA Cup ,Huddersfield Town,1729,1,0,62,22,16,Barnsley FC,1592,137
+FA Cup ,Crystal Palace,1941,2,0,90,9,1,Hartlepool United,1314,627
+FA Cup ,Cambridge United,1500,0,3,23,26,51,Luton Town,1741,-241
+FA Cup ,Kidderminster Harriers,1115,1,2,1,8,92,West Ham United,2076,-961
+Championship ,Birmingham City,1608,1,2,27,28,45,Sheffield United,1795,-187
+FA Cup ,Manchester United,2155,1,1,84,12,4,Middlesbrough FC,1734,421
+Championship ,Huddersfield Town,1720,2,0,53,26,22,Derby County,1664,56
+Championship ,Barnsley FC,1603,0,1,38,29,32,Cardiff City,1673,-70
+Championship ,Swansea City,1719,0,1,45,28,27,Luton Town,1728,-9
+Championship ,Millwall FC,1690,0,0,43,28,28,Preston North End,1715,-25
+League One ,Wigan Athletic,1654,1,1,52,26,22,Oxford United,1608,46
+League One ,Doncaster Rovers,1377,0,5,18,23,59,Rotherham United,1680,-303
+League One ,Sheffield Wednesday,1608,2,0,67,20,13,Morecambe FC,1423,185
+League One ,Bolton Wanderers,1479,2,0,42,29,29,Cambridge United,1512,-33
+League One ,AFC Wimbledon,1455,2,2,46,28,26,Cheltenham Town,1455,0
+League One ,Gillingham FC,1398,1,0,44,28,27,Crewe Alexandra,1414,-16
+League Two ,Port Vale FC,1405,1,1,36,29,35,Forest Green Rovers,1501,-96
+League Two ,Swindon Town,1447,1,1,60,23,17,Crawley Town,1331,116
+League Two ,Harrogate Town,1315,0,0,34,29,36,Mansfield Town,1425,-110
+League Two ,Tranmere Rovers,1419,1,0,58,23,18,Stevenage FC,1316,103
+League Two ,Northampton Town,1440,0,1,64,21,15,Barrow AFC,1284,156
+League Two ,Bradford City,1335,1,1,43,28,28,Leyton Orient,1360,-25
+League Two ,Colchester United,1279,1,1,34,29,37,Rochdale AFC,1395,-116
+League Two ,Salford City,1380,2,1,58,24,18,Carlisle United,1280,100
+National League ,Southend United,1167,2,1,60,23,17,Barnet FC,1049,118
+National League ,Yeovil Town,1151,1,1,70,18,12,Weymouth FC,940,211
+League One ,Portsmouth FC,1559,1,2,47,27,25,Charlton Athletic,1550,9
+Championship ,Cardiff City,1663,2,1,36,29,35,Nottingham Forest,1758,-95
+Championship ,Derby County,1668,2,2,54,25,21,Birmingham City,1604,64
+Championship ,Fulham FC,1904,1,1,74,16,10,Blackpool FC,1648,256
+Championship ,Luton Town,1730,0,0,42,29,29,Blackburn Rovers,1765,-35
+Championship ,Millwall FC,1675,2,0,36,29,35,West Bromwich Albion,1768,-93
+Championship ,Middlesbrough FC,1727,1,0,48,27,25,Coventry City,1714,13
+Championship ,Barnsley FC,1610,0,1,25,27,48,AFC Bournemouth,1820,-210
+Championship ,Hull City,1668,2,0,39,29,32,Swansea City,1732,-64
+Championship ,Queens Park Rangers,1767,4,0,65,21,14,Reading FC,1606,161
+Championship ,Peterborough United,1571,0,2,25,27,48,Sheffield United,1785,-214
+Championship ,Preston North End,1720,2,2,60,23,17,Bristol City,1606,114
+League One ,Wycombe Wanderers,1627,0,1,53,26,21,Milton Keynes Dons,1570,57
+League One ,Sheffield Wednesday,1602,1,0,53,25,21,Ipswich Town,1541,61
+League One ,Cheltenham Town,1452,0,0,26,27,47,Wigan Athletic,1657,-205
+League One ,Bolton Wanderers,1452,6,0,26,28,46,Sunderland AFC,1651,-199
+League One ,Crewe Alexandra,1423,0,2,22,26,52,Rotherham United,1671,-248
+League One ,Lincoln City,1518,1,2,47,27,25,Burton Albion,1509,9
+League One ,Gillingham FC,1414,2,7,28,28,44,Oxford United,1592,-178
+League One ,Fleetwood Town,1478,1,1,43,29,29,Cambridge United,1510,-32
+League One ,Doncaster Rovers,1388,1,3,27,28,45,Plymouth Argyle,1575,-187
+League One ,AFC Wimbledon,1457,1,1,43,29,28,Shrewsbury Town,1483,-26
+League One ,Accrington Stanley,1479,2,2,53,25,21,Morecambe FC,1419,60
+League Two ,Tranmere Rovers,1441,0,4,42,29,29,Forest Green Rovers,1479,-38
+League Two ,Northampton Town,1434,1,0,52,26,22,Salford City,1386,48
+League Two ,Mansfield Town,1416,2,0,52,26,22,Leyton Orient,1369,47
+League Two ,Exeter City,1430,0,0,61,23,17,Hartlepool United,1308,122
+League Two ,Colchester United,1277,1,1,28,28,43,Swindon Town,1449,-172
+League Two ,Newport County,1409,2,1,60,23,17,Barrow AFC,1288,121
+League Two ,Bradford City,1349,1,2,50,27,23,Crawley Town,1317,32
+League Two ,Carlisle United,1296,0,2,38,29,32,Sutton United,1367,-71
+League Two ,Bristol Rovers,1382,1,0,59,23,18,Walsall FC,1276,106
+League Two ,Stevenage FC,1302,3,0,43,29,28,Harrogate Town,1329,-27
+League Two ,Oldham Athletic,1230,0,0,29,29,43,Rochdale AFC,1397,-167
+League Two ,Port Vale FC,1402,1,0,70,19,12,Scunthorpe United,1194,208
+National League ,Bromley FC,1249,1,0,44,28,28,Notts County,1268,-19
+National League ,Dagenham & Redbridge,1192,1,3,42,29,29,Halifax Town,1228,-36
+National League ,Eastleigh FC,1124,0,1,28,28,43,Chesterfield FC,1296,-172
+National League ,Barnet FC,1060,0,5,21,25,54,Stockport County,1325,-265
+National League ,Wrexham AFC,1265,1,1,69,19,12,Maidenhead United,1068,197
+National League ,Solihull Moors,1230,5,0,68,19,13,Altrincham FC,1040,190
+National League ,Grimsby Town,1191,2,1,68,19,13,Wealdstone FC,996,195
+National League ,Woking FC,1045,0,1,36,29,35,Yeovil Town,1141,-96
+National League ,Boreham Wood,1267,3,1,81,13,6,Kings Lynn,907,360
+National League ,Dover Athletic,931,0,1,24,27,50,Southend United,1161,-230
+National League ,Weymouth FC,949,0,1,32,29,38,Aldershot Town,1079,-130
+Championship ,Huddersfield Town,1723,1,1,46,28,26,Stoke City,1722,1
+Championship ,West Bromwich Albion,1791,0,2,57,24,19,Preston North End,1697,94
+Championship ,Queens Park Rangers,1771,0,0,51,26,23,Swansea City,1728,43
+Championship ,Coventry City,1706,1,0,43,28,28,Stoke City,1730,-24
+Championship ,Nottingham Forest,1751,3,0,62,22,16,Barnsley FC,1617,134
+Championship ,Luton Town,1725,2,1,60,23,17,Bristol City,1611,114
+Championship ,Birmingham City,1608,2,2,51,26,23,Peterborough United,1567,41
+League One ,Burton Albion,1521,0,1,42,29,29,Milton Keynes Dons,1558,-37
+League One ,Fleetwood Town,1478,3,3,36,29,35,Plymouth Argyle,1575,-97
+League One ,AFC Wimbledon,1474,0,2,41,29,30,Ipswich Town,1524,-50
+League One ,Gillingham FC,1415,0,0,39,29,32,Shrewsbury Town,1482,-67
+League Two ,Leyton Orient,1381,0,1,44,28,27,Newport County,1397,-16
+League Two ,Barrow AFC,1305,0,2,39,29,32,Salford City,1369,-64
+League Two ,Walsall FC,1287,1,2,40,29,31,Bradford City,1338,-51
+League Two ,Scunthorpe United,1202,2,3,28,28,43,Bristol Rovers,1374,-172
+National League ,Halifax Town,1240,0,1,44,28,27,Boreham Wood,1255,-15
+National League ,Wrexham AFC,1259,1,0,54,25,21,Grimsby Town,1197,62
+National League ,Torquay United,1197,0,2,45,28,27,Solihull Moors,1211,-14
+National League ,Stockport County,1321,3,0,73,17,10,Maidenhead United,1072,249
+National League ,Bromley FC,1246,1,0,69,19,12,Woking FC,1048,198
+National League ,Wealdstone FC,991,0,0,20,24,56,Notts County,1273,-282
+National League ,Aldershot Town,1080,1,1,37,29,33,Southend United,1160,-80
+National League ,Weymouth FC,955,1,2,24,26,50,Dagenham & Redbridge,1186,-231
+National League ,Dover Athletic,918,1,0,24,27,49,Eastleigh FC,1137,-219
+Championship ,Blackburn Rovers,1758,1,0,49,27,24,Middlesbrough FC,1734,24
+Premier League ,Chelsea FC,2238,2,0,66,20,14,Tottenham Hotspur,2063,175
+Premier League ,Crystal Palace,1946,1,3,14,20,66,Liverpool FC,2315,-369
+Premier League ,Leicester City,2046,1,1,53,26,22,Brighton & Hove Albion,1990,56
+Premier League ,Arsenal FC,2133,0,0,74,16,9,Burnley FC,1876,257
+Premier League ,Southampton FC,1965,1,1,14,20,66,Manchester City,2336,-371
+Premier League ,Manchester United,2150,1,0,54,25,21,West Ham United,2081,69
+Premier League ,Everton FC,1948,0,1,43,29,28,Aston Villa,1975,-27
+Premier League ,Brentford FC,1902,1,2,34,29,36,Wolverhampton Wanderers,2012,-110
+Premier League ,Leeds United,1974,0,1,60,23,17,Newcastle United,1861,113
+Championship ,Stoke City,1738,2,3,30,29,42,Fulham FC,1896,-158
+Championship ,Sheffield United,1776,2,0,51,26,23,Luton Town,1734,42
+Championship ,AFC Bournemouth,1837,0,1,67,20,13,Hull City,1651,186
+Championship ,Coventry City,1718,1,2,42,29,30,Queens Park Rangers,1759,-41
+Championship ,Swansea City,1721,1,0,48,27,25,Preston North End,1704,17
+Championship ,Nottingham Forest,1746,2,1,55,25,20,Derby County,1673,73
+Championship ,West Bromwich Albion,1786,3,0,70,18,12,Peterborough United,1572,214
+Championship ,Reading FC,1616,3,4,36,29,35,Huddersfield Town,1713,-97
+Championship ,Blackpool FC,1640,1,0,41,29,30,Millwall FC,1683,-43
+Championship ,Bristol City,1602,3,2,38,29,32,Cardiff City,1672,-70
+Championship ,Birmingham City,1600,2,1,43,28,28,Barnsley FC,1625,-25
+League One ,Sunderland AFC,1646,1,0,56,24,20,Portsmouth FC,1564,82
+League One ,Oxford United,1584,3,2,43,29,28,Sheffield Wednesday,1610,-26
+League One ,Rotherham United,1668,1,0,70,18,12,Cheltenham Town,1455,213
+League One ,Plymouth Argyle,1590,1,2,57,24,19,Lincoln City,1503,87
+League One ,Wigan Athletic,1654,3,2,72,17,10,Gillingham FC,1418,236
+League One ,Morecambe FC,1405,3,2,23,26,51,Wycombe Wanderers,1641,-236
+League One ,Charlton Athletic,1541,2,0,53,26,22,Fleetwood Town,1487,54
+League One ,Ipswich Town,1518,2,1,50,27,23,Accrington Stanley,1485,33
+League One ,Burton Albion,1525,1,1,53,26,22,AFC Wimbledon,1470,55
+League One ,Milton Keynes Dons,1575,0,1,69,19,12,Doncaster Rovers,1371,204
+League One ,Shrewsbury Town,1496,0,1,53,26,21,Bolton Wanderers,1438,58
+League One ,Cambridge United,1505,1,0,55,25,20,Crewe Alexandra,1428,77
+League Two ,Swindon Town,1454,1,1,56,24,19,Bristol Rovers,1369,85
+League Two ,Sutton United,1368,0,0,39,29,32,Northampton Town,1433,-65
+League Two ,Leyton Orient,1383,0,0,44,28,27,Port Vale FC,1400,-17
+League Two ,Forest Green Rovers,1473,3,0,66,20,14,Carlisle United,1302,171
+League Two ,Crawley Town,1327,0,1,35,29,36,Tranmere Rovers,1431,-104
+League Two ,Rochdale AFC,1402,0,0,54,25,21,Bradford City,1333,69
+League Two ,Barrow AFC,1321,1,3,37,29,33,Mansfield Town,1400,-79
+League Two ,Walsall FC,1301,0,2,34,29,37,Exeter City,1416,-115
+League Two ,Salford City,1397,0,3,63,21,15,Colchester United,1249,148
+League Two ,Hartlepool United,1311,1,1,48,27,25,Stevenage FC,1299,12
+League Two ,Scunthorpe United,1210,0,1,28,28,44,Newport County,1389,-179
+League Two ,Harrogate Town,1320,3,0,56,25,20,Oldham Athletic,1239,81
+National League ,Dagenham & Redbridge,1201,0,2,35,29,36,Stockport County,1306,-105
+National League ,Grimsby Town,1209,1,2,43,28,28,Bromley FC,1234,-25
+National League ,Yeovil Town,1151,1,2,35,29,35,Wrexham AFC,1249,-98
+National League ,Chesterfield FC,1303,0,0,72,18,11,Aldershot Town,1073,230
+National League ,Maidenhead United,1059,1,0,27,28,46,Halifax Town,1253,-194
+National League ,Altrincham FC,1049,1,2,31,29,39,Torquay United,1188,-139
+National League ,Boreham Wood,1263,1,1,78,14,7,Weymouth FC,947,316
+National League ,Solihull Moors,1207,5,0,76,15,8,Dover Athletic,922,285
+National League ,Woking FC,1039,2,0,51,26,23,Wealdstone FC,1000,39
+Premier League ,Watford FC,1854,0,3,49,27,24,Norwich City,1832,22
+National League ,Southend United,1158,2,1,73,17,10,Kings Lynn,909,249
+League Cup ,Arsenal FC,2142,0,2,29,29,42,Liverpool FC,2306,-164
+Premier League ,Leicester City,2059,2,3,47,27,25,Tottenham Hotspur,2050,9
+Premier League ,Brentford FC,1912,1,3,24,27,50,Manchester United,2140,-228
+Championship ,Hull City,1634,2,0,31,29,40,Blackburn Rovers,1775,-141
+Championship ,Reading FC,1632,0,2,37,29,34,Luton Town,1718,-86
+Premier League ,Brighton & Hove Albion,1986,1,1,22,25,53,Chelsea FC,2242,-256
+Championship ,Fulham FC,1892,6,2,77,15,8,Birmingham City,1604,288
+Championship ,Preston North End,1705,2,2,38,29,32,Sheffield United,1775,-70
+League One ,Morecambe FC,1411,1,2,23,26,51,Wigan Athletic,1648,-237
+League One ,AFC Wimbledon,1470,0,0,36,29,35,Portsmouth FC,1564,-94
+League One ,Cambridge United,1498,3,1,60,23,17,Doncaster Rovers,1378,120
+League Two ,Port Vale FC,1414,0,1,50,27,23,Salford City,1383,31
+League Two ,Stevenage FC,1291,2,1,41,29,30,Crawley Town,1335,-44
+League Two ,Sutton United,1363,3,2,59,23,18,Colchester United,1254,109
+League Two ,Carlisle United,1305,0,0,46,28,26,Hartlepool United,1308,-3
+National League ,Stockport County,1299,3,0,64,21,15,Eastleigh FC,1144,155
+National League ,Maidenhead United,1044,3,2,20,25,55,Chesterfield FC,1318,-274
+Premier League ,Liverpool FC,2304,3,0,83,12,5,Brentford FC,1914,390
+Premier League ,West Ham United,2097,2,3,62,22,16,Leeds United,1958,139
+Championship ,Hull City,1650,0,2,38,29,33,Stoke City,1722,-72
+Premier League ,Manchester City,2331,1,0,56,24,19,Chelsea FC,2247,84
+Premier League ,Aston Villa,1973,2,2,29,29,43,Manchester United,2142,-169
+Premier League ,Wolverhampton Wanderers,2002,3,1,49,27,24,Southampton FC,1975,27
+Premier League ,Norwich City,1821,2,1,32,29,39,Everton FC,1959,-138
+Premier League ,Newcastle United,1864,1,1,48,27,25,Watford FC,1851,13
+Championship ,Luton Town,1707,3,2,31,29,40,AFC Bournemouth,1848,-141
+Championship ,Queens Park Rangers,1751,1,0,41,29,30,West Bromwich Albion,1794,-43
+Championship ,Fulham FC,1888,6,2,76,16,8,Bristol City,1606,282
+Championship ,Derby County,1657,2,0,32,29,39,Sheffield United,1791,-134
+Championship ,Cardiff City,1683,0,1,37,29,33,Blackburn Rovers,1764,-81
+Championship ,Huddersfield Town,1716,1,1,46,28,26,Swansea City,1718,-2
+Championship ,Millwall FC,1695,0,1,42,29,29,Nottingham Forest,1734,-39
+Championship ,Middlesbrough FC,1729,2,1,57,24,19,Reading FC,1637,92
+Championship ,Preston North End,1710,1,1,59,23,18,Birmingham City,1599,111
+Championship ,Peterborough United,1589,1,4,34,29,37,Coventry City,1701,-112
+League One ,Wycombe Wanderers,1632,2,0,51,26,23,Oxford United,1593,39
+League One ,Sheffield Wednesday,1599,4,2,46,28,26,Plymouth Argyle,1601,-2
+League One ,Fleetwood Town,1474,1,0,25,27,47,Rotherham United,1681,-207
+League One ,Portsmouth FC,1577,1,2,48,27,25,Milton Keynes Dons,1562,15
+League One ,Accrington Stanley,1483,1,1,29,29,42,Sunderland AFC,1648,-165
+League One ,Doncaster Rovers,1384,1,2,21,25,53,Wigan Athletic,1642,-258
+League One ,Lincoln City,1517,0,1,50,27,23,Cambridge United,1484,33
+League One ,Cheltenham Town,1455,1,1,37,29,34,Charlton Athletic,1541,-86
+League One ,Bolton Wanderers,1422,2,0,34,29,37,Ipswich Town,1534,-112
+League One ,Gillingham FC,1434,1,3,38,29,33,Burton Albion,1509,-75
+League One ,Crewe Alexandra,1429,0,0,39,29,32,Shrewsbury Town,1495,-66
+League One ,AFC Wimbledon,1474,0,0,54,25,21,Morecambe FC,1407,67
+League Two ,Northampton Town,1435,1,1,42,29,29,Forest Green Rovers,1471,-36
+League Two ,Port Vale FC,1433,1,3,46,28,26,Swindon Town,1435,-2
+League Two ,Tranmere Rovers,1421,2,0,47,27,25,Rochdale AFC,1412,9
+League Two ,Bradford City,1324,2,1,39,29,32,Salford City,1392,-68
+League Two ,Newport County,1378,4,0,52,26,22,Harrogate Town,1331,47
+League Two ,Mansfield Town,1392,2,0,56,24,20,Walsall FC,1309,83
+League Two ,Bristol Rovers,1360,2,0,51,26,23,Hartlepool United,1317,43
+League Two ,Stevenage FC,1292,3,3,38,29,32,Sutton United,1362,-70
+League Two ,Carlisle United,1307,1,1,43,29,28,Crawley Town,1333,-26
+League Two ,Exeter City,1411,2,0,68,19,12,Scunthorpe United,1215,196
+League Two ,Colchester United,1272,0,2,43,29,29,Barrow AFC,1303,-31
+National League ,Barnet FC,1071,1,4,23,26,51,Chesterfield FC,1307,-236
+National League ,Grimsby Town,1203,2,0,63,21,15,Altrincham FC,1055,148
+National League ,Wealdstone FC,994,2,1,54,25,21,Dover Athletic,928,66
+Premier League ,Brighton & Hove Albion,1990,1,1,52,26,22,Crystal Palace,1942,48
+League Cup ,Liverpool FC,2309,0,0,66,20,14,Arsenal FC,2137,172
+Premier League ,West Ham United,2094,2,0,75,16,9,Norwich City,1824,270
+League One ,Crewe Alexandra,1418,2,1,32,29,39,Charlton Athletic,1552,-134
+League Cup ,Tottenham Hotspur,2056,0,1,27,28,45,Chelsea FC,2241,-185
+Premier League ,Southampton FC,1964,4,1,51,26,23,Brentford FC,1925,39
+Championship ,Reading FC,1652,0,7,24,27,49,Fulham FC,1873,-221
+League One ,Sunderland AFC,1673,1,3,67,20,13,Lincoln City,1492,181
+League One ,Bolton Wanderers,1433,0,2,27,28,45,Wycombe Wanderers,1621,-188
+League One ,Milton Keynes Dons,1557,1,0,55,25,20,AFC Wimbledon,1479,78
+League Two ,Mansfield Town,1383,3,2,39,29,31,Swindon Town,1444,-61
+League Two ,Salford City,1394,1,1,43,28,28,Tranmere Rovers,1419,-25
+League Two ,Forest Green Rovers,1466,2,0,68,19,13,Colchester United,1277,189
+National League ,Halifax Town,1247,1,0,51,26,23,Grimsby Town,1209,38
+National League ,Altrincham FC,1067,1,4,24,27,49,Stockport County,1287,-220
+National League ,Southend United,1151,2,1,45,28,27,Yeovil Town,1158,-7
+National League ,Boreham Wood,1261,1,0,75,16,9,Wealdstone FC,996,265
+National League ,Kings Lynn,915,2,4,15,21,64,Notts County,1267,-352
+FA Cup ,Manchester United,2138,1,0,65,21,14,Aston Villa,1977,161
+FA Cup ,West Ham United,2087,2,0,61,23,17,Leeds United,1965,122
+FA Cup ,Nottingham Forest,1716,1,0,10,17,73,Arsenal FC,2155,-439
+FA Cup ,Liverpool FC,2309,4,1,91,8,0,Shrewsbury Town,1495,814
+FA Cup ,Wolverhampton Wanderers,1997,3,0,69,19,12,Sheffield United,1796,201
+FA Cup ,Tottenham Hotspur,2056,3,1,90,9,1,Morecambe FC,1407,649
+FA Cup ,Cardiff City,1675,2,1,41,29,30,Preston North End,1718,-43
+FA Cup ,Charlton Athletic,1558,0,1,21,25,53,Norwich City,1818,-260
+FA Cup ,Stoke City,1720,2,0,80,14,7,Leyton Orient,1385,335
+FA Cup ,Luton Town,1705,4,0,82,13,5,Harrogate Town,1333,372
+League One ,Wycombe Wanderers,1622,3,3,41,29,30,Sunderland AFC,1672,-50
+League One ,Lincoln City,1476,2,0,32,29,39,Oxford United,1609,-133
+League One ,Accrington Stanley,1484,1,1,38,29,33,Milton Keynes Dons,1556,-72
+League One ,Gillingham FC,1455,0,4,40,29,31,Ipswich Town,1513,-58
+League One ,Cheltenham Town,1456,1,1,40,29,31,Burton Albion,1508,-52
+League One ,Doncaster Rovers,1395,0,1,39,29,32,Fleetwood Town,1463,-68
+League Two ,Newport County,1398,0,2,49,27,24,Salford City,1374,24
+League Two ,Northampton Town,1451,0,1,62,22,16,Crawley Town,1317,134
+League Two ,Tranmere Rovers,1413,4,0,68,19,13,Scunthorpe United,1221,192
+League Two ,Carlisle United,1295,2,0,42,29,30,Bradford City,1336,-41
+League Two ,Stevenage FC,1279,3,1,41,29,30,Walsall FC,1322,-43
+National League ,Bromley FC,1227,2,1,48,27,25,Solihull Moors,1214,13
+National League ,Halifax Town,1237,4,0,56,24,20,Eastleigh FC,1154,83
+National League ,Torquay United,1191,2,2,45,28,27,Dagenham & Redbridge,1198,-7
+National League ,Barnet FC,1074,1,1,47,27,25,Altrincham FC,1064,10
+National League ,Aldershot Town,1077,1,1,51,26,23,Maidenhead United,1040,37
+National League ,Weymouth FC,954,0,1,27,28,45,Southend United,1144,-190
+FA Cup ,Leicester City,2054,4,1,69,19,12,Watford FC,1856,198
+FA Cup ,West Bromwich Albion,1802,1,2,28,28,44,Brighton & Hove Albion,1982,-180
+FA Cup ,Swansea City,1724,2,3,23,26,50,Southampton FC,1958,-234
+FA Cup ,Millwall FC,1701,1,2,23,26,50,Crystal Palace,1936,-235
+FA Cup ,Hull City,1655,2,3,18,23,58,Everton FC,1954,-299
+FA Cup ,Burnley FC,1893,1,2,68,19,13,Huddersfield Town,1699,194
+FA Cup ,Chelsea FC,2241,5,1,92,8,0,Chesterfield FC,1307,934
+FA Cup ,Bristol City,1612,0,1,22,25,53,Fulham FC,1867,-255
+FA Cup ,Queens Park Rangers,1756,1,1,56,25,20,Rotherham United,1676,80
+FA Cup ,Wigan Athletic,1631,3,2,31,29,40,Blackburn Rovers,1775,-144
+FA Cup ,Port Vale FC,1436,1,4,8,15,77,Brentford FC,1922,-486
+FA Cup ,Coventry City,1695,1,0,50,27,23,Derby County,1663,32
+FA Cup ,Newcastle United,1883,0,1,84,12,4,Cambridge United,1465,418
+FA Cup ,Birmingham City,1612,0,1,49,27,24,Plymouth Argyle,1588,24
+FA Cup ,Mansfield Town,1387,2,3,16,21,63,Middlesbrough FC,1725,-338
+FA Cup ,Yeovil Town,1159,1,3,3,10,87,AFC Bournemouth,1847,-688
+FA Cup ,Hartlepool United,1301,2,1,15,21,65,Blackpool FC,1656,-355
+FA Cup ,Peterborough United,1586,2,1,71,18,11,Bristol Rovers,1363,223
+FA Cup ,Barnsley FC,1623,5,4,79,14,7,Barrow AFC,1305,318
+FA Cup ,Kidderminster Harriers,1096,2,1,5,12,82,Reading FC,1671,-575
+FA Cup ,Boreham Wood,1240,2,0,21,25,53,AFC Wimbledon,1500,-260
+FA Cup ,Swindon Town,1444,1,4,1,8,91,Manchester City,2331,-887
+League Cup ,Chelsea FC,2237,2,0,67,20,14,Tottenham Hotspur,2060,177
+League Two ,Forest Green Rovers,1470,0,0,54,25,21,Exeter City,1407,63
+Premier League ,Manchester United,2155,0,1,66,20,14,Wolverhampton Wanderers,1980,175
+Championship ,Stoke City,1734,1,2,50,27,24,Preston North End,1704,30
+Championship ,Reading FC,1674,2,2,48,27,25,Derby County,1660,14
+League One ,Cambridge United,1465,0,0,34,29,37,Portsmouth FC,1577,-112
+National League ,Grimsby Town,1211,1,1,43,28,28,Halifax Town,1235,-24
+Premier League ,Chelsea FC,2238,2,2,38,29,32,Liverpool FC,2308,-70
+Premier League ,Everton FC,1967,2,3,46,28,26,Brighton & Hove Albion,1969,-2
+Premier League ,Brentford FC,1913,2,1,38,29,33,Aston Villa,1986,-73
+Premier League ,Leeds United,1956,3,1,53,26,22,Burnley FC,1902,54
+Championship ,West Bromwich Albion,1808,1,1,62,22,16,Cardiff City,1669,139
+Championship ,Blackburn Rovers,1780,0,0,56,24,19,Huddersfield Town,1694,86
+Championship ,Birmingham City,1621,1,2,33,29,38,Queens Park Rangers,1747,-126
+Championship ,Bristol City,1602,3,2,34,29,36,Millwall FC,1711,-109
+League One ,Shrewsbury Town,1484,1,0,33,29,38,Sheffield Wednesday,1610,-126
+League One ,Morecambe FC,1400,4,3,46,28,26,Doncaster Rovers,1402,-2
+National League ,Notts County,1256,3,1,46,28,26,Wrexham AFC,1260,-4
+National League ,Yeovil Town,1172,1,2,46,28,27,Torquay United,1178,-6
+National League ,Boreham Wood,1247,0,0,67,20,13,Barnet FC,1067,180
+National League ,Dagenham & Redbridge,1195,3,1,75,16,9,Dover Athletic,931,264
+National League ,Woking FC,1051,2,3,45,28,27,Aldershot Town,1065,-14
+National League ,Eastleigh FC,1151,3,2,68,19,13,Weymouth FC,957,194
+Premier League ,Arsenal FC,2163,1,2,30,29,42,Manchester City,2323,-160
+Premier League ,Crystal Palace,1945,2,3,32,29,39,West Ham United,2078,-133
+Premier League ,Watford FC,1864,0,1,27,28,45,Tottenham Hotspur,2052,-188
+Championship ,Blackpool FC,1648,1,0,44,28,27,Hull City,1663,-15
+League One ,Charlton Athletic,1570,0,1,42,29,30,Wycombe Wanderers,1610,-40
+League One ,Rotherham United,1673,2,1,72,17,10,Bolton Wanderers,1436,237
+League One ,Oxford United,1615,1,1,65,20,14,Cheltenham Town,1450,165
+League One ,Milton Keynes Dons,1561,0,0,59,23,18,Gillingham FC,1450,111
+League One ,Burton Albion,1499,4,1,55,25,20,Crewe Alexandra,1427,72
+League Two ,Swindon Town,1430,5,2,42,29,29,Northampton Town,1465,-35
+League Two ,Sutton United,1353,2,1,39,29,32,Exeter City,1416,-63
+League Two ,Forest Green Rovers,1465,2,0,67,20,13,Stevenage FC,1284,181
+League Two ,Walsall FC,1323,3,3,38,29,33,Newport County,1397,-74
+League Two ,Barrow AFC,1318,1,2,46,28,26,Bradford City,1323,-5
+League Two ,Crawley Town,1307,3,1,49,27,24,Colchester United,1287,20
+League Two ,Hartlepool United,1306,0,0,55,25,20,Oldham Athletic,1234,72
+League Two ,Scunthorpe United,1232,0,1,40,29,31,Carlisle United,1284,-52
+National League ,Chesterfield FC,1306,1,0,83,12,5,Kings Lynn,916,390
+Premier League ,Manchester United,2151,3,1,73,17,10,Burnley FC,1906,245
+Championship ,AFC Bournemouth,1841,3,0,65,20,14,Cardiff City,1675,166
+Championship ,Nottingham Forest,1730,0,1,52,26,22,Huddersfield Town,1680,50
+Championship ,Stoke City,1749,1,2,58,23,18,Derby County,1645,104
+Championship ,Bristol City,1611,1,2,33,29,38,Queens Park Rangers,1738,-127
+League One ,Sunderland AFC,1659,5,0,50,26,23,Sheffield Wednesday,1623,36
+Premier League ,Brentford FC,1916,0,1,12,18,70,Manchester City,2320,-404
+Premier League ,Chelsea FC,2246,1,1,76,15,8,Brighton & Hove Albion,1961,285
+Championship ,Coventry City,1708,0,1,47,27,25,Millwall FC,1698,10
+Championship ,Blackburn Rovers,1776,2,1,64,21,15,Barnsley FC,1627,149
+Championship ,Blackpool FC,1659,1,2,40,29,31,Middlesbrough FC,1714,-55
+League One ,Ipswich Town,1502,1,0,33,29,37,Wycombe Wanderers,1621,-119
+League One ,Oxford United,1606,3,0,58,24,19,AFC Wimbledon,1509,97
+League One ,Shrewsbury Town,1487,0,0,47,28,25,Accrington Stanley,1481,6
+League One ,Morecambe FC,1413,1,2,46,28,26,Crewe Alexandra,1414,-1
+League Two ,Swindon Town,1436,0,0,65,21,15,Stevenage FC,1278,158
+League Two ,Barrow AFC,1323,0,0,57,24,19,Oldham Athletic,1229,94
+Premier League ,Leicester City,2039,1,0,20,24,56,Liverpool FC,2323,-284
+Premier League ,Southampton FC,1958,1,1,36,29,35,Tottenham Hotspur,2052,-94
+Premier League ,Watford FC,1877,1,4,27,28,45,West Ham United,2065,-188
+Premier League ,Crystal Palace,1937,3,0,59,23,18,Norwich City,1826,111
+National League ,Chesterfield FC,1311,1,1,56,25,20,Halifax Town,1230,81
+National League ,Solihull Moors,1225,0,1,40,29,31,Stockport County,1276,-51
+National League ,Eastleigh FC,1143,2,1,41,29,30,Torquay United,1186,-43
+National League ,Altrincham FC,1076,0,2,28,28,43,Wrexham AFC,1248,-172
+National League ,Maidenhead United,1027,1,0,25,27,48,Bromley FC,1240,-213
+National League ,Dagenham & Redbridge,1191,1,0,61,23,17,Aldershot Town,1069,122
+National League ,Woking FC,1046,3,2,59,23,18,Dover Athletic,936,110
+Premier League ,Newcastle United,1878,1,1,20,24,56,Manchester United,2156,-278
+Championship ,Queens Park Rangers,1749,0,1,37,29,33,AFC Bournemouth,1830,-81
+Championship ,Derby County,1633,1,0,27,28,45,West Bromwich Albion,1820,-187
+League One ,Doncaster Rovers,1413,0,3,23,26,50,Sunderland AFC,1648,-235
+Premier League ,Manchester City,2316,6,3,75,16,9,Leicester City,2043,273
+Premier League ,Aston Villa,1995,1,3,23,26,51,Chelsea FC,2237,-242
+Premier League ,West Ham United,2081,2,3,62,22,16,Southampton FC,1942,139
+Premier League ,Norwich City,1835,0,5,17,22,60,Arsenal FC,2154,-319
+Premier League ,Tottenham Hotspur,2044,3,0,58,24,18,Crystal Palace,1945,99
+Premier League ,Brighton & Hove Albion,1951,2,0,49,27,24,Brentford FC,1926,25
+Championship ,Middlesbrough FC,1701,2,0,41,29,30,Nottingham Forest,1743,-42
+Championship ,Huddersfield Town,1673,3,2,47,28,25,Blackpool FC,1666,7
+League One ,Accrington Stanley,1468,1,0,25,27,48,Rotherham United,1686,-218
+League One ,Cheltenham Town,1465,0,2,34,29,36,Plymouth Argyle,1573,-108
+League One ,Lincoln City,1487,2,3,39,29,32,Milton Keynes Dons,1550,-63
+League One ,Fleetwood Town,1486,0,3,49,27,24,Shrewsbury Town,1464,22
+League Two ,Tranmere Rovers,1405,2,0,55,25,20,Barrow AFC,1331,74
+League Two ,Mansfield Town,1382,3,2,55,25,20,Hartlepool United,1311,71
+League Two ,Oldham Athletic,1250,1,3,51,26,23,Scunthorpe United,1211,39
+National League ,Bromley FC,1245,1,1,59,23,18,Southend United,1139,106
+National League ,Torquay United,1173,3,0,45,28,27,Yeovil Town,1185,-12
+National League ,Stockport County,1270,5,1,68,19,13,Altrincham FC,1082,188
+National League ,Dover Athletic,945,0,2,23,26,51,Dagenham & Redbridge,1182,-237
+National League ,Aldershot Town,1073,1,1,50,27,23,Woking FC,1042,31
+League Cup ,Liverpool FC,2329,3,3,77,15,8,Leicester City,2037,292
+League Cup ,Brentford FC,1931,0,2,18,23,58,Chelsea FC,2232,-301
+League Cup ,Tottenham Hotspur,2038,2,1,41,29,30,West Ham United,2087,-49
+League Cup ,Arsenal FC,2153,5,1,87,10,3,Sunderland AFC,1649,504
+Championship ,Fulham FC,1882,0,1,58,24,18,Sheffield United,1781,101
+Premier League ,Tottenham Hotspur,2033,2,2,18,23,58,Liverpool FC,2334,-301
+Premier League ,Wolverhampton Wanderers,1976,0,0,21,25,53,Chelsea FC,2236,-260
+Premier League ,Newcastle United,1883,0,4,11,17,72,Manchester City,2311,-428
+Premier League ,Leeds United,1970,1,4,29,29,43,Arsenal FC,2139,-169
+Championship ,Middlesbrough FC,1689,1,0,30,29,41,AFC Bournemouth,1842,-153
+Championship ,Nottingham Forest,1738,2,1,55,25,20,Hull City,1668,70
+Championship ,Blackburn Rovers,1768,4,0,62,22,16,Birmingham City,1629,139
+Championship ,Bristol City,1623,2,3,42,29,29,Huddersfield Town,1661,-38
+Championship ,Blackpool FC,1658,3,1,54,25,21,Peterborough United,1594,64
+League One ,Oxford United,1619,2,3,46,28,26,Wigan Athletic,1618,1
+League One ,Cambridge United,1472,0,1,25,27,47,Rotherham United,1679,-207
+League One ,Ipswich Town,1501,1,1,31,29,40,Sunderland AFC,1650,-149
+League One ,Plymouth Argyle,1566,1,0,45,28,27,Charlton Athletic,1577,-11
+League One ,Shrewsbury Town,1452,3,1,43,28,28,Cheltenham Town,1477,-25
+League One ,Morecambe FC,1414,0,0,38,29,32,Fleetwood Town,1485,-71
+League Two ,Rochdale AFC,1399,3,0,45,28,27,Newport County,1410,-11
+League Two ,Tranmere Rovers,1398,1,0,47,28,25,Leyton Orient,1392,6
+League Two ,Sutton United,1346,1,0,47,28,25,Harrogate Town,1340,6
+League Two ,Salford City,1369,1,0,56,24,19,Stevenage FC,1283,86
+Championship ,Barnsley FC,1624,0,0,26,28,46,West Bromwich Albion,1823,-199
+Premier League ,Liverpool FC,2333,3,1,85,11,4,Newcastle United,1884,449
+Premier League ,Chelsea FC,2244,1,1,76,15,8,Everton FC,1959,285
+Premier League ,Arsenal FC,2129,2,0,50,27,23,West Ham United,2097,32
+Premier League ,Brighton & Hove Albion,1964,0,1,46,28,26,Wolverhampton Wanderers,1963,1
+Premier League ,Crystal Palace,1948,2,2,47,27,25,Southampton FC,1939,9
+FA Cup ,Barrow AFC,1311,2,0,25,27,48,Ipswich Town,1521,-210
+Premier League ,Manchester City,2308,7,0,80,14,7,Leeds United,1973,335
+Premier League ,Norwich City,1849,0,2,32,29,39,Aston Villa,1981,-132
+National League ,Eastleigh FC,1144,0,0,37,29,33,Solihull Moors,1224,-80
+National League ,Halifax Town,1227,2,0,78,15,7,Kings Lynn,919,308
+Premier League ,Burnley FC,1903,0,0,26,28,46,West Ham United,2100,-197
+Premier League ,Leicester City,2029,4,0,62,22,16,Newcastle United,1892,137
+Premier League ,Crystal Palace,1936,3,1,42,29,29,Everton FC,1971,-35
+Premier League ,Liverpool FC,2332,1,0,81,13,6,Aston Villa,1982,350
+Premier League ,Manchester City,2307,1,0,80,14,6,Wolverhampton Wanderers,1964,343
+Premier League ,Chelsea FC,2242,3,2,75,16,9,Leeds United,1975,267
+Premier League ,Arsenal FC,2123,3,0,67,20,13,Southampton FC,1945,178
+Premier League ,Norwich City,1854,0,1,19,23,58,Manchester United,2151,-297
+Championship ,AFC Bournemouth,1865,0,2,60,23,17,Blackburn Rovers,1745,120
+Championship ,Luton Town,1703,1,1,28,28,44,Fulham FC,1884,-181
+Championship ,West Bromwich Albion,1819,1,0,63,22,16,Reading FC,1678,141
+Championship ,Swansea City,1748,1,4,50,27,23,Nottingham Forest,1714,34
+Championship ,Stoke City,1754,0,0,55,25,20,Middlesbrough FC,1684,70
+Championship ,Huddersfield Town,1663,1,1,41,29,30,Coventry City,1706,-43
+Championship ,Preston North End,1699,2,1,55,25,20,Barnsley FC,1629,70
+Championship ,Birmingham City,1631,2,2,41,29,30,Cardiff City,1673,-42
+Championship ,Peterborough United,1583,2,1,33,29,38,Millwall FC,1709,-126
+Championship ,Hull City,1672,2,2,52,26,22,Bristol City,1619,53
+Championship ,Derby County,1625,1,0,42,29,30,Blackpool FC,1666,-41
+League One ,Sunderland AFC,1645,2,1,55,25,20,Plymouth Argyle,1571,74
+League One ,Rotherham United,1674,3,1,66,20,14,Burton Albion,1504,170
+League One ,Milton Keynes Dons,1562,1,2,41,29,30,Oxford United,1607,-45
+League One ,Wigan Athletic,1623,1,1,59,23,18,Ipswich Town,1516,107
+League One ,Wycombe Wanderers,1627,2,2,61,22,17,AFC Wimbledon,1503,124
+League One ,Charlton Athletic,1569,2,0,57,24,19,Cambridge United,1480,89
+League One ,Crewe Alexandra,1425,0,2,27,28,45,Sheffield Wednesday,1612,-187
+League One ,Portsmouth FC,1571,2,0,64,21,15,Morecambe FC,1420,151
+League One ,Cheltenham Town,1480,2,2,46,28,26,Lincoln City,1484,-4
+League One ,Fleetwood Town,1478,2,1,49,27,24,Gillingham FC,1457,21
+League One ,Accrington Stanley,1461,1,0,48,27,25,Bolton Wanderers,1443,18
+League One ,Doncaster Rovers,1404,1,0,40,29,31,Shrewsbury Town,1461,-57
+League Two ,Newport County,1402,2,1,41,29,30,Port Vale FC,1444,-42
+League Two ,Exeter City,1430,0,1,52,26,22,Tranmere Rovers,1384,46
+League Two ,Harrogate Town,1350,1,2,35,29,36,Northampton Town,1455,-105
+League Two ,Bristol Rovers,1350,4,2,39,29,32,Rochdale AFC,1412,-62
+League Two ,Mansfield Town,1375,2,1,46,28,26,Salford City,1376,-1
+League Two ,Barrow AFC,1293,2,0,29,29,42,Swindon Town,1454,-161
+League Two ,Oldham Athletic,1247,5,5,24,27,49,Forest Green Rovers,1468,-221
+League Two ,Leyton Orient,1408,1,2,60,23,17,Crawley Town,1291,117
+League Two ,Bradford City,1325,2,2,44,28,28,Sutton United,1344,-19
+League Two ,Walsall FC,1311,3,0,48,27,25,Colchester United,1299,12
+League Two ,Stevenage FC,1304,0,2,51,26,23,Carlisle United,1263,41
+League Two ,Hartlepool United,1316,0,0,59,23,18,Scunthorpe United,1206,110
+National League ,Grimsby Town,1222,0,1,38,29,33,Chesterfield FC,1300,-78
+National League ,Torquay United,1163,2,1,34,29,37,Stockport County,1280,-117
+National League ,Notts County,1248,4,1,58,24,18,Southend United,1147,101
+National League ,Altrincham FC,1091,0,1,31,29,40,Bromley FC,1236,-145
+National League ,Woking FC,1054,0,2,28,28,44,Boreham Wood,1235,-181
+National League ,Yeovil Town,1180,1,0,59,23,18,Barnet FC,1072,108
+National League ,Maidenhead United,1042,0,4,29,29,43,Solihull Moors,1209,-167
+National League ,Wealdstone FC,1003,0,1,25,27,48,Halifax Town,1220,-217
+National League ,Eastleigh FC,1172,0,3,61,22,17,Aldershot Town,1045,127
+National League ,Wrexham AFC,1246,1,0,76,15,8,Weymouth FC,959,287
+National League ,Kings Lynn,911,2,1,41,29,30,Dover Athletic,953,-42
+Premier League ,Brentford FC,1925,2,1,51,26,23,Watford FC,1883,42
+Europa League ,SSC Napoli,2124,3,2,57,24,19,Leicester City,2035,89
+Europa League ,West Ham United,2122,0,1,72,18,11,Dinamo Zagreb,1894,228
+League One ,Milton Keynes Dons,1565,1,1,46,28,26,Plymouth Argyle,1568,-3
+League One ,Wigan Athletic,1619,2,1,64,21,15,Shrewsbury Town,1465,154
+League Two ,Hartlepool United,1306,2,1,34,29,37,Rochdale AFC,1422,-116
+League Two ,Bradford City,1329,0,0,50,27,23,Colchester United,1295,34
+Champions League ,Zenit St. Petersburg,2012,3,3,23,26,51,Chelsea FC,2248,-236
+Champions League ,Manchester United,2162,1,1,70,18,12,BSC Young Boys,1952,210
+League One ,Portsmouth FC,1573,0,0,42,29,29,Sheffield Wednesday,1610,-37
+League One ,Rotherham United,1669,5,1,70,19,12,Gillingham FC,1462,207
+League One ,Wycombe Wanderers,1622,2,1,60,23,17,Burton Albion,1509,113
+League One ,Charlton Athletic,1559,2,0,50,27,23,Ipswich Town,1526,33
+League One ,Sunderland AFC,1639,5,0,70,18,12,Morecambe FC,1426,213
+League One ,Doncaster Rovers,1412,1,2,27,28,45,Oxford United,1599,-187
+League One ,Accrington Stanley,1480,0,2,46,28,26,AFC Wimbledon,1484,-4
+League One ,Cheltenham Town,1509,0,5,53,26,21,Cambridge United,1451,58
+League One ,Fleetwood Town,1466,3,0,48,27,25,Bolton Wanderers,1455,11
+League One ,Crewe Alexandra,1410,2,0,36,29,34,Lincoln City,1499,-89
+League Two ,Exeter City,1443,1,2,46,28,26,Northampton Town,1442,1
+League Two ,Leyton Orient,1392,4,1,38,29,33,Swindon Town,1470,-78
+League Two ,Harrogate Town,1368,1,4,37,29,33,Forest Green Rovers,1450,-82
+League Two ,Bristol Rovers,1361,1,2,38,29,33,Port Vale FC,1433,-72
+League Two ,Newport County,1396,3,2,52,26,22,Sutton United,1350,46
+League Two ,Mansfield Town,1370,1,0,58,24,18,Carlisle United,1268,102
+League Two ,Oldham Athletic,1256,0,1,33,29,37,Tranmere Rovers,1375,-119
+League Two ,Walsall FC,1314,1,1,49,27,24,Crawley Town,1288,26
+League Two ,Stevenage FC,1309,1,1,59,23,18,Scunthorpe United,1201,108
+National League ,Southend United,1153,1,1,60,23,17,Maidenhead United,1036,117
+Champions League ,AC Milan,2129,1,2,27,28,45,Liverpool FC,2321,-192
+Champions League ,RB Leipzig,2052,2,1,20,24,56,Manchester City,2329,-277
+Premier League ,Everton FC,1959,2,1,28,28,44,Arsenal FC,2135,-176
+FA Cup ,Boreham Wood,1230,4,0,72,18,11,St. Albans City,1002,228
+Premier League ,Manchester United,2159,1,0,71,18,11,Crystal Palace,1939,220
+Premier League ,Aston Villa,1973,2,1,38,29,32,Leicester City,2044,-71
+Premier League ,Leeds United,1979,2,2,53,26,21,Brentford FC,1921,58
+Premier League ,Tottenham Hotspur,2027,3,0,66,20,14,Norwich City,1860,167
+Championship ,Queens Park Rangers,1770,0,2,51,26,23,Stoke City,1733,37
+FA Cup ,Rochdale AFC,1431,1,2,33,29,38,Plymouth Argyle,1559,-128
+FA Cup ,Colchester United,1299,1,2,17,23,60,Wigan Athletic,1615,-316
+FA Cup ,Salford City,1400,0,2,61,22,17,Chesterfield FC,1276,124
+FA Cup ,Kidderminster Harriers,1079,2,0,30,29,42,Halifax Town,1237,-158
+Premier League ,West Ham United,2111,3,2,31,29,40,Chelsea FC,2259,-148
+Premier League ,Wolverhampton Wanderers,1968,0,1,15,21,64,Liverpool FC,2317,-349
+Premier League ,Watford FC,1887,1,3,10,17,73,Manchester City,2325,-438
+Premier League ,Southampton FC,1947,1,1,44,28,27,Brighton & Hove Albion,1962,-15
+Premier League ,Newcastle United,1884,1,0,43,29,28,Burnley FC,1911,-27
+Championship ,Coventry City,1716,1,2,36,29,35,West Bromwich Albion,1809,-93
+Championship ,Cardiff City,1683,2,3,37,29,34,Sheffield United,1771,-88
+Championship ,Blackburn Rovers,1739,1,0,50,27,23,Preston North End,1705,34
+Championship ,Middlesbrough FC,1675,1,0,37,29,33,Swansea City,1757,-82
+Championship ,Blackpool FC,1689,0,3,47,27,25,Luton Town,1680,9
+Championship ,Reading FC,1681,1,1,48,27,25,Hull City,1669,12
+Championship ,Millwall FC,1700,3,1,53,25,21,Birmingham City,1640,60
+Championship ,Nottingham Forest,1707,2,0,60,23,17,Peterborough United,1590,117
+Championship ,Barnsley FC,1631,1,1,43,29,29,Huddersfield Town,1661,-30
+Championship ,Bristol City,1611,1,0,44,28,28,Derby County,1633,-22
+League One ,Sunderland AFC,1643,1,1,52,26,22,Oxford United,1595,48
+League One ,Accrington Stanley,1466,5,1,45,28,27,Fleetwood Town,1480,-14
+National League ,Dagenham & Redbridge,1173,3,2,40,29,31,Grimsby Town,1231,-58
+National League ,Solihull Moors,1203,2,0,63,22,16,Woking FC,1060,143
+National League ,Bromley FC,1233,3,2,71,18,11,Wealdstone FC,1006,227
+National League ,Dover Athletic,958,0,1,20,24,56,Wrexham AFC,1241,-283
+National League ,Aldershot Town,1047,2,2,41,29,30,Altrincham FC,1089,-42
+National League ,Weymouth FC,966,1,2,27,28,45,Torquay United,1156,-190
+National League ,Barnet FC,1060,3,0,48,27,25,Maidenhead United,1048,12
+FA Cup ,AFC Wimbledon,1476,4,3,42,29,30,Cheltenham Town,1517,-41
+FA Cup ,Burton Albion,1524,1,2,59,23,18,Port Vale FC,1418,106
+FA Cup ,Portsmouth FC,1591,1,2,73,17,10,Harrogate Town,1350,241
+FA Cup ,Cambridge United,1444,2,1,46,28,27,Exeter City,1450,-6
+FA Cup ,Ipswich Town,1534,0,0,73,17,10,Barrow AFC,1285,249
+FA Cup ,Lincoln City,1516,0,1,71,18,11,Hartlepool United,1289,227
+FA Cup ,Walsall FC,1323,1,2,32,29,39,Swindon Town,1461,-138
+FA Cup ,Doncaster Rovers,1427,2,3,55,25,20,Mansfield Town,1355,72
+FA Cup ,Leyton Orient,1378,4,0,45,28,27,Tranmere Rovers,1389,-11
+FA Cup ,Carlisle United,1276,1,2,28,28,44,Shrewsbury Town,1457,-181
+FA Cup ,Bristol Rovers,1354,2,1,46,28,26,Sutton United,1357,-3
+FA Cup ,Yeovil Town,1169,1,0,30,29,41,Stevenage FC,1320,-151
+Championship ,Fulham FC,1888,1,1,49,27,24,AFC Bournemouth,1861,27
+FA Cup ,Rotherham United,1668,1,0,83,12,5,Stockport County,1281,387
+FA Cup ,Gateshead FC,1135,0,2,11,18,71,Charlton Athletic,1555,-420
+Premier League ,Manchester United,2152,3,2,47,27,25,Arsenal FC,2142,10
+Premier League ,Tottenham Hotspur,2020,2,0,57,24,19,Brentford FC,1928,92
+Premier League ,Aston Villa,1977,1,2,16,21,63,Manchester City,2321,-344
+Premier League ,Everton FC,1966,1,4,16,21,63,Liverpool FC,2310,-344
+Premier League ,Watford FC,1891,1,2,14,20,65,Chelsea FC,2255,-364
+Premier League ,West Ham United,2117,1,1,65,21,14,Brighton & Hove Albion,1956,161
+Premier League ,Southampton FC,1947,2,2,36,29,35,Leicester City,2044,-97
+Premier League ,Wolverhampton Wanderers,1972,0,0,54,25,21,Burnley FC,1907,65
+Premier League ,Leeds United,1972,1,0,49,27,24,Crystal Palace,1946,26
+Premier League ,Newcastle United,1888,1,1,50,27,23,Norwich City,1856,32
+National League ,Wrexham AFC,1264,0,2,60,23,17,Yeovil Town,1146,118
+FA Cup ,Exeter City,1445,2,1,59,23,18,Bradford City,1334,111
+Championship ,Derby County,1642,1,2,33,29,37,Queens Park Rangers,1761,-119
+Premier League ,Manchester City,2318,2,1,69,19,12,West Ham United,2120,198
+Premier League ,Chelsea FC,2261,1,1,60,23,17,Manchester United,2146,115
+Premier League ,Leicester City,2038,4,2,63,22,16,Watford FC,1897,141
+Premier League ,Brentford FC,1919,1,0,40,29,31,Everton FC,1975,-56
+Championship ,Sheffield United,1765,2,0,63,21,15,Bristol City,1617,148
+League One ,Ipswich Town,1529,2,1,60,23,17,Crewe Alexandra,1415,114
+Premier League ,Liverpool FC,2308,4,0,81,13,6,Southampton FC,1949,359
+Premier League ,Arsenal FC,2138,2,0,73,17,10,Newcastle United,1892,246
+Premier League ,Brighton & Hove Albion,1959,0,0,45,28,27,Leeds United,1969,-10
+Premier League ,Crystal Palace,1959,1,2,46,28,26,Aston Villa,1964,-5
+Premier League ,Norwich City,1855,0,0,33,29,37,Wolverhampton Wanderers,1973,-118
+Championship ,Preston North End,1702,1,1,27,28,45,Fulham FC,1891,-189
+Championship ,AFC Bournemouth,1867,2,2,64,21,15,Coventry City,1710,157
+Championship ,Stoke City,1746,0,1,49,27,24,Blackburn Rovers,1726,20
+Championship ,Swansea City,1772,2,3,59,23,18,Reading FC,1666,106
+Championship ,Hull City,1660,2,1,41,29,30,Millwall FC,1709,-49
+Championship ,Luton Town,1693,1,2,49,27,24,Cardiff City,1670,23
+Championship ,Huddersfield Town,1674,1,2,48,27,25,Middlesbrough FC,1662,12
+Championship ,Birmingham City,1631,1,0,39,29,32,Blackpool FC,1698,-67
+Championship ,Peterborough United,1592,0,0,42,29,29,Barnsley FC,1629,-37
+League One ,Oxford United,1596,0,0,38,29,32,Rotherham United,1667,-71
+League One ,Sheffield Wednesday,1613,2,2,46,28,27,Wycombe Wanderers,1619,-6
+League One ,Plymouth Argyle,1571,1,2,43,29,29,Wigan Athletic,1603,-32
+League One ,Cambridge United,1452,1,2,28,28,44,Sunderland AFC,1635,-183
+League One ,Gillingham FC,1472,0,1,34,29,36,Portsmouth FC,1581,-109
+League One ,Shrewsbury Town,1446,1,0,33,29,37,Charlton Athletic,1566,-120
+League One ,Morecambe FC,1445,0,4,35,29,35,Milton Keynes Dons,1546,-101
+League One ,Lincoln City,1531,0,1,56,25,20,Accrington Stanley,1451,80
+League One ,Bolton Wanderers,1456,2,2,39,29,31,Cheltenham Town,1516,-60
+League One ,AFC Wimbledon,1479,2,2,46,28,26,Fleetwood Town,1477,2
+League One ,Burton Albion,1516,2,0,56,25,20,Doncaster Rovers,1435,81
+League Two ,Rochdale AFC,1434,1,1,45,28,27,Exeter City,1442,-8
+League Two ,Northampton Town,1436,1,0,52,26,22,Leyton Orient,1384,52
+League Two ,Swindon Town,1467,1,1,61,23,17,Harrogate Town,1344,123
+League Two ,Forest Green Rovers,1442,2,0,56,25,20,Bristol Rovers,1362,80
+League Two ,Port Vale FC,1411,2,0,60,23,17,Hartlepool United,1296,115
+League Two ,Salford City,1394,2,0,62,22,16,Oldham Athletic,1262,132
+League Two ,Crawley Town,1300,1,2,41,29,30,Mansfield Town,1343,-43
+League Two ,Sutton United,1351,1,0,53,25,21,Barrow AFC,1291,60
+League Two ,Carlisle United,1267,1,0,39,29,32,Walsall FC,1332,-65
+League Two ,Scunthorpe United,1200,1,1,32,29,39,Bradford City,1335,-135
+National League ,Wrexham AFC,1254,2,0,48,27,25,Bromley FC,1243,11
+National League ,Notts County,1242,2,1,54,25,21,Dagenham & Redbridge,1179,63
+National League ,Torquay United,1167,2,3,40,29,31,Halifax Town,1226,-59
+National League ,Wealdstone FC,1016,1,4,22,25,53,Stockport County,1271,-255
+National League ,Altrincham FC,1101,1,2,42,29,30,Southend United,1141,-40
+National League ,Woking FC,1074,1,2,50,27,24,Barnet FC,1046,28
+National League ,Yeovil Town,1153,1,1,69,19,12,Dover Athletic,951,202
+National League ,Kings Lynn,921,0,1,34,29,37,Aldershot Town,1037,-116
+Championship ,West Bromwich Albion,1814,0,0,59,23,18,Nottingham Forest,1702,112
+League Two ,Colchester United,1299,1,1,36,29,35,Newport County,1396,-97
+Europa Conf. League ,NŠ Mura,1586,2,1,10,16,74,Tottenham Hotspur,2038,-452
+Europa League ,Rapid Wien,1788,0,2,17,22,61,West Ham United,2112,-324
+Europa League ,Leicester City,2035,3,1,78,15,7,Legia Warszawa,1726,309
+Championship ,Millwall FC,1707,1,1,29,29,42,AFC Bournemouth,1869,-162
+Championship ,Fulham FC,1899,0,0,75,16,9,Derby County,1634,265
+Championship ,Queens Park Rangers,1756,1,0,55,25,20,Huddersfield Town,1679,77
+Championship ,Barnsley FC,1643,0,2,34,29,37,Swansea City,1758,-115
+Championship ,Bristol City,1606,1,0,30,29,41,Stoke City,1757,-151
+Championship ,Cardiff City,1684,0,1,51,26,23,Hull City,1646,38
+Championship ,Blackburn Rovers,1718,4,0,60,23,17,Peterborough United,1600,118
+Champions League ,Manchester City,2310,2,1,56,24,19,Paris Saint-Germain,2225,85
+Champions League ,Liverpool FC,2301,2,0,68,19,13,FC Porto,2109,192
+Championship ,Blackpool FC,1698,0,0,34,29,37,West Bromwich Albion,1814,-116
+Championship ,Reading FC,1677,0,1,38,29,33,Sheffield United,1754,-77
+Championship ,Nottingham Forest,1705,0,0,48,27,25,Luton Town,1690,15
+Championship ,Middlesbrough FC,1674,1,2,44,28,27,Preston North End,1690,-16
+Championship ,Coventry City,1715,0,0,57,24,19,Birmingham City,1626,89
+League One ,Ipswich Town,1544,0,2,34,29,36,Rotherham United,1652,-108
+League One ,Plymouth Argyle,1593,0,3,46,28,26,Wycombe Wanderers,1597,-4
+League One ,Sheffield Wednesday,1607,2,1,53,26,22,Milton Keynes Dons,1552,55
+League One ,Lincoln City,1553,0,3,46,28,27,Portsmouth FC,1559,-6
+League One ,Shrewsbury Town,1443,1,1,26,28,46,Sunderland AFC,1638,-195
+League One ,Oxford United,1589,3,1,59,23,18,Fleetwood Town,1484,105
+League One ,Cambridge United,1450,2,2,30,29,41,Wigan Athletic,1605,-155
+League One ,Morecambe FC,1444,2,2,33,29,38,Charlton Athletic,1567,-123
+League One ,Gillingham FC,1491,0,2,46,28,27,Cheltenham Town,1497,-6
+League One ,Burton Albion,1504,4,0,51,26,23,Accrington Stanley,1463,41
+League One ,AFC Wimbledon,1473,3,2,52,26,22,Crewe Alexandra,1421,52
+League One ,Bolton Wanderers,1443,3,0,46,28,26,Doncaster Rovers,1448,-5
+League Two ,Swindon Town,1462,3,1,65,21,14,Hartlepool United,1301,161
+League Two ,Salford City,1398,1,1,51,26,23,Bristol Rovers,1358,40
+League Two ,Rochdale AFC,1440,2,2,61,22,17,Stevenage FC,1314,126
+League Two ,Port Vale FC,1426,0,1,59,23,18,Walsall FC,1317,109
+League Two ,Colchester United,1281,3,1,28,28,44,Exeter City,1460,-179
+League Two ,Forest Green Rovers,1436,2,0,62,22,16,Barrow AFC,1297,139
+League Two ,Tranmere Rovers,1383,2,1,51,26,23,Bradford City,1341,42
+League Two ,Northampton Town,1432,2,1,65,20,14,Oldham Athletic,1266,166
+League Two ,Crawley Town,1300,1,1,36,29,35,Newport County,1396,-96
+League Two ,Sutton United,1340,2,0,45,28,27,Mansfield Town,1354,-14
+League Two ,Carlisle United,1285,0,2,42,29,30,Harrogate Town,1326,-41
+League Two ,Scunthorpe United,1197,1,1,27,28,45,Leyton Orient,1387,-190
+National League ,Halifax Town,1239,1,2,46,28,26,Wrexham AFC,1241,-2
+National League ,Boreham Wood,1233,1,1,46,28,27,Notts County,1239,-6
+National League ,Solihull Moors,1190,2,0,40,29,31,Grimsby Town,1244,-54
+National League ,Bromley FC,1259,1,2,61,23,17,Yeovil Town,1137,122
+National League ,Chesterfield FC,1283,2,2,68,19,13,Altrincham FC,1094,189
+National League ,Dagenham & Redbridge,1193,0,1,50,27,23,Eastleigh FC,1158,35
+National League ,Aldershot Town,1025,1,0,30,29,41,Torquay United,1179,-154
+National League ,Stockport County,1268,5,0,80,13,6,Kings Lynn,924,344
+National League ,Weymouth FC,976,2,3,37,29,34,Woking FC,1064,-88
+National League ,Dover Athletic,963,2,3,42,29,30,Wealdstone FC,1004,-41
+Champions League ,Chelsea FC,2244,4,0,51,26,22,Juventus,2200,44
+Champions League ,Villarreal CF,2098,0,2,44,28,28,Manchester United,2118,-20
+Premier League ,Manchester City,2307,3,0,79,14,7,Everton FC,1978,329
+Premier League ,Tottenham Hotspur,2032,2,1,53,26,21,Leeds United,1975,57
+Championship ,Derby County,1620,3,2,21,25,54,AFC Bournemouth,1883,-263
+Premier League ,Liverpool FC,2294,4,0,64,21,15,Arsenal FC,2145,149
+Premier League ,Leicester City,2048,0,3,28,28,44,Chelsea FC,2231,-183
+Premier League ,Wolverhampton Wanderers,1961,1,0,29,29,42,West Ham United,2124,-163
+Premier League ,Watford FC,1871,4,1,20,25,55,Manchester United,2144,-273
+Premier League ,Aston Villa,1953,2,0,44,28,27,Brighton & Hove Albion,1970,-17
+Premier League ,Burnley FC,1908,3,3,41,29,30,Crystal Palace,1958,-50
+Premier League ,Newcastle United,1894,3,3,44,28,28,Brentford FC,1917,-23
+Premier League ,Norwich City,1845,2,1,34,29,37,Southampton FC,1959,-114
+Championship ,Fulham FC,1895,4,1,73,17,10,Barnsley FC,1647,248
+Championship ,Huddersfield Town,1667,1,0,30,29,42,West Bromwich Albion,1826,-159
+Championship ,Sheffield United,1758,0,0,52,26,22,Coventry City,1711,47
+Championship ,Swansea City,1762,1,1,54,25,21,Blackpool FC,1694,68
+Championship ,Reading FC,1679,1,1,43,28,28,Nottingham Forest,1703,-24
+Championship ,Middlesbrough FC,1676,1,1,43,29,29,Millwall FC,1705,-29
+Championship ,Preston North End,1704,1,2,50,27,23,Cardiff City,1670,34
+Championship ,Stoke City,1751,2,0,63,21,15,Peterborough United,1606,145
+Championship ,Bristol City,1606,1,1,34,29,37,Blackburn Rovers,1718,-112
+Championship ,Hull City,1635,2,0,46,28,26,Birmingham City,1637,-2
+League One ,Sunderland AFC,1630,2,0,55,25,20,Ipswich Town,1552,78
+League One ,Charlton Athletic,1554,2,0,40,29,31,Plymouth Argyle,1606,-52
+League One ,Rotherham United,1647,3,1,68,19,13,Cambridge United,1455,192
+League One ,Accrington Stanley,1472,2,3,33,29,38,Sheffield Wednesday,1598,-126
+League One ,Milton Keynes Dons,1546,1,0,50,26,23,Burton Albion,1510,36
+League One ,Wycombe Wanderers,1593,1,0,63,21,15,Bolton Wanderers,1447,146
+League One ,Portsmouth FC,1554,2,1,55,25,20,AFC Wimbledon,1478,76
+League One ,Doncaster Rovers,1448,0,0,35,29,36,Lincoln City,1553,-105
+League One ,Cheltenham Town,1491,2,1,51,26,23,Shrewsbury Town,1449,42
+League One ,Fleetwood Town,1498,1,2,54,25,21,Morecambe FC,1430,68
+League One ,Crewe Alexandra,1406,2,0,35,29,35,Gillingham FC,1506,-100
+League Two ,Newport County,1408,1,2,41,29,30,Swindon Town,1450,-42
+League Two ,Bradford City,1341,1,1,36,29,34,Northampton Town,1432,-91
+League Two ,Walsall FC,1316,0,0,33,29,38,Rochdale AFC,1441,-125
+League Two ,Exeter City,1456,2,1,66,20,14,Carlisle United,1289,167
+League Two ,Bristol Rovers,1360,2,2,44,28,28,Tranmere Rovers,1381,-21
+League Two ,Hartlepool United,1316,1,3,35,29,36,Forest Green Rovers,1421,-105
+League Two ,Leyton Orient,1376,4,1,49,27,24,Sutton United,1351,25
+League Two ,Harrogate Town,1344,0,2,42,29,29,Salford City,1380,-36
+League Two ,Oldham Athletic,1254,3,2,27,28,44,Port Vale FC,1438,-184
+League Two ,Barrow AFC,1310,0,1,49,27,24,Crawley Town,1287,23
+League Two ,Stevenage FC,1307,1,0,48,27,24,Colchester United,1288,19
+League Two ,Mansfield Town,1348,3,1,63,21,15,Scunthorpe United,1203,145
+National League ,Solihull Moors,1207,0,2,40,29,31,Chesterfield FC,1266,-59
+National League ,Eastleigh FC,1142,2,0,34,29,37,Notts County,1255,-113
+National League ,Woking FC,1072,1,2,27,28,45,Stockport County,1260,-188
+National League ,Dagenham & Redbridge,1208,0,1,56,24,19,Yeovil Town,1122,86
+National League ,Boreham Wood,1226,4,0,66,20,14,Maidenhead United,1055,171
+National League ,Wrexham AFC,1249,0,0,74,17,10,Wealdstone FC,996,253
+National League ,Barnet FC,1034,2,1,30,29,41,Torquay United,1191,-157
+National League ,Dover Athletic,972,1,3,21,25,53,Halifax Town,1230,-258
+National League ,Bromley FC,1257,3,2,79,14,7,Kings Lynn,926,331
+National League ,Weymouth FC,994,1,4,37,29,33,Altrincham FC,1076,-82
+Championship ,Queens Park Rangers,1747,2,0,52,26,22,Luton Town,1699,48
+National League ,Grimsby Town,1239,1,0,57,24,19,Southend United,1146,93
+FA Cup ,Stockport County,1240,5,3,24,27,50,Bolton Wanderers,1467,-227
+FA Cup ,Plymouth Argyle,1592,3,0,44,28,28,Sheffield Wednesday,1612,-20
+FA Cup ,Cheltenham Town,1483,1,0,43,29,29,Gillingham FC,1514,-31
+FA Cup ,Bristol Rovers,1346,4,3,22,25,53,Oxford United,1603,-257
+FA Cup ,Wycombe Wanderers,1611,0,1,78,14,7,Hartlepool United,1298,313
+FA Cup ,Cambridge United,1444,3,1,46,28,26,Northampton Town,1443,1
+FA Cup ,Stevenage FC,1293,2,1,21,25,54,Milton Keynes Dons,1560,-267
+FA Cup ,Solihull Moors,1210,1,2,13,19,68,Wigan Athletic,1602,-392
+FA Cup ,Oldham Athletic,1259,1,2,19,24,57,Ipswich Town,1547,-288
+FA Cup ,Exeter City,1448,3,0,58,24,18,Bradford City,1349,99
+FA Cup ,Notts County,1263,1,2,29,29,43,Rochdale AFC,1433,-170
+FA Cup ,Altrincham FC,1088,2,3,42,29,29,Gateshead FC,1123,-35
+League One ,Wycombe Wanderers,1626,0,1,57,24,19,Portsmouth FC,1539,87
+League One ,Ipswich Town,1548,0,0,40,29,31,Oxford United,1602,-54
+League One ,Sheffield Wednesday,1617,1,1,59,23,18,Gillingham FC,1509,108
+League One ,Accrington Stanley,1490,1,4,37,29,34,Plymouth Argyle,1574,-84
+League One ,Burton Albion,1522,0,1,44,28,28,Charlton Athletic,1542,-20
+League One ,Milton Keynes Dons,1552,4,1,58,24,18,Cambridge United,1452,100
+League Two ,Rochdale AFC,1437,2,2,54,25,21,Leyton Orient,1372,65
+League Two ,Bristol Rovers,1336,2,1,34,29,37,Northampton Town,1453,-117
+League Two ,Port Vale FC,1443,1,1,58,24,18,Bradford City,1344,99
+League Two ,Tranmere Rovers,1395,0,1,53,26,21,Sutton United,1337,58
+League Two ,Exeter City,1445,2,1,67,20,13,Oldham Athletic,1262,183
+League Two ,Walsall FC,1336,1,3,48,27,25,Harrogate Town,1324,12
+League Two ,Stevenage FC,1305,1,2,43,29,29,Mansfield Town,1336,-31
+League Two ,Carlisle United,1291,0,0,44,28,27,Barrow AFC,1308,-17
+League Two ,Scunthorpe United,1201,1,1,28,28,44,Salford City,1382,-181
+National League ,Stockport County,1243,1,1,45,28,27,Bromley FC,1254,-11
+National League ,Notts County,1254,2,0,50,27,23,Solihull Moors,1219,35
+National League ,Altrincham FC,1087,1,1,31,29,40,Boreham Wood,1227,-140
+National League ,Yeovil Town,1114,2,1,42,29,29,Eastleigh FC,1150,-36
+National League ,Aldershot Town,1011,2,1,23,26,51,Grimsby Town,1253,-242
+National League ,Maidenhead United,1072,1,4,33,29,37,Dagenham & Redbridge,1191,-119
+National League ,Chesterfield FC,1262,4,0,75,16,9,Weymouth FC,998,264
+National League ,Southend United,1169,0,2,60,23,17,Woking FC,1049,120
+National League ,Kings Lynn,935,2,6,18,23,59,Wrexham AFC,1240,-305
+National League ,Torquay United,1188,2,1,70,18,12,Dover Athletic,975,213
+National League ,Wealdstone FC,987,1,0,40,29,31,Barnet FC,1043,-56
+League One ,Bolton Wanderers,1458,2,0,51,26,23,Crewe Alexandra,1415,43
+League Two ,Hartlepool United,1308,1,2,36,29,34,Newport County,1398,-90
+National League ,Aldershot Town,1025,0,5,26,28,46,Wrexham AFC,1226,-201
+FA Cup ,Dagenham & Redbridge,1199,0,1,28,28,43,Salford City,1374,-175
+Premier League ,West Ham United,2111,3,2,26,28,46,Liverpool FC,2307,-196
+Premier League ,Leeds United,1976,1,1,38,29,32,Leicester City,2047,-71
+Premier League ,Arsenal FC,2143,1,0,75,16,9,Watford FC,1873,270
+Premier League ,Everton FC,1979,0,0,40,29,31,Tottenham Hotspur,2031,-52
+FA Cup ,Sheffield Wednesday,1621,0,0,52,26,22,Plymouth Argyle,1570,51
+FA Cup ,Oxford United,1610,2,2,76,16,8,Bristol Rovers,1328,282
+FA Cup ,Bolton Wanderers,1465,2,2,72,18,11,Stockport County,1236,229
+FA Cup ,Rochdale AFC,1444,1,1,69,19,12,Notts County,1247,197
+FA Cup ,St. Albans City,984,3,2,10,16,74,Forest Green Rovers,1439,-455
+Premier League ,Manchester United,2157,0,2,32,29,39,Manchester City,2294,-137
+Premier League ,Chelsea FC,2240,1,1,80,14,6,Burnley FC,1899,341
+Premier League ,Crystal Palace,1946,2,0,43,29,28,Wolverhampton Wanderers,1973,-27
+Premier League ,Brighton & Hove Albion,1975,1,1,56,24,19,Newcastle United,1889,86
+Premier League ,Brentford FC,1932,1,2,58,24,18,Norwich City,1830,102
+Championship ,AFC Bournemouth,1874,4,0,58,23,18,Swansea City,1771,103
+Championship ,West Bromwich Albion,1832,1,1,65,21,14,Middlesbrough FC,1670,162
+Championship ,Peterborough United,1611,0,1,20,24,56,Fulham FC,1890,-279
+Championship ,Blackburn Rovers,1704,3,1,39,29,32,Sheffield United,1772,-68
+Championship ,Luton Town,1711,0,1,43,29,28,Stoke City,1739,-28
+Championship ,Blackpool FC,1695,1,1,40,29,31,Queens Park Rangers,1746,-51
+Championship ,Nottingham Forest,1689,3,0,43,29,29,Preston North End,1718,-29
+Championship ,Cardiff City,1662,2,1,45,28,27,Huddersfield Town,1675,-13
+Championship ,Millwall FC,1710,1,1,57,24,19,Derby County,1615,95
+Championship ,Coventry City,1706,3,2,57,24,19,Bristol City,1611,95
+Championship ,Birmingham City,1649,1,2,44,28,28,Reading FC,1667,-18
+Championship ,Barnsley FC,1668,0,2,53,26,22,Hull City,1614,54
+FA Cup ,Fleetwood Town,1511,1,2,46,28,26,Burton Albion,1509,2
+FA Cup ,Gillingham FC,1513,1,1,50,27,23,Cheltenham Town,1479,34
+FA Cup ,Sunderland AFC,1648,0,1,79,14,7,Mansfield Town,1318,330
+FA Cup ,Hartlepool United,1302,2,2,16,22,62,Wycombe Wanderers,1632,-330
+FA Cup ,Port Vale FC,1425,5,1,37,29,34,Accrington Stanley,1508,-83
+FA Cup ,Northampton Town,1456,2,2,47,28,25,Cambridge United,1449,7
+FA Cup ,Rotherham United,1645,3,0,83,12,5,Bromley FC,1256,389
+FA Cup ,Crewe Alexandra,1438,0,3,48,27,25,Swindon Town,1427,11
+FA Cup ,Milton Keynes Dons,1560,2,2,75,16,9,Stevenage FC,1297,263
+FA Cup ,Morecambe FC,1423,1,0,48,27,25,Newport County,1405,18
+FA Cup ,Wigan Athletic,1611,0,0,83,12,5,Solihull Moors,1210,401
+FA Cup ,Ipswich Town,1556,1,1,78,15,8,Oldham Athletic,1254,302
+FA Cup ,Bradford City,1344,1,1,35,29,35,Exeter City,1445,-101
+FA Cup ,Crawley Town,1297,0,1,37,29,34,Tranmere Rovers,1385,-88
+FA Cup ,Scunthorpe United,1207,0,1,23,26,50,Doncaster Rovers,1442,-235
+FA Cup ,Charlton Athletic,1541,4,0,88,10,2,Havant & Waterlooville,1019,522
+FA Cup ,Harrogate Town,1319,2,1,57,24,19,Wrexham AFC,1231,88
+FA Cup ,Leyton Orient,1370,1,0,73,17,10,Ebbsfleet United,1120,250
+FA Cup ,AFC Wimbledon,1477,1,0,86,11,3,Guiseley AFC,1005,472
+FA Cup ,Chesterfield FC,1254,3,1,55,25,20,Southend United,1177,77
+FA Cup ,Boreham Wood,1218,2,0,53,25,21,Eastleigh FC,1159,59
+FA Cup ,Hayes & Yeading United,1016,0,1,17,23,60,Sutton United,1333,-317
+FA Cup ,Kidderminster Harriers,1066,1,0,26,28,46,Grimsby Town,1266,-200
+FA Cup ,Halifax Town,1223,7,4,63,21,15,Maidenhead United,1079,144
+FA Cup ,Kings Lynn,938,0,1,13,19,69,Walsall FC,1333,-395
+FA Cup ,Gateshead FC,1127,2,2,51,26,22,Altrincham FC,1083,44
+Premier League ,Southampton FC,1952,1,0,45,28,27,Aston Villa,1960,-8
+Europa Conf. League ,Tottenham Hotspur,2029,3,2,73,17,10,Vitesse,1784,245
+Europa League ,KRC Genk,1835,2,2,20,24,56,West Ham United,2117,-282
+Europa League ,Leicester City,2056,1,1,72,17,11,Spartak Moskva,1824,232
+Championship ,Blackburn Rovers,1723,0,7,31,29,40,Fulham FC,1871,-148
+Championship ,AFC Bournemouth,1891,1,2,68,19,13,Preston North End,1701,190
+Championship ,West Bromwich Albion,1829,1,0,70,18,12,Hull City,1617,212
+Championship ,Blackpool FC,1707,0,1,44,28,28,Stoke City,1727,-20
+Championship ,Cardiff City,1673,0,1,39,29,32,Queens Park Rangers,1735,-62
+Championship ,Barnsley FC,1662,2,1,51,26,23,Derby County,1621,41
+Champions League ,Liverpool FC,2298,2,0,62,22,16,Atlético Madrid,2166,132
+Champions League ,Manchester City,2290,4,1,79,14,7,Club Brugge KV,1966,324
+Championship ,Coventry City,1718,1,2,42,29,30,Swansea City,1759,-41
+Championship ,Nottingham Forest,1689,1,1,37,29,34,Sheffield United,1772,-83
+Championship ,Luton Town,1701,3,1,49,27,24,Middlesbrough FC,1680,21
+Championship ,Millwall FC,1704,1,0,50,27,23,Reading FC,1673,31
+Championship ,Peterborough United,1612,1,1,39,29,32,Huddersfield Town,1674,-62
+Championship ,Birmingham City,1637,3,0,48,27,25,Bristol City,1623,14
+League One ,Sheffield Wednesday,1606,3,0,40,29,31,Sunderland AFC,1663,-57
+League One ,Wycombe Wanderers,1660,1,4,62,22,16,Ipswich Town,1528,132
+League One ,Charlton Athletic,1541,1,1,35,29,36,Rotherham United,1645,-104
+League One ,Fleetwood Town,1522,2,3,38,29,33,Wigan Athletic,1600,-78
+League One ,Portsmouth FC,1544,1,1,55,25,20,Cheltenham Town,1474,70
+League One ,Crewe Alexandra,1441,1,1,46,28,26,Doncaster Rovers,1439,2
+League One ,Morecambe FC,1443,0,2,48,27,25,Cambridge United,1429,14
+National League ,Woking FC,1060,0,2,27,28,45,Bromley FC,1245,-185
+National League ,Southend United,1172,4,1,68,19,13,Dover Athletic,980,192
+Champions League ,Atalanta,2124,2,2,43,29,29,Manchester United,2154,-30
+Champions League ,Malmö FF,1852,0,1,13,19,67,Chelsea FC,2235,-383
+Premier League ,Wolverhampton Wanderers,1965,2,1,44,28,28,Everton FC,1987,-22
+Premier League ,Aston Villa,1976,1,4,33,29,38,West Ham United,2101,-125
+Premier League ,Norwich City,1839,1,2,33,29,38,Leeds United,1967,-128
+Premier League ,Liverpool FC,2307,2,2,80,14,6,Brighton & Hove Albion,1966,341
+Premier League ,Manchester City,2318,0,2,83,12,5,Crystal Palace,1918,400
+Premier League ,Leicester City,2073,0,2,40,29,31,Arsenal FC,2126,-53
+Premier League ,Tottenham Hotspur,2047,0,3,36,29,34,Manchester United,2136,-89
+Premier League ,Newcastle United,1896,0,3,16,22,62,Chelsea FC,2228,-332
+Premier League ,Burnley FC,1886,3,1,40,29,31,Brentford FC,1945,-59
+Premier League ,Watford FC,1884,0,1,40,29,31,Southampton FC,1941,-57
+Championship ,Fulham FC,1859,3,0,48,27,25,West Bromwich Albion,1841,18
+Championship ,Reading FC,1684,0,2,26,28,46,AFC Bournemouth,1880,-196
+Championship ,Sheffield United,1787,0,1,57,24,19,Blackpool FC,1692,95
+Championship ,Preston North End,1689,2,0,43,28,28,Luton Town,1713,-24
+Championship ,Stoke City,1731,3,3,54,25,21,Cardiff City,1669,62
+Championship ,Huddersfield Town,1665,1,0,41,29,30,Millwall FC,1713,-48
+Championship ,Swansea City,1752,3,0,62,22,16,Peterborough United,1619,133
+Championship ,Derby County,1632,1,2,37,29,33,Blackburn Rovers,1712,-80
+Championship ,Hull City,1628,0,1,37,29,33,Coventry City,1707,-79
+Championship ,Middlesbrough FC,1702,0,2,57,24,19,Birmingham City,1615,87
+Championship ,Bristol City,1614,2,1,40,29,31,Barnsley FC,1671,-57
+League One ,Rotherham United,1629,5,1,41,29,30,Sunderland AFC,1679,-50
+League One ,Fleetwood Town,1521,3,3,31,29,40,Wycombe Wanderers,1661,-140
+League One ,Wigan Athletic,1592,2,0,55,25,20,Burton Albion,1517,75
+League One ,Plymouth Argyle,1564,2,1,50,27,24,Ipswich Town,1534,30
+League One ,Cheltenham Town,1473,2,2,32,29,39,Sheffield Wednesday,1607,-134
+League One ,Oxford United,1604,3,1,64,21,15,Morecambe FC,1449,155
+League One ,Gillingham FC,1516,0,0,48,27,25,Accrington Stanley,1505,11
+League One ,Portsmouth FC,1539,1,0,54,25,21,Bolton Wanderers,1470,69
+League One ,Lincoln City,1558,1,1,60,23,17,Shrewsbury Town,1444,114
+League One ,Crewe Alexandra,1459,1,4,37,29,34,Milton Keynes Dons,1542,-83
+League One ,Charlton Athletic,1531,4,0,56,24,20,Doncaster Rovers,1449,82
+League One ,Cambridge United,1420,1,0,39,29,32,AFC Wimbledon,1486,-66
+League Two ,Salford City,1386,1,2,41,29,30,Exeter City,1433,-47
+League Two ,Bradford City,1344,1,1,36,29,35,Forest Green Rovers,1439,-95
+League Two ,Barrow AFC,1318,1,2,34,29,37,Rochdale AFC,1434,-116
+League Two ,Northampton Town,1449,3,0,64,21,15,Carlisle United,1298,151
+League Two ,Crawley Town,1315,1,4,36,29,34,Port Vale FC,1407,-92
+League Two ,Mansfield Town,1303,2,0,36,29,35,Tranmere Rovers,1400,-97
+League Two ,Newport County,1395,5,0,57,24,19,Stevenage FC,1307,88
+League Two ,Oldham Athletic,1267,1,3,31,29,40,Swindon Town,1414,-147
+League Two ,Leyton Orient,1358,5,0,51,26,22,Hartlepool United,1314,44
+League Two ,Sutton United,1346,0,1,49,27,24,Walsall FC,1320,26
+League Two ,Harrogate Town,1332,0,1,48,27,25,Bristol Rovers,1315,17
+League Two ,Colchester United,1283,2,1,55,25,20,Scunthorpe United,1212,71
+National League ,Grimsby Town,1280,0,1,52,26,22,Notts County,1233,47
+National League ,Bromley FC,1249,0,0,50,27,24,Halifax Town,1219,30
+National League ,Dagenham & Redbridge,1200,2,2,40,29,31,Chesterfield FC,1253,-53
+National League ,Wrexham AFC,1235,1,1,52,26,22,Torquay United,1184,51
+National League ,Boreham Wood,1212,1,0,50,27,23,Southend United,1178,34
+National League ,Solihull Moors,1215,0,0,59,23,18,Yeovil Town,1109,106
+National League ,Eastleigh FC,1153,1,0,54,25,21,Maidenhead United,1085,68
+National League ,Dover Athletic,991,2,5,23,26,50,Stockport County,1225,-234
+National League ,Woking FC,1052,3,2,42,29,29,Altrincham FC,1091,-39
+National League ,Barnet FC,1036,2,1,47,28,26,Aldershot Town,1032,4
+National League ,Weymouth FC,992,1,0,52,26,22,Kings Lynn,944,48
+Championship ,Queens Park Rangers,1739,1,1,53,26,22,Nottingham Forest,1685,54
+League Cup ,West Ham United,2098,0,0,24,27,49,Manchester City,2321,-223
+League Cup ,Leicester City,2077,2,2,60,23,17,Brighton & Hove Albion,1962,115
+League Cup ,Preston North End,1690,0,2,4,11,84,Liverpool FC,2306,-616
+League Cup ,Burnley FC,1892,0,1,31,29,40,Tottenham Hotspur,2041,-149
+League Cup ,Stoke City,1736,1,2,26,27,47,Brentford FC,1940,-204
+League One ,Wigan Athletic,1606,1,2,54,25,21,Lincoln City,1544,62
+League One ,Doncaster Rovers,1453,1,1,51,26,23,Cambridge United,1416,37
+League Two ,Colchester United,1301,1,3,43,29,28,Sutton United,1328,-27
+National League ,Notts County,1235,1,1,45,28,27,Bromley FC,1247,-12
+National League ,Halifax Town,1212,1,0,47,28,26,Dagenham & Redbridge,1207,5
+National League ,Chesterfield FC,1248,1,0,57,24,19,Eastleigh FC,1158,90
+National League ,Maidenhead United,1073,3,2,28,28,43,Wrexham AFC,1247,-174
+National League ,Altrincham FC,1101,1,2,35,29,36,Solihull Moors,1205,-104
+National League ,Wealdstone FC,971,1,0,17,22,61,Grimsby Town,1296,-325
+National League ,Stockport County,1242,1,2,71,18,11,Barnet FC,1019,223
+National League ,Yeovil Town,1100,2,0,51,26,23,Woking FC,1061,39
+National League ,Kings Lynn,950,0,1,22,25,53,Boreham Wood,1206,-256
+National League ,Aldershot Town,1054,0,2,56,24,19,Weymouth FC,970,84
+League Cup ,Chelsea FC,2234,1,1,77,15,8,Southampton FC,1935,299
+League Cup ,Arsenal FC,2122,2,0,64,21,15,Leeds United,1971,151
+League Cup ,Queens Park Rangers,1742,0,0,54,25,21,Sunderland AFC,1676,66
+Premier League ,Manchester United,2154,0,5,32,29,39,Liverpool FC,2288,-134
+Premier League ,West Ham United,2092,1,0,52,26,22,Tottenham Hotspur,2047,45
+Premier League ,Brentford FC,1949,1,2,33,29,37,Leicester City,2068,-119
+Championship ,Nottingham Forest,1701,0,4,31,29,40,Fulham FC,1843,-142
+Championship ,Barnsley FC,1681,2,3,36,29,35,Sheffield United,1777,-96
+Premier League ,Brighton & Hove Albion,1969,1,4,15,21,63,Manchester City,2314,-345
+Premier League ,Chelsea FC,2231,7,0,83,12,5,Norwich City,1842,389
+Premier League ,Leeds United,1974,1,1,48,27,25,Wolverhampton Wanderers,1962,12
+Premier League ,Everton FC,2016,2,5,65,21,14,Watford FC,1855,161
+Premier League ,Southampton FC,1939,2,2,52,26,22,Burnley FC,1888,51
+Premier League ,Crystal Palace,1922,1,1,50,27,24,Newcastle United,1892,30
+Championship ,AFC Bournemouth,1875,3,0,69,19,12,Huddersfield Town,1670,205
+Championship ,West Bromwich Albion,1836,3,0,71,18,11,Bristol City,1619,217
+Championship ,Millwall FC,1705,2,1,42,29,29,Stoke City,1744,-39
+Championship ,Blackburn Rovers,1702,2,0,47,28,25,Reading FC,1694,8
+Championship ,Blackpool FC,1680,2,0,44,28,28,Preston North End,1702,-22
+Championship ,Cardiff City,1688,0,2,47,28,26,Middlesbrough FC,1683,5
+Championship ,Birmingham City,1603,2,1,29,29,42,Swansea City,1764,-161
+Championship ,Peterborough United,1608,2,1,31,29,40,Queens Park Rangers,1753,-145
+Championship ,Luton Town,1708,1,0,55,25,20,Hull City,1633,75
+Championship ,Coventry City,1712,1,1,56,24,19,Derby County,1627,85
+League One ,Sunderland AFC,1693,0,1,67,20,13,Charlton Athletic,1514,179
+League One ,Milton Keynes Dons,1562,0,3,41,29,30,Rotherham United,1609,-47
+League One ,Sheffield Wednesday,1612,1,1,55,25,20,Lincoln City,1539,73
+League One ,Burton Albion,1534,1,3,40,29,31,Oxford United,1587,-53
+League One ,Wycombe Wanderers,1658,2,1,68,19,12,Crewe Alexandra,1462,196
+League One ,AFC Wimbledon,1502,0,2,37,29,34,Wigan Athletic,1590,-88
+League One ,Ipswich Town,1527,2,1,46,28,26,Fleetwood Town,1528,-1
+League One ,Accrington Stanley,1507,2,2,43,29,29,Portsmouth FC,1537,-30
+League One ,Morecambe FC,1449,1,1,34,29,37,Plymouth Argyle,1564,-115
+League One ,Bolton Wanderers,1472,2,2,41,29,30,Gillingham FC,1514,-42
+League One ,Doncaster Rovers,1445,3,2,42,29,29,Cheltenham Town,1481,-36
+League One ,Shrewsbury Town,1431,4,1,46,28,26,Cambridge United,1429,2
+League Two ,Tranmere Rovers,1419,0,2,45,28,27,Northampton Town,1430,-11
+League Two ,Forest Green Rovers,1429,3,1,50,27,23,Salford City,1396,33
+League Two ,Rochdale AFC,1429,3,2,58,24,19,Sutton United,1333,96
+League Two ,Swindon Town,1437,1,3,60,23,17,Bradford City,1321,116
+League Two ,Exeter City,1429,2,1,61,23,17,Mansfield Town,1307,122
+League Two ,Bristol Rovers,1332,1,3,41,29,30,Newport County,1378,-46
+League Two ,Port Vale FC,1398,3,0,57,24,19,Colchester United,1310,88
+League Two ,Stevenage FC,1309,0,0,41,29,30,Leyton Orient,1356,-47
+League Two ,Hartlepool United,1306,3,2,42,29,29,Harrogate Town,1340,-34
+League Two ,Walsall FC,1323,2,2,47,28,25,Barrow AFC,1315,8
+League Two ,Carlisle United,1302,0,0,51,26,23,Oldham Athletic,1263,39
+League Two ,Scunthorpe United,1201,2,1,33,29,38,Crawley Town,1326,-125
+National League ,Notts County,1227,2,1,44,28,28,Stockport County,1250,-23
+National League ,Chesterfield FC,1242,2,1,50,27,24,Boreham Wood,1212,30
+National League ,Solihull Moors,1197,1,0,44,28,28,Halifax Town,1220,-23
+National League ,Grimsby Town,1291,2,0,67,20,13,Yeovil Town,1105,186
+National League ,Dagenham & Redbridge,1195,3,0,47,28,26,Southend United,1190,5
+National League ,Aldershot Town,1062,2,3,28,28,44,Bromley FC,1239,-177
+National League ,Barnet FC,1032,0,3,26,28,47,Wrexham AFC,1234,-202
+National League ,Eastleigh FC,1152,2,1,52,26,22,Altrincham FC,1107,45
+National League ,Maidenhead United,1066,3,2,46,28,26,Woking FC,1068,-2
+National League ,Torquay United,1180,2,0,71,18,11,Kings Lynn,954,226
+National League ,Weymouth FC,973,1,1,47,28,26,Wealdstone FC,968,5
+Premier League ,Arsenal FC,2116,3,1,62,22,16,Aston Villa,1982,134
+Europa Conf. League ,Vitesse,1776,1,0,19,24,57,Tottenham Hotspur,2062,-286
+Europa League ,West Ham United,2087,3,0,73,17,10,KRC Genk,1845,242
+Championship ,Swansea City,1754,2,1,36,29,34,West Bromwich Albion,1846,-92
+Championship ,Fulham FC,1837,2,0,63,22,16,Cardiff City,1694,143
+Championship ,Preston North End,1694,2,1,43,29,28,Coventry City,1720,-26
+Championship ,Reading FC,1708,2,3,51,26,23,Blackpool FC,1666,42
+Championship ,Middlesbrough FC,1671,2,0,44,28,28,Barnsley FC,1693,-22
+Championship ,Huddersfield Town,1675,0,0,55,25,20,Birmingham City,1598,77
+Championship ,Hull City,1647,1,2,52,26,22,Peterborough United,1594,53
+Champions League ,Manchester United,2143,3,2,47,28,26,Atalanta,2139,4
+Champions League ,Chelsea FC,2228,4,0,82,13,5,Malmö FF,1847,381
+Europa League ,Spartak Moskva,1846,3,4,25,27,48,Leicester City,2059,-213
+Championship ,Stoke City,1754,0,1,34,29,36,AFC Bournemouth,1865,-111
+Championship ,Sheffield United,1792,1,2,58,24,18,Millwall FC,1690,102
+Championship ,Queens Park Rangers,1747,1,0,51,26,23,Blackburn Rovers,1708,39
+Championship ,Derby County,1628,2,2,37,29,33,Luton Town,1707,-79
+Championship ,Bristol City,1630,1,2,39,29,31,Nottingham Forest,1690,-60
+League One ,Rotherham United,1611,0,0,41,29,30,Wycombe Wanderers,1656,-45
+League One ,Crewe Alexandra,1475,0,4,26,27,47,Sunderland AFC,1680,-205
+League One ,Wigan Athletic,1604,1,2,53,26,22,Milton Keynes Dons,1548,56
+League One ,Portsmouth FC,1564,0,4,54,25,21,Ipswich Town,1500,64
+League One ,Fleetwood Town,1541,0,1,49,27,24,Burton Albion,1521,20
+League One ,Cambridge United,1426,1,1,27,28,45,Sheffield Wednesday,1615,-189
+League One ,Lincoln City,1553,0,1,54,25,21,AFC Wimbledon,1488,65
+League One ,Plymouth Argyle,1555,3,0,55,25,20,Bolton Wanderers,1481,74
+League One ,Charlton Athletic,1528,2,3,50,27,23,Accrington Stanley,1493,35
+League One ,Oxford United,1581,2,0,63,21,15,Shrewsbury Town,1437,144
+League One ,Gillingham FC,1508,1,0,53,26,21,Doncaster Rovers,1451,57
+League One ,Cheltenham Town,1471,3,1,48,27,25,Morecambe FC,1459,12
+League Two ,Salford City,1398,0,0,43,29,29,Rochdale AFC,1427,-29
+League Two ,Leyton Orient,1357,1,1,38,29,32,Forest Green Rovers,1428,-71
+League Two ,Sutton United,1343,1,2,37,29,34,Swindon Town,1427,-84
+League Two ,Harrogate Town,1341,2,2,38,29,33,Tranmere Rovers,1418,-77
+League Two ,Crawley Town,1342,1,3,38,29,32,Exeter City,1413,-71
+League Two ,Northampton Town,1422,3,0,59,23,18,Stevenage FC,1317,105
+League Two ,Mansfield Town,1307,1,1,36,29,34,Port Vale FC,1398,-91
+League Two ,Newport County,1383,2,2,56,24,19,Carlisle United,1297,86
+League Two ,Colchester United,1312,1,1,44,28,28,Bristol Rovers,1330,-18
+League Two ,Bradford City,1342,1,3,53,26,21,Hartlepool United,1285,57
+League Two ,Oldham Athletic,1281,1,3,43,28,28,Walsall FC,1305,-24
+League Two ,Barrow AFC,1321,1,1,61,22,17,Scunthorpe United,1195,126
+Champions League ,Atlético Madrid,2184,2,3,37,29,34,Liverpool FC,2272,-88
+Champions League ,Club Brugge KV,1973,1,5,16,22,62,Manchester City,2302,-329
+Premier League ,Arsenal FC,2123,2,2,70,19,12,Crystal Palace,1915,208
+Premier League ,Everton FC,2028,0,1,41,29,30,West Ham United,2075,-47
+Premier League ,Newcastle United,1901,2,3,30,29,41,Tottenham Hotspur,2053,-152
+Championship ,Swansea City,1743,3,0,51,26,23,Cardiff City,1705,38
+Premier League ,Leicester City,2043,4,2,34,29,37,Manchester United,2159,-116
+Premier League ,Manchester City,2301,2,0,84,12,4,Burnley FC,1889,412
+Premier League ,Brentford FC,1954,0,1,21,25,55,Chelsea FC,2223,-269
+Premier League ,Watford FC,1861,0,5,12,18,70,Liverpool FC,2266,-405
+Premier League ,Aston Villa,1996,2,3,52,26,22,Wolverhampton Wanderers,1948,48
+Premier League ,Southampton FC,1930,1,0,40,29,31,Leeds United,1983,-53
+Premier League ,Norwich City,1841,0,0,32,29,38,Brighton & Hove Albion,1970,-129
+Championship ,Fulham FC,1828,4,1,55,25,20,Queens Park Rangers,1756,72
+Championship ,Sheffield United,1785,2,1,49,27,24,Stoke City,1761,24
+Championship ,Bristol City,1640,0,2,25,27,48,AFC Bournemouth,1855,-215
+Championship ,Blackburn Rovers,1711,2,2,46,28,27,Coventry City,1717,-6
+Championship ,Reading FC,1701,1,0,46,28,26,Barnsley FC,1700,1
+Championship ,Millwall FC,1710,0,2,49,27,24,Luton Town,1687,23
+Championship ,Nottingham Forest,1683,2,1,47,27,25,Blackpool FC,1673,10
+Championship ,Preston North End,1699,0,0,55,25,20,Derby County,1623,76
+Championship ,Huddersfield Town,1664,2,0,47,28,25,Hull City,1658,6
+Championship ,Middlesbrough FC,1662,2,0,53,25,21,Peterborough United,1603,59
+League One ,Gillingham FC,1516,1,2,30,29,41,Sunderland AFC,1672,-156
+League One ,Rotherham United,1600,4,1,49,27,24,Portsmouth FC,1575,25
+League One ,Oxford United,1603,1,3,55,25,20,Plymouth Argyle,1533,70
+League One ,Doncaster Rovers,1463,0,2,28,28,44,Wycombe Wanderers,1644,-181
+League One ,AFC Wimbledon,1487,2,2,32,29,38,Sheffield Wednesday,1616,-129
+League One ,Bolton Wanderers,1501,0,4,37,29,34,Wigan Athletic,1584,-83
+League One ,Lincoln City,1546,2,1,48,27,25,Charlton Athletic,1535,11
+League One ,Fleetwood Town,1530,3,0,51,26,22,Crewe Alexandra,1486,44
+League One ,Shrewsbury Town,1426,1,0,32,29,39,Milton Keynes Dons,1559,-133
+League One ,Cheltenham Town,1463,1,0,42,29,29,Accrington Stanley,1501,-38
+League One ,Cambridge United,1427,2,2,38,29,33,Ipswich Town,1499,-72
+League Two ,Swindon Town,1430,2,2,47,28,25,Rochdale AFC,1424,6
+League Two ,Exeter City,1417,2,2,51,26,23,Newport County,1379,38
+League Two ,Northampton Town,1415,2,0,58,24,18,Mansfield Town,1314,101
+League Two ,Port Vale FC,1389,3,1,53,25,21,Barrow AFC,1330,59
+League Two ,Carlisle United,1307,0,1,35,29,35,Tranmere Rovers,1408,-101
+League Two ,Crawley Town,1356,0,1,49,27,24,Sutton United,1329,27
+League Two ,Salford City,1391,2,0,58,24,18,Hartlepool United,1292,99
+League Two ,Bradford City,1345,2,2,48,27,25,Bristol Rovers,1327,18
+League Two ,Leyton Orient,1361,0,0,53,25,21,Walsall FC,1301,60
+League Two ,Colchester United,1304,1,0,41,29,30,Harrogate Town,1349,-45
+League Two ,Scunthorpe United,1205,0,2,25,27,48,Forest Green Rovers,1418,-213
+League Two ,Oldham Athletic,1265,3,0,39,29,32,Stevenage FC,1333,-68
+Championship ,West Bromwich Albion,1844,1,0,73,17,10,Birmingham City,1600,244
+League One ,Burton Albion,1515,3,2,52,26,22,Morecambe FC,1465,50
+National League ,Yeovil Town,1108,1,1,47,28,26,Altrincham FC,1104,4
+League One ,Wycombe Wanderers,1637,2,0,60,23,17,Gillingham FC,1523,114
+League One ,Sheffield Wednesday,1611,1,0,59,23,18,Bolton Wanderers,1506,105
+League One ,Plymouth Argyle,1526,2,1,47,28,26,Burton Albion,1522,4
+League One ,Ipswich Town,1493,2,1,53,25,21,Shrewsbury Town,1432,61
+League Two ,Forest Green Rovers,1438,0,2,50,27,24,Swindon Town,1410,28
+League Two ,Rochdale AFC,1439,0,1,58,24,18,Crawley Town,1341,98
+League Two ,Stevenage FC,1333,2,2,37,29,34,Exeter City,1417,-84
+League Two ,Newport County,1383,0,0,51,26,23,Bradford City,1341,42
+League Two ,Sutton United,1320,4,3,38,29,33,Port Vale FC,1398,-78
+League Two ,Hartlepool United,1281,2,1,31,29,40,Northampton Town,1426,-145
+League Two ,Walsall FC,1291,2,1,34,29,36,Salford City,1401,-110
+League Two ,Barrow AFC,1332,1,1,43,29,28,Leyton Orient,1359,-27
+League Two ,Bristol Rovers,1314,3,0,46,28,27,Carlisle United,1320,-6
+League Two ,Mansfield Town,1318,0,0,53,26,21,Oldham Athletic,1261,57
+League Two ,Harrogate Town,1340,6,1,61,22,17,Scunthorpe United,1214,126
+National League ,Southend United,1214,0,4,46,28,26,Chesterfield FC,1218,-4
+National League ,Bromley FC,1230,2,0,51,26,23,Torquay United,1189,41
+National League ,Boreham Wood,1201,2,0,46,28,26,Dagenham & Redbridge,1206,-5
+National League ,Woking FC,1075,0,1,25,27,47,Grimsby Town,1284,-209
+National League ,Yeovil Town,1123,0,2,36,29,34,Notts County,1212,-89
+National League ,Stockport County,1247,1,0,67,20,13,Aldershot Town,1065,182
+National League ,Halifax Town,1216,2,0,73,17,10,Weymouth FC,977,239
+National League ,Altrincham FC,1094,2,0,48,27,25,Maidenhead United,1076,18
+National League ,Kings Lynn,960,0,1,24,26,50,Solihull Moors,1191,-231
+National League ,Wealdstone FC,976,1,2,29,29,43,Eastleigh FC,1144,-168
+National League ,Dover Athletic,1003,1,2,44,28,27,Barnet FC,1020,-17
+League Two ,Tranmere Rovers,1400,2,0,57,24,19,Colchester United,1312,88
+National League ,Wrexham AFC,1237,1,1,49,27,24,Chesterfield FC,1215,22
+National League ,Halifax Town,1208,3,2,45,28,27,Notts County,1220,-12
+National League ,Boreham Wood,1190,2,0,45,28,27,Torquay United,1200,-10
+National League ,Altrincham FC,1102,2,3,28,28,43,Grimsby Town,1276,-174
+National League ,Southend United,1208,1,0,53,26,21,Eastleigh FC,1150,58
+National League ,Woking FC,1063,1,0,30,29,41,Dagenham & Redbridge,1218,-155
+National League ,Bromley FC,1226,3,0,73,17,10,Weymouth FC,981,245
+National League ,Yeovil Town,1127,0,0,53,26,22,Maidenhead United,1072,55
+National League ,Wealdstone FC,973,0,0,24,27,49,Solihull Moors,1194,-221
+National League ,Dover Athletic,1015,1,2,42,29,29,Aldershot Town,1053,-38
+National League ,Kings Lynn,961,1,1,40,29,31,Barnet FC,1019,-58
+Premier League ,Liverpool FC,2268,2,2,43,29,29,Manchester City,2299,-31
+Premier League ,Tottenham Hotspur,2047,2,1,52,26,22,Aston Villa,2002,45
+Premier League ,West Ham United,2091,1,2,64,21,15,Brentford FC,1938,153
+Premier League ,Crystal Palace,1914,2,2,32,29,38,Leicester City,2044,-130
+Premier League ,Manchester United,2165,1,1,63,22,16,Everton FC,2022,143
+Premier League ,Chelsea FC,2220,3,1,76,15,8,Southampton FC,1933,287
+Premier League ,Brighton & Hove Albion,1968,0,0,30,29,41,Arsenal FC,2125,-157
+Premier League ,Wolverhampton Wanderers,1942,2,1,50,27,23,Newcastle United,1907,35
+Premier League ,Leeds United,1978,1,0,59,23,18,Watford FC,1866,112
+Premier League ,Burnley FC,1893,0,0,53,26,22,Norwich City,1837,56
+Championship ,AFC Bournemouth,1849,2,1,53,26,21,Sheffield United,1791,58
+Championship ,Coventry City,1697,4,1,30,29,41,Fulham FC,1848,-151
+Championship ,Queens Park Rangers,1750,3,2,52,26,22,Preston North End,1705,45
+Championship ,Barnsley FC,1713,0,1,48,27,25,Millwall FC,1697,16
+Championship ,Cardiff City,1719,0,1,50,27,23,Reading FC,1687,32
+Championship ,Blackpool FC,1664,2,1,40,29,31,Blackburn Rovers,1720,-56
+Championship ,Derby County,1622,0,0,33,29,38,Swansea City,1744,-122
+Championship ,Luton Town,1691,0,0,50,27,23,Huddersfield Town,1660,31
+Championship ,Hull City,1646,2,0,43,29,28,Middlesbrough FC,1674,-28
+Championship ,Birmingham City,1620,0,3,41,29,30,Nottingham Forest,1663,-43
+Championship ,Peterborough United,1615,2,3,45,28,27,Bristol City,1628,-13
+League One ,Portsmouth FC,1554,4,0,31,29,39,Sunderland AFC,1693,-139
+League One ,Sheffield Wednesday,1625,1,2,50,26,23,Oxford United,1589,36
+League One ,Gillingham FC,1541,0,2,43,28,28,Wigan Athletic,1566,-25
+League One ,Wycombe Wanderers,1633,4,3,65,21,14,Morecambe FC,1469,164
+League One ,Lincoln City,1549,2,2,49,27,24,Plymouth Argyle,1523,26
+League One ,Fleetwood Town,1543,1,2,49,27,24,Charlton Athletic,1522,21
+League One ,Cheltenham Town,1478,0,2,35,29,36,Rotherham United,1585,-107
+League One ,Doncaster Rovers,1453,2,1,34,29,37,Milton Keynes Dons,1569,-116
+League One ,AFC Wimbledon,1489,1,1,43,29,29,Burton Albion,1520,-31
+League One ,Accrington Stanley,1494,2,1,46,28,27,Ipswich Town,1500,-6
+League One ,Bolton Wanderers,1500,2,1,54,25,21,Shrewsbury Town,1438,62
+League One ,Crewe Alexandra,1491,2,2,54,25,21,Cambridge United,1422,69
+League Two ,Bradford City,1325,2,0,32,29,38,Rochdale AFC,1455,-130
+League Two ,Carlisle United,1336,0,2,37,29,34,Forest Green Rovers,1422,-86
+League Two ,Port Vale FC,1391,3,2,49,27,24,Leyton Orient,1366,25
+League Two ,Northampton Town,1450,0,2,64,21,15,Sutton United,1296,154
+League Two ,Tranmere Rovers,1394,2,1,52,26,22,Crawley Town,1347,47
+League Two ,Bristol Rovers,1331,1,3,39,29,32,Swindon Town,1393,-62
+League Two ,Colchester United,1329,0,2,40,29,31,Salford City,1384,-55
+League Two ,Exeter City,1423,2,2,62,22,16,Walsall FC,1285,138
+League Two ,Mansfield Town,1331,0,1,48,27,25,Barrow AFC,1319,12
+League Two ,Stevenage FC,1324,2,0,50,27,23,Hartlepool United,1290,34
+League Two ,Oldham Athletic,1272,1,2,40,29,31,Harrogate Town,1329,-57
+League Two ,Newport County,1376,3,0,64,21,15,Scunthorpe United,1221,155
+National League ,Solihull Moors,1182,2,0,42,29,29,Southend United,1220,-38
+National League ,Eastleigh FC,1152,1,1,42,29,29,Boreham Wood,1188,-36
+National League ,Dagenham & Redbridge,1234,2,3,63,21,15,Altrincham FC,1086,148
+National League ,Grimsby Town,1271,6,0,74,17,10,Dover Athletic,1020,251
+National League ,Notts County,1250,1,4,71,18,11,Woking FC,1033,217
+National League ,Weymouth FC,987,1,2,22,25,53,Stockport County,1241,-254
+National League ,Barnet FC,1016,0,0,26,28,46,Halifax Town,1211,-195
+National League ,Torquay United,1194,5,0,70,18,11,Wealdstone FC,979,215
+National League ,Maidenhead United,1088,2,3,63,22,16,Kings Lynn,945,143
+Championship ,Stoke City,1751,1,0,35,29,36,West Bromwich Albion,1854,-103
+Europa Conf. League ,Tottenham Hotspur,2045,5,1,85,11,4,NŠ Mura,1610,435
+Europa League ,Legia Warszawa,1828,1,0,23,26,50,Leicester City,2061,-233
+Europa League ,West Ham United,2088,2,0,78,15,8,Rapid Wien,1782,306
+Championship ,Fulham FC,1840,3,1,57,24,19,Swansea City,1752,88
+Championship ,Peterborough United,1611,0,0,23,26,51,AFC Bournemouth,1853,-242
+Championship ,Luton Town,1675,5,0,42,29,29,Coventry City,1713,-38
+Championship ,Barnsley FC,1736,1,3,58,24,19,Nottingham Forest,1640,96
+Championship ,Millwall FC,1691,1,0,53,26,21,Bristol City,1634,57
+Championship ,Derby County,1612,1,0,37,29,34,Reading FC,1697,-85
+Champions League ,Juventus,2176,1,0,40,29,31,Chelsea FC,2233,-57
+Champions League ,Manchester United,2156,2,1,52,26,22,Villarreal CF,2110,46
+Championship ,Cardiff City,1738,0,4,36,29,35,West Bromwich Albion,1835,-97
+Championship ,Middlesbrough FC,1657,2,0,30,29,41,Sheffield United,1808,-151
+Championship ,Preston North End,1707,1,1,41,29,30,Stoke City,1749,-42
+Championship ,Huddersfield Town,1651,3,2,38,29,33,Blackburn Rovers,1729,-78
+Championship ,Queens Park Rangers,1743,2,0,60,23,17,Birmingham City,1627,116
+Championship ,Hull City,1648,1,1,45,28,27,Blackpool FC,1662,-14
+League One ,Wigan Athletic,1578,1,2,42,29,29,Sheffield Wednesday,1613,-35
+League One ,Sunderland AFC,1687,5,0,69,19,12,Cheltenham Town,1484,203
+League One ,Milton Keynes Dons,1573,3,3,50,27,23,Fleetwood Town,1539,34
+League One ,Oxford United,1579,5,1,55,25,20,Accrington Stanley,1504,75
+League One ,Rotherham United,1576,3,0,55,25,20,AFC Wimbledon,1498,78
+League One ,Burton Albion,1511,2,1,40,29,31,Portsmouth FC,1563,-52
+League One ,Shrewsbury Town,1446,1,2,28,28,44,Wycombe Wanderers,1625,-179
+League One ,Charlton Athletic,1548,1,4,55,25,20,Bolton Wanderers,1474,74
+League One ,Morecambe FC,1454,2,0,34,29,36,Lincoln City,1564,-110
+League One ,Plymouth Argyle,1527,1,1,51,26,23,Crewe Alexandra,1487,40
+League One ,Cambridge United,1438,0,2,37,29,34,Gillingham FC,1525,-87
+League One ,Ipswich Town,1486,6,0,48,27,24,Doncaster Rovers,1467,19
+National League ,Bromley FC,1212,3,1,38,29,33,Grimsby Town,1285,-73
+National League ,Woking FC,1013,3,1,24,27,49,Chesterfield FC,1235,-222
+National League ,Altrincham FC,1079,4,1,61,22,17,Kings Lynn,952,127
+Champions League ,Paris Saint-Germain,2222,2,0,35,29,35,Manchester City,2321,-99
+Champions League ,FC Porto,2124,1,5,34,29,37,Liverpool FC,2241,-117
+Premier League ,Crystal Palace,1915,1,1,40,29,31,Brighton & Hove Albion,1967,-52
+Premier League ,Arsenal FC,2117,3,1,54,25,21,Tottenham Hotspur,2053,64
+Premier League ,Southampton FC,1946,0,1,48,27,25,Wolverhampton Wanderers,1929,17
+Premier League ,Chelsea FC,2244,0,1,39,29,32,Manchester City,2310,-66
+Premier League ,Brentford FC,1933,3,3,18,23,60,Liverpool FC,2246,-313
+Premier League ,Manchester United,2173,0,1,68,19,13,Aston Villa,1985,188
+Premier League ,Leeds United,1988,1,2,36,29,34,West Ham United,2078,-90
+Premier League ,Leicester City,2068,2,2,67,20,13,Burnley FC,1886,182
+Premier League ,Everton FC,2017,2,0,66,20,14,Norwich City,1842,175
+Premier League ,Watford FC,1868,1,1,42,29,29,Newcastle United,1905,-37
+Championship ,AFC Bournemouth,1850,2,1,66,20,14,Luton Town,1678,172
+Championship ,Bristol City,1631,1,1,25,27,48,Fulham FC,1843,-212
+Championship ,Blackburn Rovers,1713,5,1,42,29,30,Cardiff City,1754,-41
+Championship ,Sheffield United,1805,1,0,68,19,13,Derby County,1615,190
+Championship ,Swansea City,1747,1,0,57,24,19,Huddersfield Town,1656,91
+Championship ,Blackpool FC,1652,1,0,36,29,35,Barnsley FC,1746,-94
+Championship ,Stoke City,1741,2,0,56,24,19,Hull City,1656,85
+Championship ,Reading FC,1690,1,0,49,27,24,Middlesbrough FC,1664,26
+Championship ,Birmingham City,1628,0,0,38,29,33,Preston North End,1706,-78
+Championship ,Nottingham Forest,1641,1,1,41,29,30,Millwall FC,1690,-49
+League One ,Milton Keynes Dons,1564,1,0,38,29,32,Wycombe Wanderers,1634,-70
+League One ,Sunderland AFC,1684,1,0,70,19,12,Bolton Wanderers,1477,207
+League One ,Charlton Athletic,1551,2,2,45,28,27,Portsmouth FC,1560,-9
+League One ,Oxford United,1583,1,1,54,25,21,Gillingham FC,1521,62
+League One ,Ipswich Town,1485,1,1,32,29,38,Sheffield Wednesday,1614,-129
+League One ,Burton Albion,1523,1,2,43,29,29,Lincoln City,1552,-29
+League One ,Rotherham United,1581,1,1,58,24,18,Crewe Alexandra,1482,99
+League One ,Wigan Athletic,1570,2,0,55,25,20,Cheltenham Town,1492,78
+League One ,Plymouth Argyle,1521,2,1,52,26,22,Doncaster Rovers,1473,48
+League One ,Cambridge United,1438,2,2,35,29,35,Fleetwood Town,1539,-101
+League One ,Morecambe FC,1456,3,3,41,29,30,Accrington Stanley,1502,-46
+League One ,Shrewsbury Town,1437,2,1,38,29,32,AFC Wimbledon,1507,-70
+League Two ,Salford City,1385,2,2,39,29,32,Northampton Town,1449,-64
+League Two ,Forest Green Rovers,1426,0,0,50,26,23,Tranmere Rovers,1390,36
+League Two ,Rochdale AFC,1472,0,1,71,18,11,Oldham Athletic,1255,217
+League Two ,Swindon Town,1398,0,0,55,25,20,Colchester United,1324,74
+League Two ,Hartlepool United,1289,1,1,32,29,39,Exeter City,1424,-135
+League Two ,Leyton Orient,1370,0,0,51,26,23,Mansfield Town,1327,43
+League Two ,Crawley Town,1340,2,1,47,28,25,Bradford City,1332,8
+League Two ,Harrogate Town,1332,0,0,48,27,25,Stevenage FC,1321,11
+League Two ,Sutton United,1279,4,0,38,29,33,Carlisle United,1353,-74
+League Two ,Walsall FC,1297,1,2,44,28,28,Bristol Rovers,1319,-22
+League Two ,Scunthorpe United,1229,0,1,30,29,41,Port Vale FC,1383,-154
+National League ,Stockport County,1233,2,1,45,28,27,Wrexham AFC,1245,-12
+National League ,Chesterfield FC,1239,2,2,52,26,22,Torquay United,1190,49
+National League ,Dagenham & Redbridge,1222,5,1,50,27,24,Solihull Moors,1194,28
+National League ,Maidenhead United,1085,1,1,26,28,47,Grimsby Town,1288,-203
+National League ,Altrincham FC,1066,1,0,26,28,46,Notts County,1263,-197
+National League ,Boreham Wood,1182,2,1,52,26,22,Yeovil Town,1133,49
+National League ,Aldershot Town,1062,0,1,31,29,40,Halifax Town,1202,-140
+National League ,Dover Athletic,1028,0,1,28,28,44,Bromley FC,1204,-176
+National League ,Eastleigh FC,1148,3,2,62,22,16,Woking FC,1017,131
+National League ,Barnet FC,1006,3,1,47,27,25,Weymouth FC,997,9
+National League ,Kings Lynn,965,0,1,46,28,26,Wealdstone FC,966,-1
+Championship ,West Bromwich Albion,1830,2,1,56,24,20,Queens Park Rangers,1748,82
+Championship ,Coventry City,1704,3,0,56,24,19,Peterborough United,1620,84
+League Two ,Barrow AFC,1310,2,1,38,29,33,Newport County,1385,-75
+League Cup ,Manchester United,2185,0,1,60,23,17,West Ham United,2066,119
+League Cup ,Chelsea FC,2250,1,1,75,16,9,Aston Villa,1979,271
+League Cup ,Wolverhampton Wanderers,1928,2,2,33,29,38,Tottenham Hotspur,2054,-126
+League Cup ,Millwall FC,1694,0,2,14,20,66,Leicester City,2064,-370
+League Cup ,Brighton & Hove Albion,1964,2,0,70,18,12,Swansea City,1750,214
+League Cup ,Arsenal FC,2117,3,0,89,9,2,AFC Wimbledon,1507,610
+League One ,Portsmouth FC,1564,2,2,52,26,22,Plymouth Argyle,1517,47
+League One ,Gillingham FC,1523,1,1,43,29,28,Charlton Athletic,1549,-26
+League One ,Crewe Alexandra,1504,1,3,55,25,20,Morecambe FC,1434,70
+League Two ,Crawley Town,1343,2,2,48,27,25,Harrogate Town,1329,14
+National League ,Dover Athletic,1026,0,0,29,29,43,Solihull Moors,1196,-170
+League Cup ,Norwich City,1846,0,3,13,19,69,Liverpool FC,2242,-396
+League Cup ,Manchester City,2310,6,1,90,9,1,Wycombe Wanderers,1634,676
+League Cup ,Fulham FC,1842,0,0,31,29,40,Leeds United,1989,-147
+League Cup ,Queens Park Rangers,1744,2,2,20,24,56,Everton FC,2021,-277
+League Cup ,Sheffield United,1804,2,2,31,29,40,Southampton FC,1947,-143
+League Cup ,Watford FC,1886,1,3,65,21,14,Stoke City,1723,163
+League Cup ,Burnley FC,1885,4,1,84,12,4,Rochdale AFC,1473,412
+League Cup ,Wigan Athletic,1582,0,2,36,29,34,Sunderland AFC,1672,-90
+League Cup ,Preston North End,1702,4,1,69,19,12,Cheltenham Town,1496,206
+League Cup ,Brentford FC,1933,7,0,90,9,1,Oldham Athletic,1255,678
+Premier League ,Tottenham Hotspur,2068,0,3,29,29,43,Chelsea FC,2236,-168
+Premier League ,West Ham United,2076,1,2,35,29,35,Manchester United,2175,-99
+Premier League ,Brighton & Hove Albion,1953,2,1,33,29,38,Leicester City,2075,-122
+Premier League ,Manchester City,2319,0,0,82,13,5,Southampton FC,1938,381
+Premier League ,Liverpool FC,2239,3,0,79,14,7,Crystal Palace,1918,321
+Premier League ,Burnley FC,1892,0,1,25,27,48,Arsenal FC,2110,-218
+Premier League ,Aston Villa,1963,3,0,38,29,33,Everton FC,2037,-74
+Premier League ,Wolverhampton Wanderers,1949,0,2,51,26,23,Brentford FC,1912,37
+Premier League ,Norwich City,1865,1,3,46,28,26,Watford FC,1867,-2
+Championship ,Cardiff City,1765,0,1,38,29,33,AFC Bournemouth,1839,-74
+Championship ,Fulham FC,1859,1,2,67,20,13,Reading FC,1673,186
+Championship ,Preston North End,1701,1,1,32,29,38,West Bromwich Albion,1831,-130
+Championship ,Hull City,1670,1,3,33,29,37,Sheffield United,1790,-120
+Championship ,Barnsley FC,1750,0,0,51,26,23,Blackburn Rovers,1709,41
+Championship ,Luton Town,1679,3,3,38,29,32,Swansea City,1749,-70
+Championship ,Millwall FC,1697,1,1,46,28,26,Coventry City,1701,-4
+Championship ,Queens Park Rangers,1760,1,2,63,21,15,Bristol City,1615,145
+Championship ,Derby County,1604,2,1,32,29,38,Stoke City,1734,-130
+Championship ,Middlesbrough FC,1678,1,2,51,26,23,Blackpool FC,1638,40
+Championship ,Huddersfield Town,1677,0,2,53,26,21,Nottingham Forest,1620,57
+Championship ,Peterborough United,1606,3,0,42,29,29,Birmingham City,1642,-36
+League One ,Fleetwood Town,1538,2,2,32,29,39,Sunderland AFC,1673,-135
+League One ,Wycombe Wanderers,1629,2,1,55,25,20,Charlton Athletic,1554,75
+League One ,Gillingham FC,1546,1,4,47,28,26,Milton Keynes Dons,1541,5
+League One ,Accrington Stanley,1522,1,4,42,29,30,Wigan Athletic,1562,-40
+League One ,Cheltenham Town,1486,1,0,35,29,36,Oxford United,1593,-107
+League One ,Bolton Wanderers,1493,0,2,38,29,33,Rotherham United,1565,-72
+League One ,Sheffield Wednesday,1621,1,1,68,19,13,Shrewsbury Town,1430,191
+League One ,Lincoln City,1567,0,1,58,24,19,Ipswich Town,1470,97
+League One ,Crewe Alexandra,1491,2,0,41,29,30,Burton Albion,1536,-45
+League One ,AFC Wimbledon,1520,0,1,48,27,25,Plymouth Argyle,1504,16
+League One ,Portsmouth FC,1580,1,2,65,21,15,Cambridge United,1422,158
+League One ,Doncaster Rovers,1467,1,0,49,27,24,Morecambe FC,1440,27
+League Two ,Northampton Town,1453,1,1,53,25,21,Swindon Town,1394,59
+League Two ,Mansfield Town,1326,1,1,31,29,40,Rochdale AFC,1474,-148
+League Two ,Tranmere Rovers,1379,2,0,44,28,27,Salford City,1396,-17
+League Two ,Stevenage FC,1342,0,4,39,29,32,Forest Green Rovers,1405,-63
+League Two ,Port Vale FC,1374,2,0,50,26,23,Harrogate Town,1338,36
+League Two ,Exeter City,1418,2,0,62,22,16,Sutton United,1285,133
+League Two ,Bristol Rovers,1338,1,3,45,28,27,Leyton Orient,1351,-13
+League Two ,Newport County,1380,2,1,55,25,20,Walsall FC,1302,78
+League Two ,Colchester United,1337,0,1,47,28,25,Crawley Town,1330,7
+League Two ,Bradford City,1336,1,1,50,27,24,Barrow AFC,1306,30
+League Two ,Carlisle United,1359,2,2,62,22,16,Scunthorpe United,1223,136
+League Two ,Oldham Athletic,1257,0,0,43,29,29,Hartlepool United,1287,-30
+National League ,Wrexham AFC,1238,1,0,47,27,25,Dagenham & Redbridge,1229,9
+National League ,Grimsby Town,1282,2,0,61,22,16,Eastleigh FC,1154,128
+National League ,Halifax Town,1186,3,0,39,29,32,Stockport County,1249,-63
+National League ,Torquay United,1181,1,0,41,29,30,Southend United,1229,-48
+National League ,Solihull Moors,1185,3,1,45,28,27,Boreham Wood,1193,-8
+National League ,Yeovil Town,1149,0,2,38,29,33,Chesterfield FC,1223,-74
+National League ,Notts County,1260,1,0,66,20,14,Maidenhead United,1088,172
+National League ,Bromley FC,1199,2,0,68,19,13,Barnet FC,1011,188
+National League ,Wealdstone FC,966,2,2,36,29,35,Aldershot Town,1062,-96
+National League ,Weymouth FC,999,1,1,43,28,28,Dover Athletic,1024,-25
+Premier League ,Newcastle United,1906,1,1,37,29,33,Leeds United,1988,-82
+Europa Conf. League ,Stade Rennes,1875,2,2,26,28,46,Tottenham Hotspur,2071,-196
+Europa League ,Leicester City,2077,2,2,40,29,31,SSC Napoli,2134,-57
+Europa League ,Dinamo Zagreb,1968,0,2,36,29,34,West Ham United,2057,-89
+Championship ,Birmingham City,1655,1,4,27,28,45,Fulham FC,1846,-191
+Championship ,Stoke City,1737,1,1,45,28,27,Barnsley FC,1747,-10
+Championship ,Coventry City,1692,1,0,37,29,33,Cardiff City,1774,-82
+Championship ,Swansea City,1753,0,0,53,25,21,Millwall FC,1693,60
+Championship ,Nottingham Forest,1638,0,2,44,28,28,Middlesbrough FC,1660,-22
+Championship ,Bristol City,1616,1,1,39,29,32,Luton Town,1678,-62
+Champions League ,Manchester City,2312,6,3,72,18,11,RB Leipzig,2081,231
+Champions League ,Liverpool FC,2232,3,2,58,24,18,AC Milan,2134,98
+Championship ,AFC Bournemouth,1834,2,1,54,25,21,Queens Park Rangers,1765,69
+Championship ,Sheffield United,1795,2,2,58,24,18,Preston North End,1696,99
+Championship ,West Bromwich Albion,1839,0,0,73,17,10,Derby County,1596,243
+Championship ,Blackburn Rovers,1699,2,0,48,27,24,Hull City,1680,19
+Championship ,Blackpool FC,1661,0,3,47,28,25,Huddersfield Town,1654,7
+Championship ,Reading FC,1664,3,1,52,26,22,Peterborough United,1615,49
+League One ,Lincoln City,1570,1,1,47,28,25,Rotherham United,1562,8
+League Two ,Newport County,1391,0,1,40,29,31,Northampton Town,1442,-51
+League Two ,Sutton United,1277,1,0,44,28,28,Hartlepool United,1295,-18
+National League ,Grimsby Town,1272,3,1,49,27,24,Wrexham AFC,1248,24
+National League ,Boreham Wood,1196,2,2,48,27,25,Halifax Town,1183,13
+National League ,Solihull Moors,1177,2,1,45,28,27,Torquay United,1189,-12
+National League ,Maidenhead United,1102,0,2,32,29,39,Stockport County,1235,-133
+National League ,Southend United,1246,2,3,69,19,12,Aldershot Town,1045,201
+National League ,Chesterfield FC,1219,4,2,69,19,12,Barnet FC,1015,204
+National League ,Dagenham & Redbridge,1225,4,2,71,18,11,Weymouth FC,1003,222
+National League ,Notts County,1258,3,2,77,15,8,Wealdstone FC,968,290
+National League ,Eastleigh FC,1146,4,1,60,23,17,Dover Athletic,1032,114
+Champions League ,Chelsea FC,2232,1,0,69,19,12,Zenit St. Petersburg,2030,202
+Champions League ,BSC Young Boys,2038,2,1,30,29,41,Manchester United,2192,-154
+Premier League ,Everton FC,2031,3,1,62,22,16,Burnley FC,1898,133
+Premier League ,Leeds United,2000,0,3,24,27,49,Liverpool FC,2220,-220
+Championship ,Nottingham Forest,1647,1,2,33,29,37,Cardiff City,1765,-118
+Premier League ,Leicester City,2084,0,1,24,27,49,Manchester City,2305,-221
+Premier League ,Chelsea FC,2228,3,0,74,16,9,Aston Villa,1967,261
+Premier League ,Manchester United,2188,4,1,76,16,9,Newcastle United,1910,278
+Premier League ,Southampton FC,1937,0,0,33,29,37,West Ham United,2058,-121
+Premier League ,Crystal Palace,1896,3,0,26,28,46,Tottenham Hotspur,2093,-197
+Premier League ,Arsenal FC,2108,1,0,73,17,10,Norwich City,1867,241
+Premier League ,Brentford FC,1924,0,1,44,28,27,Brighton & Hove Albion,1941,-17
+Premier League ,Watford FC,1884,0,2,41,29,30,Wolverhampton Wanderers,1932,-48
+Championship ,AFC Bournemouth,1824,3,0,54,25,21,Barnsley FC,1757,67
+Championship ,West Bromwich Albion,1845,1,1,65,21,15,Millwall FC,1687,158
+Championship ,Blackpool FC,1648,1,0,25,27,48,Fulham FC,1859,-211
+Championship ,Swansea City,1758,0,0,56,24,20,Hull City,1675,83
+Championship ,Reading FC,1664,3,3,35,29,35,Queens Park Rangers,1765,-101
+Championship ,Sheffield United,1788,6,2,65,20,14,Peterborough United,1622,166
+Championship ,Stoke City,1732,2,1,55,25,20,Huddersfield Town,1659,73
+Championship ,Blackburn Rovers,1703,2,2,50,27,24,Luton Town,1674,29
+Championship ,Coventry City,1682,2,0,48,27,25,Middlesbrough FC,1670,12
+Championship ,Bristol City,1617,0,0,38,29,33,Preston North End,1695,-78
+League One ,Oxford United,1595,0,0,43,29,29,Wycombe Wanderers,1627,-32
+League One ,Sunderland AFC,1669,2,1,63,22,16,Accrington Stanley,1526,143
+League One ,Plymouth Argyle,1484,3,0,30,29,41,Sheffield Wednesday,1641,-157
+League One ,Milton Keynes Dons,1532,1,0,40,29,31,Portsmouth FC,1589,-57
+League One ,Rotherham United,1584,2,4,54,25,21,Fleetwood Town,1516,68
+League One ,Burton Albion,1539,1,1,46,28,26,Gillingham FC,1543,-4
+League One ,Charlton Athletic,1569,1,2,58,24,18,Cheltenham Town,1471,98
+League One ,Wigan Athletic,1557,2,1,56,24,19,Doncaster Rovers,1472,85
+League One ,Cambridge United,1440,1,5,34,29,37,Lincoln City,1552,-112
+League One ,Ipswich Town,1493,2,5,49,27,24,Bolton Wanderers,1470,23
+League One ,Morecambe FC,1451,3,4,40,29,31,AFC Wimbledon,1509,-58
+League One ,Shrewsbury Town,1431,1,1,40,29,31,Crewe Alexandra,1490,-59
+League Two ,Rochdale AFC,1469,1,0,56,24,19,Tranmere Rovers,1384,85
+League Two ,Forest Green Rovers,1396,1,0,40,29,31,Northampton Town,1451,-55
+League Two ,Swindon Town,1408,1,2,52,26,22,Port Vale FC,1360,48
+League Two ,Salford City,1390,1,0,52,26,22,Bradford City,1342,48
+League Two ,Crawley Town,1322,2,1,41,29,30,Carlisle United,1367,-45
+League Two ,Scunthorpe United,1238,0,4,29,29,42,Exeter City,1403,-165
+League Two ,Hartlepool United,1286,1,0,39,29,31,Bristol Rovers,1347,-61
+League Two ,Walsall FC,1289,3,1,41,29,30,Mansfield Town,1339,-50
+League Two ,Sutton United,1267,2,1,37,29,34,Stevenage FC,1352,-85
+League Two ,Leyton Orient,1341,4,0,55,25,20,Oldham Athletic,1267,74
+National League ,Torquay United,1206,1,3,41,29,30,Grimsby Town,1255,-49
+National League ,Halifax Town,1168,3,1,36,29,35,Southend United,1261,-93
+National League ,Bromley FC,1213,2,3,50,27,23,Boreham Wood,1182,31
+National League ,Stockport County,1263,0,3,63,22,16,Yeovil Town,1121,142
+National League ,Wrexham AFC,1245,1,0,71,18,11,Woking FC,1020,225
+National League ,Weymouth FC,999,1,1,21,25,54,Notts County,1262,-263
+National League ,Dover Athletic,1029,0,0,27,28,46,Chesterfield FC,1222,-193
+National League ,Aldershot Town,1055,1,2,34,29,37,Solihull Moors,1167,-112
+National League ,Kings Lynn,971,1,2,22,26,52,Dagenham & Redbridge,1219,-248
+National League ,Barnet FC,1014,1,1,32,29,39,Eastleigh FC,1147,-133
+National League ,Wealdstone FC,957,1,0,33,29,37,Altrincham FC,1077,-120
+Championship ,Birmingham City,1646,2,0,51,26,23,Derby County,1605,41
+League Two ,Harrogate Town,1339,2,2,40,29,31,Newport County,1390,-51
+League Two ,Barrow AFC,1319,2,3,46,28,26,Colchester United,1324,-5
+League One ,Bolton Wanderers,1471,0,0,39,29,32,Burton Albion,1538,-67
+League One ,AFC Wimbledon,1493,3,1,33,29,37,Oxford United,1611,-118
+League One ,Cheltenham Town,1472,1,1,40,29,31,Milton Keynes Dons,1531,-59
+League One ,Accrington Stanley,1521,1,0,56,24,19,Shrewsbury Town,1436,85
+League Two ,Port Vale FC,1370,2,3,36,29,34,Rochdale AFC,1459,-89
+League Two ,Exeter City,1406,0,0,48,27,25,Forest Green Rovers,1393,13
+League Two ,Stevenage FC,1353,1,1,40,29,31,Swindon Town,1407,-54
+League Two ,Carlisle United,1359,2,1,42,29,29,Salford City,1398,-39
+League Two ,Newport County,1394,2,2,53,26,21,Leyton Orient,1337,57
+League Two ,Northampton Town,1447,2,0,69,19,12,Scunthorpe United,1242,205
+League Two ,Mansfield Town,1360,1,3,51,26,23,Harrogate Town,1318,42
+League Two ,Tranmere Rovers,1379,1,0,57,24,19,Hartlepool United,1291,88
+League Two ,Bristol Rovers,1340,1,0,48,27,25,Crawley Town,1329,11
+League Two ,Bradford City,1346,1,1,53,25,21,Walsall FC,1285,61
+League Two ,Oldham Athletic,1289,0,3,45,28,27,Barrow AFC,1297,-8
+National League ,Southend United,1264,2,2,49,27,24,Wrexham AFC,1242,22
+National League ,Boreham Wood,1183,0,0,37,29,33,Stockport County,1262,-79
+National League ,Chesterfield FC,1225,2,2,48,27,25,Bromley FC,1210,15
+National League ,Notts County,1259,3,2,69,19,12,Aldershot Town,1058,201
+National League ,Maidenhead United,1112,3,4,37,29,34,Torquay United,1196,-84
+National League ,Yeovil Town,1112,1,0,39,29,32,Halifax Town,1177,-65
+National League ,Grimsby Town,1252,4,3,72,17,10,Barnet FC,1017,235
+National League ,Dagenham & Redbridge,1227,2,2,76,16,9,Wealdstone FC,949,278
+National League ,Solihull Moors,1184,3,4,69,19,12,Weymouth FC,982,202
+National League ,Eastleigh FC,1154,3,3,68,19,13,Kings Lynn,964,190
+National League ,Altrincham FC,1071,3,2,50,26,23,Dover Athletic,1035,36
+National League ,Stockport County,1265,0,0,48,27,25,Grimsby Town,1249,16
+National League ,Wrexham AFC,1244,1,1,45,28,27,Notts County,1257,-13
+National League ,Bromley FC,1199,3,0,50,27,23,Eastleigh FC,1165,34
+National League ,Halifax Town,1170,2,0,57,24,19,Altrincham FC,1078,92
+National League ,Barnet FC,1028,0,2,27,28,45,Dagenham & Redbridge,1216,-188
+National League ,Dover Athletic,1044,0,1,32,29,38,Boreham Wood,1174,-130
+National League ,Torquay United,1229,0,4,73,17,10,Woking FC,987,242
+National League ,Wealdstone FC,943,0,0,17,22,61,Southend United,1270,-327
+National League ,Kings Lynn,973,0,2,23,26,51,Chesterfield FC,1216,-243
+National League ,Aldershot Town,1070,1,2,43,29,29,Yeovil Town,1100,-30
+National League ,Weymouth FC,964,3,1,29,29,42,Maidenhead United,1130,-166
+Premier League ,Wolverhampton Wanderers,1938,0,1,23,26,52,Manchester United,2182,-244
+Premier League ,Tottenham Hotspur,2090,1,0,69,19,12,Watford FC,1887,203
+Premier League ,Burnley FC,1898,1,1,35,29,35,Leeds United,2000,-102
+Premier League ,Liverpool FC,2223,1,1,46,28,26,Chelsea FC,2225,-2
+Premier League ,Manchester City,2298,5,0,67,20,13,Arsenal FC,2115,183
+Premier League ,Brighton & Hove Albion,1958,0,2,40,29,31,Everton FC,2014,-56
+Premier League ,West Ham United,2065,2,2,66,20,14,Crystal Palace,1889,176
+Premier League ,Norwich City,1874,1,2,26,28,47,Leicester City,2077,-203
+Premier League ,Aston Villa,1971,1,1,52,26,22,Brentford FC,1920,51
+Premier League ,Newcastle United,1912,2,2,44,28,28,Southampton FC,1935,-23
+Championship ,Fulham FC,1851,3,0,59,23,18,Stoke City,1740,111
+Championship ,Hull City,1674,0,0,30,29,41,AFC Bournemouth,1825,-151
+Championship ,Peterborough United,1629,0,1,25,27,47,West Bromwich Albion,1838,-209
+Championship ,Luton Town,1674,0,0,34,29,37,Sheffield United,1788,-114
+Championship ,Preston North End,1680,3,1,36,29,35,Swansea City,1773,-93
+Championship ,Queens Park Rangers,1757,2,0,54,25,21,Coventry City,1690,67
+Championship ,Barnsley FC,1763,1,1,61,23,17,Birmingham City,1640,123
+Championship ,Cardiff City,1782,1,2,67,20,13,Bristol City,1600,182
+Championship ,Middlesbrough FC,1672,1,1,43,29,29,Blackburn Rovers,1701,-29
+Championship ,Millwall FC,1681,2,1,49,27,24,Blackpool FC,1654,27
+Championship ,Huddersfield Town,1644,4,0,42,29,29,Reading FC,1679,-35
+Championship ,Derby County,1607,1,1,42,29,29,Nottingham Forest,1645,-38
+League One ,Sunderland AFC,1659,3,1,49,27,24,Wycombe Wanderers,1637,22
+League One ,Oxford United,1602,3,1,51,26,23,Lincoln City,1561,41
+League One ,Wigan Athletic,1548,1,0,41,29,30,Portsmouth FC,1598,-50
+League One ,Morecambe FC,1438,1,0,25,27,48,Sheffield Wednesday,1654,-216
+League One ,Charlton Athletic,1560,2,0,53,25,21,Crewe Alexandra,1499,61
+League One ,Rotherham United,1577,2,0,58,24,18,Doncaster Rovers,1479,98
+League One ,Milton Keynes Dons,1520,2,0,45,28,27,Accrington Stanley,1532,-12
+League One ,Plymouth Argyle,1486,1,1,43,29,28,Fleetwood Town,1514,-28
+League One ,Ipswich Town,1496,2,2,47,28,25,AFC Wimbledon,1490,6
+League One ,Shrewsbury Town,1425,2,1,32,29,38,Gillingham FC,1554,-129
+League One ,Cambridge United,1431,1,0,41,29,30,Bolton Wanderers,1480,-49
+League Two ,Salford City,1384,3,0,43,28,28,Newport County,1408,-24
+League Two ,Crawley Town,1328,0,0,33,29,37,Northampton Town,1448,-120
+League Two ,Swindon Town,1401,1,0,50,27,23,Mansfield Town,1366,35
+League Two ,Forest Green Rovers,1415,0,2,54,25,21,Port Vale FC,1348,67
+League Two ,Harrogate Town,1318,1,1,37,29,34,Exeter City,1406,-88
+League Two ,Leyton Orient,1325,2,0,42,29,29,Bradford City,1358,-33
+League Two ,Hartlepool United,1281,2,1,37,29,34,Carlisle United,1369,-88
+League Two ,Walsall FC,1275,1,0,37,29,34,Stevenage FC,1363,-88
+League Two ,Barrow AFC,1299,1,1,42,29,29,Bristol Rovers,1338,-39
+League Two ,Scunthorpe United,1230,1,0,29,29,42,Tranmere Rovers,1391,-161
+League Two ,Sutton United,1280,1,2,47,28,26,Oldham Athletic,1276,4
+National League ,Southend United,1284,0,1,50,27,23,Stockport County,1251,33
+National League ,Notts County,1261,1,1,50,26,23,Torquay United,1225,36
+National League ,Dagenham & Redbridge,1205,4,2,46,28,26,Bromley FC,1210,-5
+National League ,Eastleigh FC,1182,0,2,41,29,30,Wrexham AFC,1227,-45
+National League ,Boreham Wood,1169,1,0,57,24,19,Aldershot Town,1075,94
+National League ,Grimsby Town,1247,1,0,76,16,8,Weymouth FC,966,281
+National League ,Solihull Moors,1190,1,1,66,20,14,Barnet FC,1022,168
+National League ,Maidenhead United,1122,2,0,55,25,20,Dover Athletic,1052,70
+National League ,Chesterfield FC,1213,2,0,75,16,9,Wealdstone FC,946,267
+National League ,Woking FC,995,2,3,29,29,43,Halifax Town,1162,-167
+National League ,Yeovil Town,1116,1,2,65,21,15,Kings Lynn,957,159
+League One ,Burton Albion,1543,1,1,55,25,20,Cheltenham Town,1467,76
+League Two ,Rochdale AFC,1465,1,1,63,21,15,Colchester United,1318,147
+Europa Conf. League q. ,Tottenham Hotspur,2088,3,0,82,12,5,Paços de Ferreira,1705,383
+League Cup ,West Bromwich Albion,1847,0,6,21,25,53,Arsenal FC,2106,-259
+League Cup ,Newcastle United,1914,0,0,48,27,25,Burnley FC,1896,18
+League Cup ,Newport County,1411,0,8,7,14,79,Southampton FC,1932,-521
+League Two ,Leyton Orient,1346,0,2,52,26,22,Harrogate Town,1297,49
+League Cup ,Watford FC,1881,1,0,45,28,27,Crystal Palace,1895,-14
+League Cup ,Cardiff City,1791,0,2,30,29,42,Brighton & Hove Albion,1949,-158
+League Cup ,Norwich City,1864,6,0,50,27,24,AFC Bournemouth,1835,29
+League Cup ,Huddersfield Town,1647,1,2,14,20,65,Everton FC,2011,-364
+League Cup ,Nottingham Forest,1652,0,4,20,24,56,Wolverhampton Wanderers,1931,-279
+League Cup ,Leeds United,1999,3,0,87,10,3,Crewe Alexandra,1500,499
+League Cup ,Birmingham City,1648,0,2,26,28,46,Fulham FC,1843,-195
+League Cup ,Sheffield United,1785,2,1,66,20,14,Derby County,1610,175
+League Cup ,Queens Park Rangers,1753,2,0,63,21,15,Oxford United,1606,147
+League Cup ,Brentford FC,1919,3,1,87,10,3,Forest Green Rovers,1416,503
+League Cup ,Blackpool FC,1664,2,3,48,27,25,Sunderland AFC,1649,15
+League Cup ,Barrow AFC,1300,0,6,3,10,87,Aston Villa,1970,-670
+League Cup ,Swansea City,1770,4,1,76,16,8,Plymouth Argyle,1489,281
+League Cup ,Stoke City,1737,2,0,74,17,10,Doncaster Rovers,1482,255
+League Cup ,Morecambe FC,1445,2,4,24,27,50,Preston North End,1673,-228
+League Cup ,Millwall FC,1678,3,1,73,17,10,Cambridge United,1434,244
+League Cup ,Wigan Athletic,1552,0,0,55,25,20,Bolton Wanderers,1476,76
+League Cup ,Gillingham FC,1558,1,1,57,24,19,Cheltenham Town,1463,95
+League Cup ,Stevenage FC,1359,2,2,20,24,56,Wycombe Wanderers,1641,-282
+League Cup ,Northampton Town,1457,0,1,43,28,28,AFC Wimbledon,1481,-24
+League Cup ,Shrewsbury Town,1439,0,2,45,28,27,Rochdale AFC,1451,-12
+League Cup ,Oldham Athletic,1273,0,0,21,25,54,Accrington Stanley,1535,-262
+Premier League ,West Ham United,2050,4,1,41,29,30,Leicester City,2092,-42
+Premier League ,Arsenal FC,2122,0,2,37,29,34,Chelsea FC,2209,-87
+Premier League ,Southampton FC,1928,1,1,21,25,53,Manchester United,2186,-258
+Premier League ,Wolverhampton Wanderers,1940,0,1,31,29,39,Tottenham Hotspur,2079,-139
+Premier League ,Manchester City,2296,5,0,85,11,4,Norwich City,1866,430
+Premier League ,Liverpool FC,2221,2,0,79,14,7,Burnley FC,1898,323
+Premier League ,Leeds United,2002,2,2,46,28,27,Everton FC,2008,-6
+Premier League ,Aston Villa,1961,2,0,51,26,23,Newcastle United,1923,38
+Premier League ,Brighton & Hove Albion,1940,2,0,52,26,22,Watford FC,1890,50
+Premier League ,Crystal Palace,1897,0,0,44,28,28,Brentford FC,1917,-20
+Championship ,Blackburn Rovers,1710,1,2,33,29,38,West Bromwich Albion,1838,-128
+Championship ,Fulham FC,1837,2,0,64,21,15,Hull City,1680,157
+Championship ,Queens Park Rangers,1756,2,2,46,28,26,Barnsley FC,1760,-4
+Championship ,AFC Bournemouth,1842,2,2,67,20,13,Blackpool FC,1657,185
+Championship ,Cardiff City,1784,3,1,58,24,18,Millwall FC,1685,99
+Championship ,Sheffield United,1802,1,2,66,20,14,Huddersfield Town,1630,172
+Championship ,Stoke City,1732,1,0,55,25,20,Nottingham Forest,1657,75
+Championship ,Coventry City,1683,2,1,46,28,26,Reading FC,1686,-3
+Championship ,Luton Town,1704,0,5,56,24,19,Birmingham City,1618,86
+Championship ,Preston North End,1667,1,0,50,27,23,Peterborough United,1635,32
+Championship ,Derby County,1611,0,0,39,29,31,Middlesbrough FC,1671,-60
+League One ,Rotherham United,1595,0,2,42,29,30,Sheffield Wednesday,1636,-41
+League One ,Wycombe Wanderers,1635,1,0,54,25,21,Lincoln City,1567,68
+League One ,Sunderland AFC,1645,1,0,65,21,15,AFC Wimbledon,1485,160
+League One ,Charlton Athletic,1581,0,2,52,26,22,Wigan Athletic,1531,50
+League One ,Bolton Wanderers,1465,2,1,30,29,41,Oxford United,1617,-152
+League One ,Doncaster Rovers,1481,0,0,33,29,37,Portsmouth FC,1599,-118
+League One ,Crewe Alexandra,1513,0,1,45,28,27,Accrington Stanley,1522,-9
+League One ,Ipswich Town,1498,2,2,44,28,28,Milton Keynes Dons,1518,-20
+League One ,Gillingham FC,1553,2,1,58,23,18,Morecambe FC,1450,103
+League One ,Fleetwood Town,1508,3,2,51,26,23,Cheltenham Town,1469,39
+League One ,Cambridge United,1414,3,0,31,29,40,Burton Albion,1563,-149
+League One ,Shrewsbury Town,1461,0,3,46,28,27,Plymouth Argyle,1467,-6
+League Two ,Northampton Town,1478,1,3,52,26,22,Rochdale AFC,1430,48
+League Two ,Tranmere Rovers,1404,0,1,47,28,25,Newport County,1398,6
+League Two ,Salford City,1397,0,1,47,27,25,Swindon Town,1388,9
+League Two ,Exeter City,1395,4,1,52,26,22,Bristol Rovers,1349,46
+League Two ,Forest Green Rovers,1406,6,3,54,25,21,Crawley Town,1338,68
+League Two ,Mansfield Town,1380,2,3,50,26,23,Bradford City,1344,36
+League Two ,Carlisle United,1373,1,1,50,27,23,Leyton Orient,1342,31
+League Two ,Stevenage FC,1362,1,1,48,27,25,Port Vale FC,1345,17
+League Two ,Harrogate Town,1289,2,1,44,28,28,Barrow AFC,1308,-19
+League Two ,Oldham Athletic,1285,1,2,44,28,28,Colchester United,1306,-21
+League Two ,Hartlepool United,1270,2,0,44,28,27,Walsall FC,1286,-16
+League Two ,Scunthorpe United,1232,1,1,41,29,30,Sutton United,1278,-46
+National League ,Stockport County,1274,1,3,57,24,19,Dagenham & Redbridge,1182,92
+National League ,Torquay United,1250,1,3,69,19,12,Altrincham FC,1053,197
+National League ,Aldershot Town,1090,0,2,34,29,36,Chesterfield FC,1198,-108
+National League ,Halifax Town,1177,1,2,55,25,20,Maidenhead United,1107,70
+National League ,Barnet FC,1036,0,5,25,27,48,Notts County,1247,-211
+National League ,Kings Lynn,961,0,1,17,22,60,Southend United,1280,-319
+National League ,Weymouth FC,978,0,2,28,28,44,Boreham Wood,1157,-179
+National League ,Wealdstone FC,958,1,2,43,28,28,Woking FC,983,-25
+Championship ,Bristol City,1608,0,1,30,29,41,Swansea City,1762,-154
+Europa Conf. League q. ,Paços de Ferreira,1713,1,0,14,20,67,Tottenham Hotspur,2091,-378
+Championship ,West Bromwich Albion,1825,4,0,47,27,25,Sheffield United,1815,10
+Championship ,Birmingham City,1629,0,2,26,28,47,AFC Bournemouth,1831,-202
+Championship ,Middlesbrough FC,1682,2,3,39,29,32,Queens Park Rangers,1745,-63
+Championship ,Nottingham Forest,1669,1,2,43,29,29,Blackburn Rovers,1698,-29
+Championship ,Hull City,1695,0,1,58,24,18,Derby County,1596,99
+Championship ,Millwall FC,1694,1,2,32,29,39,Fulham FC,1828,-134
+Championship ,Swansea City,1784,1,3,55,25,20,Stoke City,1710,74
+Championship ,Barnsley FC,1775,0,1,56,24,19,Luton Town,1689,86
+Championship ,Peterborough United,1634,2,2,30,29,41,Cardiff City,1785,-151
+Championship ,Blackpool FC,1670,0,1,46,28,26,Coventry City,1670,0
+Championship ,Huddersfield Town,1621,1,0,40,29,31,Preston North End,1676,-55
+Championship ,Reading FC,1701,2,3,59,23,18,Bristol City,1593,108
+League One ,Burton Albion,1553,1,0,35,29,35,Sunderland AFC,1655,-102
+League One ,Wigan Athletic,1531,1,1,35,29,36,Wycombe Wanderers,1635,-104
+League One ,Sheffield Wednesday,1632,1,0,60,23,17,Fleetwood Town,1512,120
+League One ,Oxford United,1612,1,0,57,24,19,Crewe Alexandra,1518,94
+League One ,Milton Keynes Dons,1508,2,1,37,29,34,Charlton Athletic,1591,-83
+League One ,Portsmouth FC,1595,1,0,61,22,16,Shrewsbury Town,1465,130
+League One ,Morecambe FC,1459,0,1,33,29,38,Rotherham United,1586,-127
+League One ,AFC Wimbledon,1486,1,1,39,29,32,Gillingham FC,1552,-66
+League One ,Lincoln City,1583,0,1,62,22,16,Bolton Wanderers,1449,134
+League One ,Accrington Stanley,1516,1,0,50,27,24,Doncaster Rovers,1487,29
+League One ,Cheltenham Town,1461,2,1,41,29,30,Ipswich Town,1506,-45
+League One ,Plymouth Argyle,1471,1,1,53,25,21,Cambridge United,1410,61
+League Two ,Rochdale AFC,1444,1,2,52,26,22,Forest Green Rovers,1392,52
+League Two ,Swindon Town,1390,0,0,45,28,27,Tranmere Rovers,1402,-12
+League Two ,Crawley Town,1329,2,1,38,29,33,Salford City,1406,-77
+League Two ,Port Vale FC,1347,0,0,43,28,28,Carlisle United,1371,-24
+League Two ,Bradford City,1329,4,1,41,29,30,Stevenage FC,1377,-48
+League Two ,Barrow AFC,1308,0,0,37,29,34,Exeter City,1395,-87
+League Two ,Colchester United,1307,1,1,38,29,33,Mansfield Town,1379,-72
+League Two ,Bristol Rovers,1343,1,0,52,26,22,Oldham Athletic,1291,52
+League Two ,Walsall FC,1290,1,1,54,25,21,Scunthorpe United,1228,62
+Premier League ,Tottenham Hotspur,2077,1,0,23,26,50,Manchester City,2310,-233
+Premier League ,Newcastle United,1938,2,4,36,29,35,West Ham United,2035,-97
+Premier League ,Manchester United,2179,5,1,66,20,14,Leeds United,2009,170
+Premier League ,Chelsea FC,2206,3,0,78,15,8,Crystal Palace,1900,306
+Premier League ,Norwich City,1873,0,3,16,21,63,Liverpool FC,2214,-341
+Premier League ,Leicester City,2088,1,0,63,21,15,Wolverhampton Wanderers,1944,144
+Premier League ,Everton FC,2000,3,1,54,25,21,Southampton FC,1936,64
+Premier League ,Watford FC,1880,3,2,36,29,34,Aston Villa,1971,-91
+Premier League ,Burnley FC,1910,1,2,44,28,28,Brighton & Hove Albion,1928,-18
+Championship ,Swansea City,1786,0,0,43,29,28,Sheffield United,1813,-27
+Championship ,West Bromwich Albion,1821,3,2,61,22,16,Luton Town,1693,128
+Championship ,Nottingham Forest,1678,1,2,31,29,40,AFC Bournemouth,1822,-144
+Championship ,Blackpool FC,1686,0,2,37,29,34,Cardiff City,1769,-83
+Championship ,Huddersfield Town,1636,1,5,28,28,44,Fulham FC,1813,-177
+Championship ,Barnsley FC,1770,1,0,57,24,19,Coventry City,1675,95
+Championship ,Hull City,1717,0,3,46,28,27,Queens Park Rangers,1723,-6
+Championship ,Millwall FC,1697,1,1,46,28,26,Blackburn Rovers,1695,2
+Championship ,Reading FC,1694,2,1,48,27,25,Preston North End,1683,11
+Championship ,Birmingham City,1630,0,0,37,29,33,Stoke City,1709,-79
+Championship ,Middlesbrough FC,1677,2,1,56,25,20,Bristol City,1598,79
+Championship ,Peterborough United,1627,2,1,49,27,24,Derby County,1603,24
+League One ,Oxford United,1605,2,1,47,28,25,Charlton Athletic,1598,7
+League One ,Milton Keynes Dons,1517,1,2,32,29,38,Sunderland AFC,1646,-129
+League One ,Sheffield Wednesday,1626,2,0,62,22,16,Doncaster Rovers,1493,133
+League One ,Wigan Athletic,1522,1,0,38,29,33,Rotherham United,1595,-73
+League One ,Portsmouth FC,1586,2,0,53,25,21,Crewe Alexandra,1527,59
+League One ,Cheltenham Town,1474,1,3,31,29,40,Wycombe Wanderers,1622,-148
+League One ,Lincoln City,1577,2,1,53,25,21,Fleetwood Town,1518,59
+League One ,Burton Albion,1547,2,1,50,27,23,Ipswich Town,1512,35
+League One ,Plymouth Argyle,1461,1,0,35,29,35,Gillingham FC,1562,-101
+League One ,AFC Wimbledon,1490,3,3,52,26,22,Bolton Wanderers,1445,45
+League One ,Accrington Stanley,1511,2,1,58,24,19,Cambridge United,1415,96
+League One ,Morecambe FC,1447,2,0,43,29,29,Shrewsbury Town,1477,-30
+League Two ,Colchester United,1315,0,1,30,29,41,Northampton Town,1470,-155
+League Two ,Mansfield Town,1371,2,1,42,29,29,Newport County,1406,-35
+League Two ,Swindon Town,1404,1,2,52,26,22,Carlisle United,1357,47
+League Two ,Port Vale FC,1348,0,0,40,29,31,Tranmere Rovers,1401,-53
+League Two ,Leyton Orient,1325,3,0,37,29,34,Exeter City,1412,-87
+League Two ,Bristol Rovers,1362,0,2,47,28,26,Stevenage FC,1358,4
+League Two ,Salford City,1412,0,0,63,22,16,Sutton United,1272,140
+League Two ,Walsall FC,1306,1,3,38,29,32,Forest Green Rovers,1376,-70
+League Two ,Rochdale AFC,1451,0,0,72,18,11,Scunthorpe United,1221,230
+League Two ,Bradford City,1322,2,1,49,27,24,Oldham Athletic,1298,24
+League Two ,Barrow AFC,1301,3,2,49,27,24,Hartlepool United,1277,24
+Premier League ,Brentford FC,1896,2,0,22,26,52,Arsenal FC,2143,-247
+League Cup ,Blackpool FC,1676,3,0,45,28,27,Middlesbrough FC,1687,-11
+League Cup ,Burton Albion,1548,1,1,40,29,31,Oxford United,1604,-56
+League Cup ,Coventry City,1688,1,2,72,18,11,Northampton Town,1457,231
+League Cup ,Leyton Orient,1320,1,1,12,18,70,Queens Park Rangers,1728,-408
+League Cup ,Nottingham Forest,1677,2,1,81,13,6,Bradford City,1323,354
+Supercup ,Chelsea FC,2210,1,1,46,28,26,Villarreal CF,2110,100
+League Cup ,Reading FC,1709,0,3,39,29,32,Swansea City,1771,-62
+League Cup ,Millwall FC,1693,2,1,58,23,18,Portsmouth FC,1590,103
+League Cup ,Hull City,1722,1,1,69,19,12,Wigan Athletic,1517,205
+League Cup ,Stoke City,1707,2,1,68,19,13,Fleetwood Town,1520,187
+League Cup ,Bolton Wanderers,1441,0,0,16,22,62,Barnsley FC,1774,-333
+League Cup ,Sheffield United,1812,1,0,86,11,4,Carlisle United,1358,454
+League Cup ,Blackburn Rovers,1708,1,2,75,16,9,Morecambe FC,1434,274
+League Cup ,Rotherham United,1606,1,2,59,23,18,Accrington Stanley,1500,106
+League Cup ,Charlton Athletic,1610,0,1,62,22,16,AFC Wimbledon,1478,132
+League Cup ,Peterborough United,1651,0,4,70,18,12,Plymouth Argyle,1437,214
+League Cup ,Mansfield Town,1377,0,3,18,23,58,Preston North End,1677,-300
+League Cup ,Shrewsbury Town,1477,2,2,35,29,35,Lincoln City,1577,-100
+League Cup ,Stevenage FC,1353,2,2,15,21,63,Luton Town,1698,-345
+League Cup ,Cardiff City,1769,3,2,87,10,3,Sutton United,1272,497
+League Cup ,Exeter City,1410,0,0,25,27,48,Wycombe Wanderers,1624,-214
+League Cup ,Derby County,1608,3,3,69,19,12,Salford City,1407,201
+League Cup ,Port Vale FC,1352,1,2,19,24,57,Sunderland AFC,1642,-290
+League Cup ,Forest Green Rovers,1373,2,2,24,27,50,Bristol City,1601,-228
+League Cup ,Birmingham City,1629,1,0,78,14,7,Colchester United,1316,313
+League Cup ,Ipswich Town,1524,0,1,61,22,16,Newport County,1394,130
+League Cup ,Crawley Town,1326,2,2,23,26,51,Gillingham FC,1565,-239
+League Cup ,Bristol Rovers,1374,0,2,37,29,34,Cheltenham Town,1462,-88
+League Cup ,Cambridge United,1417,0,0,48,27,25,Swindon Town,1402,15
+League Cup ,Hartlepool United,1282,0,1,23,26,51,Crewe Alexandra,1522,-240
+League Cup ,Walsall FC,1304,0,0,27,28,45,Doncaster Rovers,1495,-191
+League Cup ,Oldham Athletic,1298,2,2,35,29,36,Tranmere Rovers,1401,-103
+League Cup ,Barrow AFC,1297,1,0,55,25,20,Scunthorpe United,1225,72
+Championship ,Fulham FC,1819,1,1,62,22,16,Middlesbrough FC,1681,138
+Championship ,Coventry City,1681,2,1,46,28,26,Nottingham Forest,1684,-3
+Championship ,Cardiff City,1772,1,1,46,28,26,Barnsley FC,1771,1
+Championship ,Blackburn Rovers,1699,2,1,37,29,33,Swansea City,1780,-81
+Championship ,Sheffield United,1829,0,1,71,18,11,Birmingham City,1612,217
+Championship ,Queens Park Rangers,1732,1,1,51,26,23,Millwall FC,1689,43
+Championship ,Stoke City,1699,3,2,44,28,28,Reading FC,1717,-18
+Championship ,Preston North End,1699,1,4,46,28,26,Hull City,1700,-1
+Championship ,Luton Town,1687,3,0,49,27,24,Peterborough United,1662,25
+Championship ,Bristol City,1602,1,1,38,29,33,Blackpool FC,1675,-73
+Championship ,Derby County,1610,1,1,43,28,28,Huddersfield Town,1634,-24
+League One ,Charlton Athletic,1612,0,0,45,28,27,Sheffield Wednesday,1624,-12
+League One ,Sunderland AFC,1638,2,1,60,23,17,Wigan Athletic,1521,117
+League One ,Gillingham FC,1568,1,1,46,28,27,Lincoln City,1574,-6
+League One ,Wycombe Wanderers,1619,2,1,60,23,17,Accrington Stanley,1505,114
+League One ,Fleetwood Town,1531,0,1,41,29,30,Portsmouth FC,1579,-48
+League One ,Rotherham United,1600,2,0,64,21,15,Plymouth Argyle,1443,157
+League One ,Shrewsbury Town,1489,0,1,41,29,30,Burton Albion,1536,-47
+League One ,Cambridge United,1414,1,1,27,28,46,Oxford United,1607,-193
+League One ,Crewe Alexandra,1526,1,1,54,25,21,Cheltenham Town,1458,68
+League One ,Doncaster Rovers,1509,1,2,52,26,22,AFC Wimbledon,1464,45
+League One ,Bolton Wanderers,1442,3,3,38,29,33,Milton Keynes Dons,1516,-74
+League One ,Ipswich Town,1529,2,2,58,24,18,Morecambe FC,1429,100
+League Two ,Northampton Town,1452,1,0,57,24,19,Port Vale FC,1357,95
+League Two ,Mansfield Town,1370,2,1,45,28,27,Bristol Rovers,1381,-11
+League Two ,Harrogate Town,1277,3,2,27,28,45,Rochdale AFC,1463,-186
+League Two ,Exeter City,1415,0,0,58,24,19,Bradford City,1318,97
+League Two ,Salford City,1412,1,1,58,24,19,Leyton Orient,1315,97
+League Two ,Tranmere Rovers,1396,1,0,57,24,19,Walsall FC,1309,87
+League Two ,Oldham Athletic,1309,0,1,38,29,33,Newport County,1383,-74
+League Two ,Carlisle United,1362,0,0,52,26,22,Colchester United,1312,50
+League Two ,Stevenage FC,1347,1,0,51,26,22,Barrow AFC,1303,44
+League Two ,Forest Green Rovers,1368,2,1,57,24,19,Sutton United,1277,91
+League Two ,Scunthorpe United,1238,1,3,30,29,41,Swindon Town,1389,-151
+League Two ,Hartlepool United,1273,1,0,39,29,32,Crawley Town,1335,-62
+Community Shield ,Leicester City,2072,1,0,15,21,64,Manchester City,2326,-254
+Championship ,AFC Bournemouth,1825,2,2,47,28,25,West Bromwich Albion,1818,7
+League Cup ,Sheffield Wednesday,1626,0,0,46,28,27,Huddersfield Town,1632,-6
+League Cup ,AFC Bournemouth,1822,5,0,78,15,8,Milton Keynes Dons,1519,303
+Wales League Cup ,Llanelli Town,856,5,0,6,13,81,Newport County,1411,-555
